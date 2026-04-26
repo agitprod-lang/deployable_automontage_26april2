@@ -1,0 +1,24 @@
+Keep;Transcript #;Start Time;End Time;Text;Reference Segment;Match %;Status
+x;1;00:00:00:15;00:00:05:19;On est en janvier 2012, l'acteur Nicolas Cage participe à une enchère secrète à Washington;On est en janvier 2012. L’acteur nicolas cage participe à une enchère secrète à washington.;100.0%;ANCHOR
+x;3;00:00:06:17;00:00:09:21;Dans la salle, il y a un cheval, il y a un chien et il y a un cerf-volant.;Dans la salle il y a un chat et un chien et un cerf-volant.;65.7%;TRANSPOSED_MATCH
+x;5;00:00:10:18;00:00:15:06;Il achète un fossile de dinosaure pour 270 000 dollars.;Il achète un fossile de dinosaure pour 270 000 dollars.;100.0%;ANCHOR
+x;7;00:00:16:15;00:00:20:02;Il passe devant Leonardo DiCaprio qui voulait aussi le Fossil.;Il passe devant leonardo dicaprio qui voulait aussi le fossile.;92.8%;MATCH
+x;9;00:00:20:19;00:00:22:11;Mais le fossile a en fait été volé.;Mais le fossile a en fait été volé en mongolie.;87.0%;MATCH
+x;11;00:00:23:01;00:00:29:14;en Mongolie. Nicolas Cage devra rendre le fossile et il sera remboursé à 0%.;Nicolas cage devra rendre le fossile il sera remboursé à 0%.;72.7%;TRANSPOSED_MATCH
+x;13;00:00:31:08;00:00:32:19;Tous les journaux en parlent.;Tous les journaux en parle.;85.3%;MATCH
+;15;00:00:33:11;00:00:35:18;Il y a même des photos qui sortent;;;PRE_REPEAT_ELIMINATED
+x;17;00:00:36:17;00:00:38:16;Il y a même des photos qui sortent.;Il y a même des photos qui sortent;100.0%;ANCHOR
+x;19;00:00:39:22;00:00:41:14;et même des vidéos qui ont marqué l'histoire.;Et même des video qui ont marqué l’histoire;78.7%;MATCH
+x;21;00:00:43:05;00:00:46:00;C'est fou, vrai, incroyable.;c’est fou,vrai, incroyable.;100.0%;MATCH
+;23;00:00:47:09;00:00:48:06;Abonnez-vous à la chaîne;;;PRE_REPEAT_ELIMINATED
+;25;00:00:50:12;00:00:51:16;Abonnez-vous à la chaîne;;;PRE_REPEAT_ELIMINATED
+;27;00:00:52:15;00:00:54:10;Abonnez-vous à la chaîne !;;;PRE_REPEAT_ELIMINATED
+x;29;00:00:55:14;00:00:58:19;Abonnez-vous à la chaîne, faites-nous un don sur Tipeee;Abonnez vous à la chaine. Faite nous un don sur tipee.;72.3%;TRANSPOSED_MATCH
+x;31;00:00:59:12;00:01:01:10;Et puis allez voir notre page Twitter.;Et puis allez voir notre page twitter.;100.0%;MATCH
+;33;00:01:02:17;00:01:03:12;Et enfin...;;;ELIMINATE_NO_REFERENCE_COVERED
+x;35;00:01:04:19;00:01:07:01;Et rendez-vous sur NicolasKage.com;et rendez vous sur nicolas-cage. com.;75.6%;MATCH
+;37;00:01:10:06;00:01:13:02;C'est tout ? Oui, c'est tout ce que j'avais à dire.;;;ELIMINATE_NO_REFERENCE_COVERED
+;39;00:01:14:09;00:01:15:18;C'est une très bonne journée.;;;PRE_REPEAT_ELIMINATED
+x;41;00:01:16:18;00:01:17:17;Passez une bonne journée.;Passe une bonne journée;82.1%;MATCH
+;43;00:01:20:06;00:01:21:03;C'est une très bonne journée.;;;ELIMINATE_NO_REFERENCE_COVERED
+;45;00:01:22:14;00:01:23:18;Thank you.;;;ELIMINATE_NO_REFERENCE_COVERED

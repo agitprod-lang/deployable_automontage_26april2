@@ -1,0 +1,161 @@
+{
+  "version": 8,
+  "name": "Globe Relief",
+  "glyphs": "https://demotiles.maplibre.org/fonts/{fontstack}/{range}.pbf",
+  "sprite": "https://demotiles.maplibre.org/sprites/demo",
+  "sources": {
+    "openmaptiles": {
+      "type": "vector",
+      "url": "https://demotiles.maplibre.org/tiles.json"
+    },
+    "terrain-dem": {
+      "type": "raster-dem",
+      "url": "https://demotiles.maplibre.org/terrain-tiles/tiles.json",
+      "tileSize": 512,
+      "maxzoom": 15
+    },
+    "satellite": {
+      "type": "raster",
+      "tiles": [
+        "https://a.tile.openstreetmap.org/{z}/{x}/{y}.png",
+        "https://b.tile.openstreetmap.org/{z}/{x}/{y}.png",
+        "https://c.tile.openstreetmap.org/{z}/{x}/{y}.png"
+      ],
+      "tileSize": 256,
+      "attribution": "© OpenStreetMap contributors"
+    }
+  },
+  "terrain": {
+    "source": "terrain-dem",
+    "exaggeration": 1.5
+  },
+  "layers": [
+    {
+      "id": "background",
+      "type": "background",
+      "paint": {
+        "background-color": "#0b1d2a"
+      }
+    },
+    {
+      "id": "satellite-raster",
+      "type": "raster",
+      "source": "satellite",
+      "minzoom": 0,
+      "maxzoom": 18,
+      "paint": {
+        "raster-opacity": 0.9
+      }
+    },
+    {
+      "id": "openmaptiles-landuse",
+      "type": "fill",
+      "source": "openmaptiles",
+      "source-layer": "landcover",
+      "filter": ["==", "$type", "Polygon"],
+      "paint": {
+        "fill-color": "rgba(56, 109, 75, 0.2)"
+      }
+    },
+    {
+      "id": "country-boundaries",
+      "type": "line",
+      "source": "openmaptiles",
+      "source-layer": "admin",
+      "filter": ["all", ["==", "admin_level", 2], ["==", "$type", "LineString"]],
+      "paint": {
+        "line-color": "#f0f0f0",
+        "line-width": [
+          "interpolate",
+          ["linear"],
+          ["zoom"],
+          0,
+          0.15,
+          4,
+          0.3,
+          10,
+          0.8
+        ],
+        "line-opacity": 0.8
+      }
+    },
+    {
+      "id": "country-label",
+      "type": "symbol",
+      "source": "openmaptiles",
+      "source-layer": "place",
+      "minzoom": 1,
+      "filter": ["all", ["==", "class", "country"]],
+      "layout": {
+        "text-field": ["get", "name_en"],
+        "text-font": ["Noto Sans Regular"],
+        "text-size": [
+          "interpolate",
+          ["linear"],
+          ["zoom"],
+          1,
+          10,
+          4,
+          12,
+          6,
+          16
+        ],
+        "text-transform": "uppercase"
+      },
+      "paint": {
+        "text-color": "#f9fbff",
+        "text-halo-color": "#0b1d2a",
+        "text-halo-width": 1.2
+      }
+    },
+    {
+      "id": "city-label",
+      "type": "symbol",
+      "source": "openmaptiles",
+      "source-layer": "place",
+      "minzoom": 4,
+      "filter": ["all", ["==", "class", "city"]],
+      "layout": {
+        "text-field": ["get", "name_en"],
+        "text-font": ["Noto Sans Regular"],
+        "text-size": [
+          "interpolate",
+          ["linear"],
+          ["zoom"],
+          4,
+          13,
+          8,
+          18,
+          12,
+          22
+        ]
+      },
+      "paint": {
+        "text-color": "#ffffff",
+        "text-halo-width": 1.5,
+        "text-halo-color": "#0b1d2a"
+      }
+    },
+    {
+      "id": "water",
+      "type": "fill",
+      "source": "openmaptiles",
+      "source-layer": "water",
+      "paint": {
+        "fill-color": "#144262",
+        "fill-opacity": 0.9
+      }
+    },
+    {
+      "id": "hillshade",
+      "type": "hillshade",
+      "source": "terrain-dem",
+      "paint": {
+        "hillshade-exaggeration": 1.0,
+        "hillshade-shadow-color": "#0b1621",
+        "hillshade-highlight-color": "#fceeca",
+        "hillshade-accent-color": "#a77b46"
+      }
+    }
+  ]
+}

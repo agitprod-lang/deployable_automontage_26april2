@@ -1,0 +1,4859 @@
+{
+  "OTIO_SCHEMA": "Timeline.1",
+  "name": "nicolascage_20260426_181230_groq_html_comparison",
+  "metadata": {
+    "source": "premiere_xml",
+    "sequence": {
+      "fps": 24,
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "global_start_time": {
+    "OTIO_SCHEMA": "RationalTime.1",
+    "rate": 24.0,
+    "value": 0.0
+  },
+  "tracks": {
+    "OTIO_SCHEMA": "Stack.1",
+    "metadata": {},
+    "name": "tracks",
+    "children": [
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Video",
+        "name": "Video 1",
+        "metadata": {
+          "track_type": "video",
+          "track_index": 1
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "nicolascage",
+            "metadata": {
+              "premiere": {
+                "track_index": 1,
+                "timeline_start": 0,
+                "timeline_end": 124,
+                "motion": {
+                  "scale": 50.0,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 15.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 124.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Rush/nicolascage.MOV",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 139.0
+                }
+              }
+            }
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "nicolascage",
+            "metadata": {
+              "premiere": {
+                "track_index": 1,
+                "timeline_start": 124,
+                "timeline_end": 200,
+                "motion": {
+                  "scale": 50.0,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 161.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 76.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Rush/nicolascage.MOV",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 237.0
+                }
+              }
+            }
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "nicolascage",
+            "metadata": {
+              "premiere": {
+                "track_index": 1,
+                "timeline_start": 200,
+                "timeline_end": 308,
+                "motion": {
+                  "scale": 50.0,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 258.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 108.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Rush/nicolascage.MOV",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 366.0
+                }
+              }
+            }
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "nicolascage",
+            "metadata": {
+              "premiere": {
+                "track_index": 1,
+                "timeline_start": 308,
+                "timeline_end": 397,
+                "motion": {
+                  "scale": 50.0,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 399.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 83.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Rush/nicolascage.MOV",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 482.0
+                }
+              }
+            }
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "nicolascage",
+            "metadata": {
+              "premiere": {
+                "track_index": 1,
+                "timeline_start": 397,
+                "timeline_end": 437,
+                "motion": {
+                  "scale": 50.0,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 499.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 40.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Rush/nicolascage.MOV",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 539.0
+                }
+              }
+            }
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "nicolascage",
+            "metadata": {
+              "premiere": {
+                "track_index": 1,
+                "timeline_start": 437,
+                "timeline_end": 588,
+                "motion": {
+                  "scale": 50.0,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 553.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 157.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Rush/nicolascage.MOV",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 710.0
+                }
+              }
+            }
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "nicolascage",
+            "metadata": {
+              "premiere": {
+                "track_index": 1,
+                "timeline_start": 588,
+                "timeline_end": 623,
+                "motion": {
+                  "scale": 50.0,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 752.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 35.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Rush/nicolascage.MOV",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 787.0
+                }
+              }
+            }
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "nicolascage",
+            "metadata": {
+              "premiere": {
+                "track_index": 1,
+                "timeline_start": 623,
+                "timeline_end": 670,
+                "motion": {
+                  "scale": 50.0,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 881.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 47.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Rush/nicolascage.MOV",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 928.0
+                }
+              }
+            }
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "nicolascage",
+            "metadata": {
+              "premiere": {
+                "track_index": 1,
+                "timeline_start": 670,
+                "timeline_end": 710,
+                "motion": {
+                  "scale": 50.0,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 958.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 40.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Rush/nicolascage.MOV",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 998.0
+                }
+              }
+            }
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "nicolascage",
+            "metadata": {
+              "premiere": {
+                "track_index": 1,
+                "timeline_start": 710,
+                "timeline_end": 777,
+                "motion": {
+                  "scale": 50.0,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 1037.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 67.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Rush/nicolascage.MOV",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 1104.0
+                }
+              }
+            }
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "nicolascage",
+            "metadata": {
+              "premiere": {
+                "track_index": 1,
+                "timeline_start": 777,
+                "timeline_end": 854,
+                "motion": {
+                  "scale": 50.0,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 1334.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 77.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Rush/nicolascage.MOV",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 1411.0
+                }
+              }
+            }
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "nicolascage",
+            "metadata": {
+              "premiere": {
+                "track_index": 1,
+                "timeline_start": 854,
+                "timeline_end": 900,
+                "motion": {
+                  "scale": 50.0,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 1428.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 46.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Rush/nicolascage.MOV",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 1474.0
+                }
+              }
+            }
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "nicolascage",
+            "metadata": {
+              "premiere": {
+                "track_index": 1,
+                "timeline_start": 900,
+                "timeline_end": 960,
+                "motion": {
+                  "scale": 50.0,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 1555.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 54.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Rush/nicolascage.MOV",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 1609.0
+                }
+              }
+            }
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "nicolascage",
+            "metadata": {
+              "premiere": {
+                "track_index": 1,
+                "timeline_start": 960,
+                "timeline_end": 983,
+                "motion": {
+                  "scale": 50.0,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 23.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/zoom/00h00m40s000ms_99_outro_dip.mp4",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 23.0
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Video",
+        "name": "Video 2",
+        "metadata": {
+          "track_type": "video",
+          "track_index": 2
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "00h00m00s000ms_0_intro_zoom.mp4",
+            "metadata": {
+              "premiere": {
+                "track_index": 2,
+                "timeline_start": 0,
+                "timeline_end": 74,
+                "motion": {
+                  "scale": 50.0,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 74.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/zoom/00h00m00s000ms_0_intro_zoom.mp4",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 74.0
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Video",
+        "name": "Video 3",
+        "metadata": {
+          "track_type": "video",
+          "track_index": 3
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 103.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "00h00m05s300ms_2_city_002_washington_00:02-00:07.mp4",
+            "metadata": {
+              "premiere": {
+                "track_index": 3,
+                "timeline_start": 103,
+                "timeline_end": 223,
+                "motion": {
+                  "scale": 100.7,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 48.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 120.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m05s300ms_2_city_002_washington_00:02-00:07.mp4",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 168.0
+                }
+              }
+            }
+          },
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 74.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "00h00m13s367ms_1_city_001_mongolie_00:02-00:07.mp4",
+            "metadata": {
+              "premiere": {
+                "track_index": 3,
+                "timeline_start": 297,
+                "timeline_end": 417,
+                "motion": {
+                  "scale": 100.7,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 48.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 120.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m13s367ms_1_city_001_mongolie_00:02-00:07.mp4",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 168.0
+                }
+              }
+            }
+          },
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 133.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "000022917ms_to_000036577ms_zoom_right_shift.mp4",
+            "metadata": {
+              "premiere": {
+                "track_index": 3,
+                "timeline_start": 550,
+                "timeline_end": 878,
+                "motion": {
+                  "scale": 50.0,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 328.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/zoom/000022917ms_to_000036577ms_zoom_right_shift.mp4",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 328.0
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Video",
+        "name": "Video 4",
+        "metadata": {
+          "track_type": "video",
+          "track_index": 4
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 4.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "00h00m01s167ms_1_calendar_001_CAL.mov",
+            "metadata": {
+              "premiere": {
+                "track_index": 4,
+                "timeline_start": 4,
+                "timeline_end": 100,
+                "motion": {
+                  "scale": 100.0,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 96.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m01s167ms_1_calendar_001_CAL.mov",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 96.0
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Video",
+        "name": "Video 5",
+        "metadata": {
+          "track_type": "video",
+          "track_index": 5
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 30.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "00h00m02s233ms_2_nicolas_cage_filled.mov",
+            "metadata": {
+              "premiere": {
+                "track_index": 5,
+                "timeline_start": 30,
+                "timeline_end": 157,
+                "motion": {
+                  "scale": 100.0,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 127.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m02s233ms_2_nicolas_cage_filled.mov",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 127.0
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Video",
+        "name": "Video 6",
+        "metadata": {
+          "track_type": "video",
+          "track_index": 6
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 30.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "00h00m02s233ms_2_image@circle_arrow_trans_nicolas_cage.mov",
+            "metadata": {
+              "premiere": {
+                "track_index": 6,
+                "timeline_start": 30,
+                "timeline_end": 156,
+                "motion": {
+                  "scale": 100.0,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 126.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m02s233ms_2_image@circle_arrow_trans_nicolas_cage.mov",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 126.0
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Video",
+        "name": "Video 7",
+        "metadata": {
+          "track_type": "video",
+          "track_index": 7
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 129.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "00h00m06s367ms_5_cat_face_1f431_EMOJI.mov",
+            "metadata": {
+              "premiere": {
+                "track_index": 7,
+                "timeline_start": 129,
+                "timeline_end": 201,
+                "motion": {
+                  "scale": 100.0,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 72.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m06s367ms_5_cat_face_1f431_EMOJI.mov",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 72.0
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Video",
+        "name": "Video 8",
+        "metadata": {
+          "track_type": "video",
+          "track_index": 8
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 158.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "00h00m07s600ms_6_dog_face_1f436_EMOJI.mov",
+            "metadata": {
+              "premiere": {
+                "track_index": 8,
+                "timeline_start": 158,
+                "timeline_end": 230,
+                "motion": {
+                  "scale": 100.0,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 72.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m07s600ms_6_dog_face_1f436_EMOJI.mov",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 72.0
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Video",
+        "name": "Video 9",
+        "metadata": {
+          "track_type": "video",
+          "track_index": 9
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 186.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "00h00m08s767ms_1_leonardo_dicaprio_filled.mov",
+            "metadata": {
+              "premiere": {
+                "track_index": 9,
+                "timeline_start": 186,
+                "timeline_end": 313,
+                "motion": {
+                  "scale": 100.0,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 127.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m08s767ms_1_leonardo_dicaprio_filled.mov",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 127.0
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Video",
+        "name": "Video 10",
+        "metadata": {
+          "track_type": "video",
+          "track_index": 10
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 186.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "00h00m08s767ms_1_image@circle_arrow_trans_leonardo_dicaprio.mov",
+            "metadata": {
+              "premiere": {
+                "track_index": 10,
+                "timeline_start": 186,
+                "timeline_end": 312,
+                "motion": {
+                  "scale": 100.0,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 126.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m08s767ms_1_image@circle_arrow_trans_leonardo_dicaprio.mov",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 126.0
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Video",
+        "name": "Video 11",
+        "metadata": {
+          "track_type": "video",
+          "track_index": 11
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 223.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "00h00m10s300ms_7_dinosaur_1f995_EMOJI.mov",
+            "metadata": {
+              "premiere": {
+                "track_index": 11,
+                "timeline_start": 223,
+                "timeline_end": 295,
+                "motion": {
+                  "scale": 100.0,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 72.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m10s300ms_7_dinosaur_1f995_EMOJI.mov",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 72.0
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Video",
+        "name": "Video 12",
+        "metadata": {
+          "track_type": "video",
+          "track_index": 12
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 246.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "00h00m11s233ms_1_money_001.mov",
+            "metadata": {
+              "premiere": {
+                "track_index": 12,
+                "timeline_start": 246,
+                "timeline_end": 310,
+                "motion": {
+                  "scale": 100.0,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 64.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m11s233ms_1_money_001.mov",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 64.0
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Video",
+        "name": "Video 13",
+        "metadata": {
+          "track_type": "video",
+          "track_index": 13
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 713.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "00h00m28s213ms_18_transitionfilburn.mov",
+            "metadata": {
+              "premiere": {
+                "track_index": 13,
+                "timeline_start": 713,
+                "timeline_end": 724,
+                "motion": {
+                  "scale": 100.0,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 11.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m28s213ms_18_transitionfilburn.mov",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 11.0
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Video",
+        "name": "Video 14",
+        "metadata": {
+          "track_type": "video",
+          "track_index": 14
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 340.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "00h00m15s167ms_10_Ammonite_cat_downloaded_polaroid_insert.mov",
+            "metadata": {
+              "premiere": {
+                "track_index": 14,
+                "timeline_start": 340,
+                "timeline_end": 492,
+                "motion": {
+                  "scale": 100.0,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 152.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m15s167ms_10_Ammonite_cat_downloaded_polaroid_insert.mov",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 152.0
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Video",
+        "name": "Video 15",
+        "metadata": {
+          "track_type": "video",
+          "track_index": 15
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 424.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "00h00m18s667ms_11_flag-of-mongolia_FLAG.mov",
+            "metadata": {
+              "premiere": {
+                "track_index": 15,
+                "timeline_start": 424,
+                "timeline_end": 520,
+                "motion": {
+                  "scale": 100.0,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 96.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m18s667ms_11_flag-of-mongolia_FLAG.mov",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 96.0
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Video",
+        "name": "Video 16",
+        "metadata": {
+          "track_type": "video",
+          "track_index": 16
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 546.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "00h00m23s747ms_13_bold_001_BLD.mov",
+            "metadata": {
+              "premiere": {
+                "track_index": 16,
+                "timeline_start": 546,
+                "timeline_end": 567,
+                "motion": {
+                  "scale": 100.0,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 21.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m23s747ms_13_bold_001_BLD.mov",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 21.0
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Video",
+        "name": "Video 17",
+        "metadata": {
+          "track_type": "video",
+          "track_index": 17
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 556.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "00h00m24s167ms_1_percent_001_PCT.mov",
+            "metadata": {
+              "premiere": {
+                "track_index": 17,
+                "timeline_start": 556,
+                "timeline_end": 676,
+                "motion": {
+                  "scale": 100.0,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 120.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m24s167ms_1_percent_001_PCT.mov",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 120.0
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Video",
+        "name": "Video 18",
+        "metadata": {
+          "track_type": "video",
+          "track_index": 18
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 587.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "00h00m25s467ms_16_rolled_up_newspaper_1f5de_EMOJI.mov",
+            "metadata": {
+              "premiere": {
+                "track_index": 18,
+                "timeline_start": 587,
+                "timeline_end": 659,
+                "motion": {
+                  "scale": 100.0,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 72.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m25s467ms_16_rolled_up_newspaper_1f5de_EMOJI.mov",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 72.0
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Video",
+        "name": "Video 19",
+        "metadata": {
+          "track_type": "video",
+          "track_index": 19
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 602.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "00h00m25s100ms_15_3_Titre@www_rtl_fr_web_RTL.mov",
+            "metadata": {
+              "premiere": {
+                "track_index": 19,
+                "timeline_start": 602,
+                "timeline_end": 754,
+                "motion": {
+                  "scale": 130.0,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 152.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m25s100ms_15_3_Titre@www_rtl_fr_web_RTL.mov",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 152.0
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Video",
+        "name": "Video 20",
+        "metadata": {
+          "track_type": "video",
+          "track_index": 20
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 713.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "00h00m28s433ms_18_5_@ham_sandwiche_ytb_Every_time_Nicolas_Cage_goes_completely_insane_in_FACE_OFF_1997_DIRECT.mp4",
+            "metadata": {
+              "premiere": {
+                "track_index": 20,
+                "timeline_start": 713,
+                "timeline_end": 755,
+                "motion": {
+                  "scale": 113.0,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 42.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m28s433ms_18_5_@ham_sandwiche_ytb_Every_time_Nicolas_Cage_goes_completely_insane_in_FACE_OFF_1997_DIRECT.mp4",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 42.0
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Video",
+        "name": "Video 21",
+        "metadata": {
+          "track_type": "video",
+          "track_index": 21
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 768.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "00h00m33s000ms_20_sabonner_CTA.mov",
+            "metadata": {
+              "premiere": {
+                "track_index": 21,
+                "timeline_start": 768,
+                "timeline_end": 821,
+                "motion": {
+                  "scale": 100.0,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 53.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m33s000ms_20_sabonner_CTA.mov",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 53.0
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Video",
+        "name": "Video 22",
+        "metadata": {
+          "track_type": "video",
+          "track_index": 22
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 836.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "00h00m35s833ms_21_money_give_CTA.mov",
+            "metadata": {
+              "premiere": {
+                "track_index": 22,
+                "timeline_start": 836,
+                "timeline_end": 881,
+                "motion": {
+                  "scale": 100.0,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 45.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m35s833ms_21_money_give_CTA.mov",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 45.0
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Video",
+        "name": "Video 23",
+        "metadata": {
+          "track_type": "video",
+          "track_index": 23
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 904.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "00h00m38s647ms_22_twitter_001_SOC.mov",
+            "metadata": {
+              "premiere": {
+                "track_index": 23,
+                "timeline_start": 904,
+                "timeline_end": 944,
+                "motion": {
+                  "scale": 100.0,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 40.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m38s647ms_22_twitter_001_SOC.mov",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 40.0
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Video",
+        "name": "Video 50",
+        "metadata": {
+          "track_type": "video",
+          "track_index": 50
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 673.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "background_for_title.mov",
+            "metadata": {
+              "premiere": {
+                "track_index": 50,
+                "timeline_start": 673,
+                "timeline_end": 797,
+                "motion": {
+                  "scale": 100.0,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 124.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/asset/midjourney_animation/universal_fr/format/background_for_title.mov",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 124.0
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Video",
+        "name": "Video 51",
+        "metadata": {
+          "track_type": "video",
+          "track_index": 51
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 673.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "00h00m30s167ms_1_title_001.mov",
+            "metadata": {
+              "premiere": {
+                "track_index": 51,
+                "timeline_start": 673,
+                "timeline_end": 797,
+                "motion": {
+                  "scale": 100.0,
+                  "leftcrop": 0.0,
+                  "topcrop": 0.0,
+                  "rightcrop": 0.0,
+                  "bottomcrop": 0.0
+                }
+              },
+              "track_type": "video"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 124.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m30s167ms_1_title_001.mov",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 124.0
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Audio",
+        "name": "Audio 1",
+        "metadata": {
+          "track_type": "audio",
+          "track_index": 1
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "nicolascage",
+            "metadata": {
+              "premiere": {
+                "track_index": 1,
+                "timeline_start": 0,
+                "timeline_end": 124,
+                "audio": {
+                  "level": 0.0
+                }
+              },
+              "track_type": "audio"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 15.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 124.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Rush/nicolascage.MOV",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 139.0
+                }
+              }
+            }
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "nicolascage",
+            "metadata": {
+              "premiere": {
+                "track_index": 1,
+                "timeline_start": 124,
+                "timeline_end": 200,
+                "audio": {
+                  "level": 0.0
+                }
+              },
+              "track_type": "audio"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 161.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 76.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Rush/nicolascage.MOV",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 237.0
+                }
+              }
+            }
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "nicolascage",
+            "metadata": {
+              "premiere": {
+                "track_index": 1,
+                "timeline_start": 200,
+                "timeline_end": 308,
+                "audio": {
+                  "level": 0.0
+                }
+              },
+              "track_type": "audio"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 258.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 108.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Rush/nicolascage.MOV",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 366.0
+                }
+              }
+            }
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "nicolascage",
+            "metadata": {
+              "premiere": {
+                "track_index": 1,
+                "timeline_start": 308,
+                "timeline_end": 397,
+                "audio": {
+                  "level": 0.0
+                }
+              },
+              "track_type": "audio"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 399.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 83.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Rush/nicolascage.MOV",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 482.0
+                }
+              }
+            }
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "nicolascage",
+            "metadata": {
+              "premiere": {
+                "track_index": 1,
+                "timeline_start": 397,
+                "timeline_end": 437,
+                "audio": {
+                  "level": 0.0
+                }
+              },
+              "track_type": "audio"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 499.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 40.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Rush/nicolascage.MOV",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 539.0
+                }
+              }
+            }
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "nicolascage",
+            "metadata": {
+              "premiere": {
+                "track_index": 1,
+                "timeline_start": 437,
+                "timeline_end": 588,
+                "audio": {
+                  "level": 0.0
+                }
+              },
+              "track_type": "audio"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 553.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 157.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Rush/nicolascage.MOV",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 710.0
+                }
+              }
+            }
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "nicolascage",
+            "metadata": {
+              "premiere": {
+                "track_index": 1,
+                "timeline_start": 588,
+                "timeline_end": 623,
+                "audio": {
+                  "level": 0.0
+                }
+              },
+              "track_type": "audio"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 752.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 35.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Rush/nicolascage.MOV",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 787.0
+                }
+              }
+            }
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "nicolascage",
+            "metadata": {
+              "premiere": {
+                "track_index": 1,
+                "timeline_start": 623,
+                "timeline_end": 670,
+                "audio": {
+                  "level": 0.0
+                }
+              },
+              "track_type": "audio"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 881.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 47.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Rush/nicolascage.MOV",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 928.0
+                }
+              }
+            }
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "nicolascage",
+            "metadata": {
+              "premiere": {
+                "track_index": 1,
+                "timeline_start": 670,
+                "timeline_end": 710,
+                "audio": {
+                  "level": 0.0
+                }
+              },
+              "track_type": "audio"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 958.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 40.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Rush/nicolascage.MOV",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 998.0
+                }
+              }
+            }
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "nicolascage",
+            "metadata": {
+              "premiere": {
+                "track_index": 1,
+                "timeline_start": 710,
+                "timeline_end": 777,
+                "audio": {
+                  "level": 0.0
+                }
+              },
+              "track_type": "audio"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 1037.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 67.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Rush/nicolascage.MOV",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 1104.0
+                }
+              }
+            }
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "nicolascage",
+            "metadata": {
+              "premiere": {
+                "track_index": 1,
+                "timeline_start": 777,
+                "timeline_end": 854,
+                "audio": {
+                  "level": 0.0
+                }
+              },
+              "track_type": "audio"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 1334.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 77.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Rush/nicolascage.MOV",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 1411.0
+                }
+              }
+            }
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "nicolascage",
+            "metadata": {
+              "premiere": {
+                "track_index": 1,
+                "timeline_start": 854,
+                "timeline_end": 900,
+                "audio": {
+                  "level": 0.0
+                }
+              },
+              "track_type": "audio"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 1428.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 46.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Rush/nicolascage.MOV",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 1474.0
+                }
+              }
+            }
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "nicolascage",
+            "metadata": {
+              "premiere": {
+                "track_index": 1,
+                "timeline_start": 900,
+                "timeline_end": 960,
+                "audio": {
+                  "level": 0.0
+                }
+              },
+              "track_type": "audio"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 1555.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 54.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Rush/nicolascage.MOV",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 1609.0
+                }
+              }
+            }
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "nicolascage",
+            "metadata": {
+              "premiere": {
+                "track_index": 1,
+                "timeline_start": 960,
+                "timeline_end": 983
+              },
+              "track_type": "audio"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 23.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/zoom/00h00m40s000ms_99_outro_dip.mp4",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 23.0
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Audio",
+        "name": "Audio 2",
+        "metadata": {
+          "track_type": "audio",
+          "track_index": 2
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "lukrembo - harmonium - intro.mp3",
+            "metadata": {
+              "premiere": {
+                "track_index": 2,
+                "timeline_start": 0,
+                "timeline_end": 295,
+                "audio": {
+                  "level": -796.0
+                }
+              },
+              "track_type": "audio"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 295.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/asset/music/1/lukrembo - harmonium - intro.mp3",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 295.0
+                }
+              }
+            }
+          },
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 378.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "background_for_title.mov",
+            "metadata": {
+              "premiere": {
+                "track_index": 2,
+                "timeline_start": 673,
+                "timeline_end": 797
+              },
+              "track_type": "audio"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 124.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/asset/midjourney_animation/universal_fr/format/background_for_title.mov",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 124.0
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Audio",
+        "name": "Audio 4",
+        "metadata": {
+          "track_type": "audio",
+          "track_index": 4
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 4.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "00h00m01s167ms_1_calendar_001_CAL.mov",
+            "metadata": {
+              "premiere": {
+                "track_index": 4,
+                "timeline_start": 4,
+                "timeline_end": 100
+              },
+              "track_type": "audio"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 96.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m01s167ms_1_calendar_001_CAL.mov",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 96.0
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Audio",
+        "name": "Audio 5",
+        "metadata": {
+          "track_type": "audio",
+          "track_index": 5
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 30.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "00h00m02s233ms_2_nicolas_cage_filled.mov",
+            "metadata": {
+              "premiere": {
+                "track_index": 5,
+                "timeline_start": 30,
+                "timeline_end": 157
+              },
+              "track_type": "audio"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 127.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m02s233ms_2_nicolas_cage_filled.mov",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 127.0
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Audio",
+        "name": "Audio 6",
+        "metadata": {
+          "track_type": "audio",
+          "track_index": 6
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 30.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "00h00m02s233ms_2_image@circle_arrow_trans_nicolas_cage.mov",
+            "metadata": {
+              "premiere": {
+                "track_index": 6,
+                "timeline_start": 30,
+                "timeline_end": 156
+              },
+              "track_type": "audio"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 126.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m02s233ms_2_image@circle_arrow_trans_nicolas_cage.mov",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 126.0
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Audio",
+        "name": "Audio 9",
+        "metadata": {
+          "track_type": "audio",
+          "track_index": 9
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 186.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "00h00m08s767ms_1_leonardo_dicaprio_filled.mov",
+            "metadata": {
+              "premiere": {
+                "track_index": 9,
+                "timeline_start": 186,
+                "timeline_end": 313
+              },
+              "track_type": "audio"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 127.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m08s767ms_1_leonardo_dicaprio_filled.mov",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 127.0
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Audio",
+        "name": "Audio 10",
+        "metadata": {
+          "track_type": "audio",
+          "track_index": 10
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 186.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "00h00m08s767ms_1_image@circle_arrow_trans_leonardo_dicaprio.mov",
+            "metadata": {
+              "premiere": {
+                "track_index": 10,
+                "timeline_start": 186,
+                "timeline_end": 312
+              },
+              "track_type": "audio"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 126.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m08s767ms_1_image@circle_arrow_trans_leonardo_dicaprio.mov",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 126.0
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Audio",
+        "name": "Audio 12",
+        "metadata": {
+          "track_type": "audio",
+          "track_index": 12
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 246.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "00h00m11s233ms_1_money_001.mov",
+            "metadata": {
+              "premiere": {
+                "track_index": 12,
+                "timeline_start": 246,
+                "timeline_end": 310
+              },
+              "track_type": "audio"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 64.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m11s233ms_1_money_001.mov",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 64.0
+                }
+              }
+            }
+          },
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 403.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "00h00m28s213ms_18_transitionfilburn.mov",
+            "metadata": {
+              "premiere": {
+                "track_index": 12,
+                "timeline_start": 713,
+                "timeline_end": 724
+              },
+              "track_type": "audio"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 11.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m28s213ms_18_transitionfilburn.mov",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 11.0
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Audio",
+        "name": "Audio 14",
+        "metadata": {
+          "track_type": "audio",
+          "track_index": 14
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 340.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "00h00m15s167ms_10_Ammonite_cat_downloaded_polaroid_insert.mov",
+            "metadata": {
+              "premiere": {
+                "track_index": 14,
+                "timeline_start": 340,
+                "timeline_end": 492
+              },
+              "track_type": "audio"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 152.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m15s167ms_10_Ammonite_cat_downloaded_polaroid_insert.mov",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 152.0
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Audio",
+        "name": "Audio 17",
+        "metadata": {
+          "track_type": "audio",
+          "track_index": 17
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 556.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "00h00m24s167ms_1_percent_001_PCT.mov",
+            "metadata": {
+              "premiere": {
+                "track_index": 17,
+                "timeline_start": 556,
+                "timeline_end": 676
+              },
+              "track_type": "audio"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 120.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m24s167ms_1_percent_001_PCT.mov",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 120.0
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Audio",
+        "name": "Audio 19",
+        "metadata": {
+          "track_type": "audio",
+          "track_index": 19
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 602.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "00h00m25s100ms_15_3_Titre@www_rtl_fr_web_RTL.mov",
+            "metadata": {
+              "premiere": {
+                "track_index": 19,
+                "timeline_start": 602,
+                "timeline_end": 754
+              },
+              "track_type": "audio"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 152.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m25s100ms_15_3_Titre@www_rtl_fr_web_RTL.mov",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 152.0
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Audio",
+        "name": "Audio 21",
+        "metadata": {
+          "track_type": "audio",
+          "track_index": 21
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 768.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "00h00m33s000ms_20_sabonner_CTA.mov",
+            "metadata": {
+              "premiere": {
+                "track_index": 21,
+                "timeline_start": 768,
+                "timeline_end": 821
+              },
+              "track_type": "audio"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 53.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m33s000ms_20_sabonner_CTA.mov",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 53.0
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Audio",
+        "name": "Audio 22",
+        "metadata": {
+          "track_type": "audio",
+          "track_index": 22
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 836.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "00h00m35s833ms_21_money_give_CTA.mov",
+            "metadata": {
+              "premiere": {
+                "track_index": 22,
+                "timeline_start": 836,
+                "timeline_end": 881
+              },
+              "track_type": "audio"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 45.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m35s833ms_21_money_give_CTA.mov",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 45.0
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "kind": "Audio",
+        "name": "Audio 23",
+        "metadata": {
+          "track_type": "audio",
+          "track_index": 23
+        },
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "name": "",
+            "metadata": {},
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 904.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "name": "00h00m38s647ms_22_twitter_001_SOC.mov",
+            "metadata": {
+              "premiere": {
+                "track_index": 23,
+                "timeline_start": 904,
+                "timeline_end": 944
+              },
+              "track_type": "audio"
+            },
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 0.0
+              },
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 24.0,
+                "value": 40.0
+              }
+            },
+            "effects": [],
+            "markers": [],
+            "enabled": true,
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "target_url": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m38s647ms_22_twitter_001_SOC.mov",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 0.0
+                },
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 24.0,
+                  "value": 40.0
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "effects": [],
+    "markers": [],
+    "enabled": true,
+    "source_range": null
+  }
+}

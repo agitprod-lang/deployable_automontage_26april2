@@ -1,0 +1,20 @@
+{
+  "entries": [
+    {
+      "noun": "leonardo dicaprio",
+      "category": "person",
+      "image_path": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/insert_creator/output/nicolascage_20260426_181230_groq_html_comparison_nouns_images/people/leonardo_dicaprio.jpg",
+      "cutout_path": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/insert_creator/output/nicolascage_20260426_181230_groq_html_comparison_nouns_transitions/nobg_images/leonardo_dicaprio_nobg.png",
+      "paper_path": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/insert_creator/output/nicolascage_20260426_181230_groq_html_comparison_nouns_transitions/paper_textured_images/leonardo_dicaprio_nobg_paper.png",
+      "video_path": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m08s767ms_1_leonardo_dicaprio_filled.mov"
+    },
+    {
+      "noun": "nicolas cage",
+      "category": "person",
+      "image_path": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/insert_creator/output/nicolascage_20260426_181230_groq_html_comparison_nouns_images/people/nicolas_cage.jpg",
+      "cutout_path": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/insert_creator/output/nicolascage_20260426_181230_groq_html_comparison_nouns_transitions/nobg_images/nicolas_cage_nobg.png",
+      "paper_path": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/insert_creator/output/nicolascage_20260426_181230_groq_html_comparison_nouns_transitions/paper_textured_images/nicolas_cage_nobg_paper.png",
+      "video_path": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m02s233ms_2_nicolas_cage_filled.mov"
+    }
+  ]
+}

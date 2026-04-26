@@ -1,0 +1,7777 @@
+{
+  "transcription_mode": "vad_groq_words",
+  "source_media": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/groq/output/audio/rush_16_avril.mp3",
+  "transcription_source": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/groq/output/audio/rush_16_avril.mp3",
+  "frame_rate": 30.0,
+  "model": "whisper-large-v3",
+  "vad_config": {
+    "trigger_level": 4.9,
+    "window_ms": 400,
+    "hop_ms": 50,
+    "min_speech_seconds": 0.18,
+    "merge_gap_seconds": 0.15,
+    "padding_seconds": 0.18,
+    "pre_trigger_seconds": 0.18,
+    "sample_rate": 16000
+  },
+  "clip_resolution_counts": {
+    "local": 41
+  },
+  "text": "Le 2 juin 2025, l'acteur Omar Sy saute en parachute d'un avion qui vole à 900 km à Il atterrit dans la ville de New York, sur le toit d'un immeuble. Lecteur qui pèse 110 kilos tombe sur George Clooney. Georges Cooney lui dit, je cite, « On marche sous la tête ». Tout ce que je viens de dire est faux à 100%. Mais c'est pas important. Ce qui compte, c'est que cette vidéo a été montée automatiquement par automontage. Au bout d'où Automontage fait tout le montage pour vous. Il identifie et illustre les dates, les lieux, les chiffres, les listes, comme celle-ci. Et c'est pas tout. Il fait les zooms, coupe les silences, élimine les mauvaises Automontage garde la dernière prise et élimine les précédentes. Et en plus de tout ça, Automontage identifie les appels à l'action. Je peux vous dire de vous abonner à la chaîne pour déclencher cette animation de commenter la vidéo ou encore de mentionner un réseau social comme Instagram. Bref, c'est magique mais il y a encore mieux. Si vous utilisez un script ou en prompteur, pour mieux contrôler l'automontage, envoyez-nous ce document texte. Si vous utilisez un script Pour mieux piloter votre montage, envoyez-nous un document texte. Et dans ce document texte, pour piloter le montage, je mettais bien des mots en gras, des guillemets, des tirés, des titres. mais aussi des liens hypertextes. Des liens vers des articles, on les affichera sur le côté avec les auteurs et la date. ou des liens vers des tweets, on les a fait juste là. ou des liens vers des sites internet ou des liens vers des images qui vont apparaître comme ça. ou encore des liens vers des vidéos. Ça paraît trompe, prends-moi la. Elles apparaîtront pendant la longueur du lien et on fait les transitions. Vous pouvez aussi préciser le timecode de début et de fin pour qu'on découpe la vidéo pour vous. Si vous mettez votre lien vidéo dans le mot extrait, on intercale la vidéo avec le son comme ça. Envoyez-nous votre Roche vidéo brute sur automontage.com accompagné d'un document avec des liens si vous voulez Et on vous renvoie la vidéo finale en MP4. Un fichier XML ouvré Un fichier XML ouvrable sur Premiere, Final Cut, un fichier XML ouvrable sur Premiere et Final Cut, et un fichier O2O pour DaVinci Resolve. Si vous voulez affiner le montage. On fait tout ça en moins de 10 minutes Et vous, vous allez gagner des heures de travail. .",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 1.12,
+      "end": 7.38,
+      "text": " Le 2 juin 2025, l'acteur Omar Sy saute en parachute d'un avion qui vole à 900 km à",
+      "tokens": [
+        50365,
+        1456,
+        568,
+        3649,
+        259,
+        39209,
+        11,
+        287,
+        6,
+        578,
+        13629,
+        33784,
+        3902,
+        41223,
+        465,
+        44665,
+        274,
+        6,
+        409,
+        1305,
+        313,
+        1956,
+        49877,
+        1531,
+        22016,
+        10698,
+        1531,
+        50678
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.12038873,
+      "compression_ratio": 0.95454544,
+      "no_speech_prob": 0.0066948966
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 8.52,
+      "end": 11.34,
+      "text": " Il atterrit dans la ville de New York, sur le toit d'un immeuble.",
+      "tokens": [
+        50365,
+        4416,
+        412,
+        391,
+        3210,
+        2680,
+        635,
+        23019,
+        368,
+        1873,
+        3609,
+        11,
+        1022,
+        476,
+        281,
+        270,
+        274,
+        6,
+        409,
+        566,
+        1398,
+        84,
+        638,
+        13,
+        50506
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.0729529,
+      "compression_ratio": 0.9285714,
+      "no_speech_prob": 0.013102038
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 12.02,
+      "end": 15.68,
+      "text": " Lecteur qui pèse 110 kilos tombe sur George Clooney.",
+      "tokens": [
+        50365,
+        37196,
+        13629,
+        1956,
+        280,
+        45238,
+        20154,
+        30000,
+        2916,
+        650,
+        1022,
+        7136,
+        31901,
+        1308,
+        13,
+        50548
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.18797667,
+      "compression_ratio": 0.8833333,
+      "no_speech_prob": 0.022206591
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 16.02,
+      "end": 19.46,
+      "text": " Georges Cooney lui dit, je cite, « On marche sous la tête ».",
+      "tokens": [
+        50365,
+        27909,
+        2880,
+        3066,
+        1308,
+        8783,
+        6176,
+        11,
+        1506,
+        37771,
+        11,
+        4657,
+        1282,
+        32631,
+        16686,
+        635,
+        24661,
+        28082,
+        50537
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.43151608,
+      "compression_ratio": 0.8873239,
+      "no_speech_prob": 0.01064193
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 20.22,
+      "end": 22.08,
+      "text": " Tout ce que je viens de dire est faux à 100%.",
+      "tokens": [
+        50365,
+        20453,
+        1769,
+        631,
+        1506,
+        36421,
+        368,
+        1264,
+        871,
+        36659,
+        1531,
+        2319,
+        6856,
+        50458
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.17518255,
+      "compression_ratio": 0.8518519,
+      "no_speech_prob": 0.011188861
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 22.47,
+      "end": 27.83,
+      "text": " Mais c'est pas important. Ce qui compte, c'est que cette vidéo a été montée automatiquement par automontage.",
+      "tokens": [
+        50365,
+        6313,
+        269,
+        6,
+        377,
+        1736,
+        1021,
+        13,
+        8257,
+        1956,
+        19424,
+        11,
+        269,
+        6,
+        377,
+        631,
+        5550,
+        11660,
+        257,
+        8862,
+        8143,
+        3856,
+        28034,
+        27703,
+        971,
+        3553,
+        896,
+        609,
+        13,
+        50633
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.10571069,
+      "compression_ratio": 1.1428572,
+      "no_speech_prob": 0.00055848766
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 28.22,
+      "end": 29.04,
+      "text": " Au bout d'où",
+      "tokens": [
+        50365,
+        12160,
+        15738,
+        274,
+        6,
+        78,
+        5035,
+        50406
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.59945375,
+      "compression_ratio": 0.61904764,
+      "no_speech_prob": 0.022935076
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 29.97,
+      "end": 34.17,
+      "text": " Automontage fait tout le montage pour vous. Il identifie et illustre",
+      "tokens": [
+        50365,
+        24619,
+        896,
+        609,
+        3887,
+        3486,
+        476,
+        40184,
+        2016,
+        2630,
+        13,
+        4416,
+        2473,
+        42726,
+        1030,
+        8490,
+        265,
+        50575
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.16908371,
+      "compression_ratio": 1.030303,
+      "no_speech_prob": 0.001446506
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 34.62,
+      "end": 38.099999999999994,
+      "text": " les dates, les lieux, les chiffres, les listes, comme celle-ci.",
+      "tokens": [
+        50365,
+        1512,
+        11691,
+        11,
+        1512,
+        4544,
+        2449,
+        11,
+        1512,
+        37627,
+        495,
+        11,
+        1512,
+        1329,
+        279,
+        11,
+        5173,
+        25722,
+        12,
+        537,
+        13,
+        50539
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.15306245,
+      "compression_ratio": 1.1666666,
+      "no_speech_prob": 0.011301426
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 38.67,
+      "end": 39.47,
+      "text": " Et c'est pas tout.",
+      "tokens": [
+        50365,
+        3790,
+        269,
+        6,
+        377,
+        1736,
+        3486,
+        13,
+        50405
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.19471714,
+      "compression_ratio": 0.6923077,
+      "no_speech_prob": 0.006983621
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 39.97,
+      "end": 42.93,
+      "text": " Il fait les zooms, coupe les silences, élimine les mauvaises",
+      "tokens": [
+        50365,
+        4416,
+        3887,
+        1512,
+        5721,
+        4785,
+        11,
+        45136,
+        1512,
+        3425,
+        2667,
+        11,
+        1136,
+        4197,
+        533,
+        1512,
+        50018,
+        279,
+        50513
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.123690546,
+      "compression_ratio": 1,
+      "no_speech_prob": 0.008057916
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 44.62,
+      "end": 48.08,
+      "text": " Automontage garde la dernière prise et élimine les précédentes.",
+      "tokens": [
+        50365,
+        6049,
+        298,
+        896,
+        609,
+        47903,
+        635,
+        29028,
+        49468,
+        1030,
+        1136,
+        4197,
+        533,
+        1512,
+        48653,
+        9240,
+        13,
+        50538
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.19114545,
+      "compression_ratio": 0.95714283,
+      "no_speech_prob": 0.00074240274
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 48.97,
+      "end": 52.49,
+      "text": " Et en plus de tout ça, Automontage identifie les appels à l'action.",
+      "tokens": [
+        50365,
+        3790,
+        465,
+        1804,
+        368,
+        3486,
+        2788,
+        11,
+        24619,
+        896,
+        609,
+        2473,
+        42726,
+        1512,
+        724,
+        1625,
+        1531,
+        287,
+        6,
+        2894,
+        13,
+        50541
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14558901,
+      "compression_ratio": 0.92,
+      "no_speech_prob": 0.0016656244
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 53.02,
+      "end": 56.42,
+      "text": " Je peux vous dire de vous abonner à la chaîne pour déclencher cette animation",
+      "tokens": [
+        50365,
+        2588,
+        14844,
+        2630,
+        1264,
+        368,
+        2630,
+        410,
+        38885,
+        1531,
+        635,
+        28036,
+        2016,
+        2795,
+        3474,
+        268,
+        6759,
+        5550,
+        9603,
+        50535
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.09652591,
+      "compression_ratio": 1,
+      "no_speech_prob": 0.0049675563
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 56.97,
+      "end": 58.73,
+      "text": " de commenter la vidéo",
+      "tokens": [
+        50365,
+        368,
+        2871,
+        260,
+        635,
+        11660,
+        50453
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20018616,
+      "compression_ratio": 0.73333335,
+      "no_speech_prob": 0.0021768615
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 58.92,
+      "end": 61.940000000000005,
+      "text": " ou encore de mentionner un réseau social comme Instagram.",
+      "tokens": [
+        50365,
+        2820,
+        10122,
+        368,
+        2152,
+        1193,
+        517,
+        34044,
+        1459,
+        2093,
+        5173,
+        5281,
+        13,
+        50516
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.07449313,
+      "compression_ratio": 0.9206349,
+      "no_speech_prob": 0.011578883
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 63.22,
+      "end": 65.48,
+      "text": " Bref, c'est magique mais il y a encore mieux.",
+      "tokens": [
+        50365,
+        49957,
+        11,
+        269,
+        6,
+        377,
+        2258,
+        1925,
+        2420,
+        1930,
+        288,
+        257,
+        10122,
+        20401,
+        13,
+        50478
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.21809742,
+      "compression_ratio": 0.9,
+      "no_speech_prob": 0.0042545884
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 66.16999999999999,
+      "end": 68.22999999999999,
+      "text": " Si vous utilisez un script",
+      "tokens": [
+        50365,
+        4909,
+        2630,
+        39475,
+        89,
+        517,
+        5755,
+        50468
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.04407153,
+      "compression_ratio": 0.7647059,
+      "no_speech_prob": 2.8179355e-05
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 68.41999999999999,
+      "end": 73.97999999999999,
+      "text": " ou en prompteur, pour mieux contrôler l'automontage, envoyez-nous ce document texte.",
+      "tokens": [
+        50365,
+        2820,
+        465,
+        12391,
+        13629,
+        11,
+        2016,
+        20401,
+        10273,
+        2851,
+        1918,
+        287,
+        6,
+        1375,
+        298,
+        896,
+        609,
+        11,
+        35351,
+        4371,
+        12,
+        47008,
+        1769,
+        4166,
+        2487,
+        68,
+        13,
+        50643
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.11662411,
+      "compression_ratio": 1.0240964,
+      "no_speech_prob": 0.0004680503
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 77.16999999999999,
+      "end": 79.42999999999999,
+      "text": " Si vous utilisez un script",
+      "tokens": [
+        50365,
+        4909,
+        2630,
+        39475,
+        89,
+        517,
+        5755,
+        50478
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.10155783,
+      "compression_ratio": 0.7647059,
+      "no_speech_prob": 0.0045860675
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 79.66999999999999,
+      "end": 83.52999999999999,
+      "text": " Pour mieux piloter votre montage, envoyez-nous un document texte.",
+      "tokens": [
+        50365,
+        8732,
+        20401,
+        9691,
+        260,
+        10087,
+        40184,
+        11,
+        35351,
+        4371,
+        12,
+        47008,
+        517,
+        4166,
+        2487,
+        68,
+        13,
+        50558
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1232154,
+      "compression_ratio": 0.9701493,
+      "no_speech_prob": 0.00024897148
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 84.16999999999999,
+      "end": 90.18999999999998,
+      "text": " Et dans ce document texte, pour piloter le montage, je mettais bien des mots en gras, des guillemets, des tirés, des titres.",
+      "tokens": [
+        50365,
+        3790,
+        2680,
+        1769,
+        4166,
+        2487,
+        68,
+        11,
+        2016,
+        9691,
+        260,
+        476,
+        40184,
+        11,
+        1506,
+        1131,
+        1328,
+        271,
+        3610,
+        730,
+        34009,
+        465,
+        29444,
+        11,
+        730,
+        695,
+        373,
+        443,
+        1385,
+        11,
+        730,
+        13807,
+        2191,
+        11,
+        730,
+        3459,
+        495,
+        13,
+        50666
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1359104,
+      "compression_ratio": 1.25,
+      "no_speech_prob": 0.0034024548
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 90.36999999999999,
+      "end": 91.72999999999999,
+      "text": " mais aussi des liens hypertextes.",
+      "tokens": [
+        50365,
+        2420,
+        6212,
+        730,
+        375,
+        694,
+        9848,
+        25111,
+        279,
+        13,
+        50433
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.13250554,
+      "compression_ratio": 0.80487806,
+      "no_speech_prob": 0.009352021
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 92.41999999999999,
+      "end": 97.33999999999999,
+      "text": " Des liens vers des articles, on les affichera sur le côté avec les auteurs et la date.",
+      "tokens": [
+        50365,
+        3885,
+        375,
+        694,
+        1774,
+        730,
+        11290,
+        11,
+        322,
+        1512,
+        2096,
+        480,
+        1663,
+        1022,
+        476,
+        18437,
+        4163,
+        1512,
+        257,
+        1169,
+        2156,
+        1030,
+        635,
+        4002,
+        13,
+        50611
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.12561993,
+      "compression_ratio": 1.060241,
+      "no_speech_prob": 0.0023117473
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 97.77,
+      "end": 100.72999999999999,
+      "text": " ou des liens vers des tweets, on les a fait juste là.",
+      "tokens": [
+        50365,
+        2820,
+        730,
+        375,
+        694,
+        1774,
+        730,
+        25671,
+        11,
+        322,
+        1512,
+        257,
+        3887,
+        13016,
+        3684,
+        13,
+        50513
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.13703947,
+      "compression_ratio": 0.94736844,
+      "no_speech_prob": 0.0010061214
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 101.07,
+      "end": 104.36999999999999,
+      "text": " ou des liens vers des sites internet",
+      "tokens": [
+        50365,
+        2820,
+        730,
+        375,
+        694,
+        1774,
+        730,
+        7533,
+        4705,
+        50530
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20843086,
+      "compression_ratio": 0.9230769,
+      "no_speech_prob": 0.0016664326
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 104.86999999999999,
+      "end": 107.49,
+      "text": " ou des liens vers des images qui vont apparaître comme ça.",
+      "tokens": [
+        50365,
+        2820,
+        730,
+        375,
+        694,
+        1774,
+        730,
+        5267,
+        1956,
+        14362,
+        724,
+        2419,
+        25011,
+        5173,
+        2788,
+        13,
+        50496
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.105702326,
+      "compression_ratio": 0.9375,
+      "no_speech_prob": 0.0019176983
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 107.82,
+      "end": 109.47999999999999,
+      "text": " ou encore des liens vers des vidéos.",
+      "tokens": [
+        50365,
+        2820,
+        10122,
+        730,
+        375,
+        694,
+        1774,
+        730,
+        25417,
+        13,
+        50448
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.08286219,
+      "compression_ratio": 0.88095236,
+      "no_speech_prob": 0.0002652555
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 109.91999999999999,
+      "end": 111.03999999999999,
+      "text": " Ça paraît trompe, prends-moi la.",
+      "tokens": [
+        50365,
+        11527,
+        1690,
+        20028,
+        504,
+        298,
+        494,
+        11,
+        46750,
+        12,
+        29292,
+        635,
+        13,
+        50421
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.65358776,
+      "compression_ratio": 0.8095238,
+      "no_speech_prob": 0.0084218765
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 112.07,
+      "end": 115.83,
+      "text": " Elles apparaîtront pendant la longueur du lien et on fait les transitions.",
+      "tokens": [
+        50365,
+        8353,
+        279,
+        724,
+        2419,
+        7517,
+        6903,
+        896,
+        17338,
+        635,
+        44445,
+        374,
+        1581,
+        32553,
+        1030,
+        322,
+        3887,
+        1512,
+        23767,
+        13,
+        50553
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.08084859,
+      "compression_ratio": 1,
+      "no_speech_prob": 0.0005731562
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 116.52,
+      "end": 120.97999999999999,
+      "text": " Vous pouvez aussi préciser le timecode de début et de fin pour qu'on découpe la vidéo pour vous.",
+      "tokens": [
+        50365,
+        10802,
+        18248,
+        6212,
+        23107,
+        6694,
+        476,
+        565,
+        22332,
+        368,
+        22594,
+        1030,
+        368,
+        962,
+        2016,
+        421,
+        6,
+        266,
+        9198,
+        23266,
+        635,
+        11660,
+        2016,
+        2630,
+        13,
+        50588
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.0960267,
+      "compression_ratio": 1.1235955,
+      "no_speech_prob": 0.0040592533
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 122.11999999999999,
+      "end": 127.57999999999998,
+      "text": " Si vous mettez votre lien vidéo dans le mot extrait, on intercale la vidéo avec le son comme ça.",
+      "tokens": [
+        50365,
+        4909,
+        2630,
+        1131,
+        47616,
+        10087,
+        32553,
+        11660,
+        2680,
+        476,
+        2184,
+        2857,
+        270,
+        11,
+        322,
+        728,
+        37088,
+        635,
+        11660,
+        4163,
+        476,
+        1872,
+        5173,
+        2788,
+        13,
+        50638
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.048653226,
+      "compression_ratio": 1.1,
+      "no_speech_prob": 0.00034312817
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 129.12,
+      "end": 132.56,
+      "text": " Envoyez-nous votre Roche vidéo brute sur automontage.com",
+      "tokens": [
+        50365,
+        2193,
+        35176,
+        4371,
+        12,
+        47008,
+        10087,
+        3101,
+        1876,
+        11660,
+        47909,
+        1022,
+        3553,
+        896,
+        609,
+        13,
+        1112,
+        50537
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.25286356,
+      "compression_ratio": 1.0865384,
+      "no_speech_prob": 0.018535852
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 132.56,
+      "end": 135.14000000000001,
+      "text": " accompagné d'un document avec des liens si vous voulez",
+      "tokens": [
+        50537,
+        18037,
+        4535,
+        526,
+        274,
+        6,
+        409,
+        4166,
+        4163,
+        730,
+        375,
+        694,
+        1511,
+        2630,
+        29072,
+        50666
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.25286356,
+      "compression_ratio": 1.0865384,
+      "no_speech_prob": 0.018535852
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 135.42,
+      "end": 137.54,
+      "text": " Et on vous renvoie la vidéo finale en MP4.",
+      "tokens": [
+        50365,
+        3790,
+        322,
+        2630,
+        8124,
+        3080,
+        414,
+        635,
+        11660,
+        23510,
+        465,
+        14146,
+        19,
+        13,
+        50471
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.21130434,
+      "compression_ratio": 0.84313726,
+      "no_speech_prob": 0.0015449848
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 138.22,
+      "end": 140.28,
+      "text": " Un fichier XML ouvré",
+      "tokens": [
+        50365,
+        1156,
+        283,
+        480,
+        811,
+        43484,
+        21157,
+        10521,
+        50468
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3184118,
+      "compression_ratio": 0.7241379,
+      "no_speech_prob": 0.018420694
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 140.72,
+      "end": 142.78,
+      "text": " Un fichier XML ouvrable sur Premiere,",
+      "tokens": [
+        50365,
+        1156,
+        283,
+        480,
+        811,
+        43484,
+        21157,
+        424,
+        638,
+        1022,
+        39724,
+        11,
+        50468
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20356965,
+      "compression_ratio": 0.84090906,
+      "no_speech_prob": 0.0069932425
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 143.47,
+      "end": 147.47,
+      "text": " Final Cut, un fichier XML ouvrable sur Premiere et Final Cut,",
+      "tokens": [
+        50365,
+        13443,
+        9431,
+        11,
+        517,
+        283,
+        480,
+        811,
+        43484,
+        21157,
+        424,
+        638,
+        1022,
+        39724,
+        1030,
+        13443,
+        9431,
+        11,
+        50565
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.37668926,
+      "compression_ratio": 1.1477273,
+      "no_speech_prob": 0.0031649761
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 147.47,
+      "end": 149.99,
+      "text": " et un fichier O2O pour DaVinci Resolve.",
+      "tokens": [
+        50565,
+        1030,
+        517,
+        283,
+        480,
+        811,
+        422,
+        17,
+        46,
+        2016,
+        3933,
+        53,
+        21961,
+        5015,
+        37361,
+        13,
+        50691
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.37668926,
+      "compression_ratio": 1.1477273,
+      "no_speech_prob": 0.0031649761
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 150.62,
+      "end": 152.4,
+      "text": " Si vous voulez affiner le montage.",
+      "tokens": [
+        50365,
+        4909,
+        2630,
+        29072,
+        2096,
+        4564,
+        476,
+        40184,
+        13,
+        50454
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.25698176,
+      "compression_ratio": 0.8717949,
+      "no_speech_prob": 0.004335021
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 153.47,
+      "end": 155.09,
+      "text": " On fait tout ça en moins de 10 minutes",
+      "tokens": [
+        50365,
+        1282,
+        3887,
+        3486,
+        2788,
+        465,
+        13099,
+        368,
+        1266,
+        2077,
+        50446
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1142354,
+      "compression_ratio": 0.82978725,
+      "no_speech_prob": 0.014242564
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 156.01999999999998,
+      "end": 158.17999999999998,
+      "text": " Et vous, vous allez gagner des heures de travail.",
+      "tokens": [
+        50365,
+        3790,
+        2630,
+        11,
+        2630,
+        18146,
+        45343,
+        730,
+        28509,
+        368,
+        18047,
+        13,
+        50473
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.13326976,
+      "compression_ratio": 0.9423077,
+      "no_speech_prob": 0.0017798829
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 158.97,
+      "end": 159.69,
+      "text": " .",
+      "tokens": [
+        50365,
+        2411,
+        50401
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.8176415,
+      "compression_ratio": 0.11111111,
+      "no_speech_prob": 0.8573245
+    }
+  ],
+  "words": [
+    {
+      "word": "Le",
+      "start": 1.12,
+      "end": 1.28
+    },
+    {
+      "word": "2",
+      "start": 1.28,
+      "end": 1.54
+    },
+    {
+      "word": "juin",
+      "start": 1.54,
+      "end": 1.8000000000000003
+    },
+    {
+      "word": "2025,",
+      "start": 1.8000000000000003,
+      "end": 3.06
+    },
+    {
+      "word": "l'acteur",
+      "start": 3.06,
+      "end": 3.4
+    },
+    {
+      "word": "Omar",
+      "start": 3.4,
+      "end": 3.88
+    },
+    {
+      "word": "Sy",
+      "start": 3.88,
+      "end": 4.0600000000000005
+    },
+    {
+      "word": "saute",
+      "start": 4.0600000000000005,
+      "end": 4.52
+    },
+    {
+      "word": "en",
+      "start": 4.52,
+      "end": 4.68
+    },
+    {
+      "word": "parachute",
+      "start": 4.68,
+      "end": 5.16
+    },
+    {
+      "word": "d'un",
+      "start": 5.16,
+      "end": 5.5200000000000005
+    },
+    {
+      "word": "avion",
+      "start": 5.5200000000000005,
+      "end": 5.92
+    },
+    {
+      "word": "qui",
+      "start": 5.92,
+      "end": 6.24
+    },
+    {
+      "word": "vole",
+      "start": 6.24,
+      "end": 6.38
+    },
+    {
+      "word": "à",
+      "start": 6.38,
+      "end": 6.48
+    },
+    {
+      "word": "900",
+      "start": 6.48,
+      "end": 6.84
+    },
+    {
+      "word": "km",
+      "start": 6.84,
+      "end": 7.3
+    },
+    {
+      "word": "à",
+      "start": 7.3,
+      "end": 7.46
+    },
+    {
+      "word": "Il",
+      "start": 8.66,
+      "end": 8.78
+    },
+    {
+      "word": "atterrit",
+      "start": 8.78,
+      "end": 8.98
+    },
+    {
+      "word": "dans",
+      "start": 8.98,
+      "end": 9.1
+    },
+    {
+      "word": "la",
+      "start": 9.1,
+      "end": 9.24
+    },
+    {
+      "word": "ville",
+      "start": 9.24,
+      "end": 9.36
+    },
+    {
+      "word": "de",
+      "start": 9.36,
+      "end": 9.52
+    },
+    {
+      "word": "New",
+      "start": 9.52,
+      "end": 9.719999999999999
+    },
+    {
+      "word": "York,",
+      "start": 9.719999999999999,
+      "end": 10.559999999999999
+    },
+    {
+      "word": "sur",
+      "start": 10.559999999999999,
+      "end": 10.66
+    },
+    {
+      "word": "le",
+      "start": 10.66,
+      "end": 10.82
+    },
+    {
+      "word": "toit",
+      "start": 10.82,
+      "end": 10.92
+    },
+    {
+      "word": "d'un",
+      "start": 10.92,
+      "end": 11.1
+    },
+    {
+      "word": "immeuble.",
+      "start": 11.1,
+      "end": 11.6
+    },
+    {
+      "word": "Lecteur",
+      "start": 12.299999999999999,
+      "end": 12.799999999999999
+    },
+    {
+      "word": "qui",
+      "start": 12.799999999999999,
+      "end": 13.0
+    },
+    {
+      "word": "pèse",
+      "start": 13.0,
+      "end": 13.16
+    },
+    {
+      "word": "110",
+      "start": 13.16,
+      "end": 13.459999999999999
+    },
+    {
+      "word": "kilos",
+      "start": 13.459999999999999,
+      "end": 13.76
+    },
+    {
+      "word": "tombe",
+      "start": 13.76,
+      "end": 14.719999999999999
+    },
+    {
+      "word": "sur",
+      "start": 14.719999999999999,
+      "end": 15.0
+    },
+    {
+      "word": "George",
+      "start": 15.0,
+      "end": 15.379999999999999
+    },
+    {
+      "word": "Clooney.",
+      "start": 15.379999999999999,
+      "end": 15.62
+    },
+    {
+      "word": "Georges",
+      "start": 16.34,
+      "end": 16.62
+    },
+    {
+      "word": "Cooney",
+      "start": 16.62,
+      "end": 16.88
+    },
+    {
+      "word": "lui",
+      "start": 16.88,
+      "end": 17.08
+    },
+    {
+      "word": "dit,",
+      "start": 17.08,
+      "end": 17.28
+    },
+    {
+      "word": "je",
+      "start": 17.28,
+      "end": 17.66
+    },
+    {
+      "word": "cite,",
+      "start": 17.66,
+      "end": 18.48
+    },
+    {
+      "word": "«",
+      "start": 18.48,
+      "end": 18.72
+    },
+    {
+      "word": "On",
+      "start": 18.72,
+      "end": 18.74
+    },
+    {
+      "word": "marche",
+      "start": 18.74,
+      "end": 18.88
+    },
+    {
+      "word": "sous",
+      "start": 18.88,
+      "end": 19.0
+    },
+    {
+      "word": "la",
+      "start": 19.0,
+      "end": 19.14
+    },
+    {
+      "word": "tête",
+      "start": 19.14,
+      "end": 19.34
+    },
+    {
+      "word": "».",
+      "start": 19.34,
+      "end": 19.36
+    },
+    {
+      "word": "Tout",
+      "start": 20.5,
+      "end": 20.64
+    },
+    {
+      "word": "ce",
+      "start": 20.64,
+      "end": 20.68
+    },
+    {
+      "word": "que",
+      "start": 20.68,
+      "end": 20.779999999999998
+    },
+    {
+      "word": "je",
+      "start": 20.779999999999998,
+      "end": 20.86
+    },
+    {
+      "word": "viens",
+      "start": 20.86,
+      "end": 20.919999999999998
+    },
+    {
+      "word": "de",
+      "start": 20.919999999999998,
+      "end": 21.0
+    },
+    {
+      "word": "dire",
+      "start": 21.0,
+      "end": 21.099999999999998
+    },
+    {
+      "word": "est",
+      "start": 21.099999999999998,
+      "end": 21.22
+    },
+    {
+      "word": "faux",
+      "start": 21.22,
+      "end": 21.34
+    },
+    {
+      "word": "à",
+      "start": 21.34,
+      "end": 21.419999999999998
+    },
+    {
+      "word": "100%.",
+      "start": 21.419999999999998,
+      "end": 21.84
+    },
+    {
+      "word": "Mais",
+      "start": 22.669999999999998,
+      "end": 22.83
+    },
+    {
+      "word": "c'est",
+      "start": 22.83,
+      "end": 23.049999999999997
+    },
+    {
+      "word": "pas",
+      "start": 23.049999999999997,
+      "end": 23.15
+    },
+    {
+      "word": "important.",
+      "start": 23.15,
+      "end": 23.93
+    },
+    {
+      "word": "Ce",
+      "start": 23.93,
+      "end": 23.95
+    },
+    {
+      "word": "qui",
+      "start": 23.95,
+      "end": 24.11
+    },
+    {
+      "word": "compte,",
+      "start": 24.11,
+      "end": 24.529999999999998
+    },
+    {
+      "word": "c'est",
+      "start": 24.529999999999998,
+      "end": 24.549999999999997
+    },
+    {
+      "word": "que",
+      "start": 24.549999999999997,
+      "end": 24.65
+    },
+    {
+      "word": "cette",
+      "start": 24.65,
+      "end": 24.83
+    },
+    {
+      "word": "vidéo",
+      "start": 24.83,
+      "end": 25.15
+    },
+    {
+      "word": "a",
+      "start": 25.15,
+      "end": 25.369999999999997
+    },
+    {
+      "word": "été",
+      "start": 25.369999999999997,
+      "end": 25.59
+    },
+    {
+      "word": "montée",
+      "start": 25.59,
+      "end": 25.81
+    },
+    {
+      "word": "automatiquement",
+      "start": 25.81,
+      "end": 26.41
+    },
+    {
+      "word": "par",
+      "start": 26.41,
+      "end": 26.849999999999998
+    },
+    {
+      "word": "automontage.",
+      "start": 26.849999999999998,
+      "end": 28.31
+    },
+    {
+      "word": "Au",
+      "start": 28.299999999999997,
+      "end": 28.52
+    },
+    {
+      "word": "bout",
+      "start": 28.52,
+      "end": 28.619999999999997
+    },
+    {
+      "word": "d'où",
+      "start": 28.619999999999997,
+      "end": 28.759999999999998
+    },
+    {
+      "word": "Automontage",
+      "start": 30.27,
+      "end": 30.849999999999998
+    },
+    {
+      "word": "fait",
+      "start": 30.849999999999998,
+      "end": 31.009999999999998
+    },
+    {
+      "word": "tout",
+      "start": 31.009999999999998,
+      "end": 31.209999999999997
+    },
+    {
+      "word": "le",
+      "start": 31.209999999999997,
+      "end": 31.31
+    },
+    {
+      "word": "montage",
+      "start": 31.31,
+      "end": 31.529999999999998
+    },
+    {
+      "word": "pour",
+      "start": 31.529999999999998,
+      "end": 31.77
+    },
+    {
+      "word": "vous.",
+      "start": 31.77,
+      "end": 32.41
+    },
+    {
+      "word": "Il",
+      "start": 32.41,
+      "end": 32.47
+    },
+    {
+      "word": "identifie",
+      "start": 32.47,
+      "end": 33.07
+    },
+    {
+      "word": "et",
+      "start": 33.07,
+      "end": 33.39
+    },
+    {
+      "word": "illustre",
+      "start": 33.39,
+      "end": 33.93
+    },
+    {
+      "word": "les",
+      "start": 34.62,
+      "end": 34.839999999999996
+    },
+    {
+      "word": "dates,",
+      "start": 34.839999999999996,
+      "end": 35.62
+    },
+    {
+      "word": "les",
+      "start": 35.62,
+      "end": 35.68
+    },
+    {
+      "word": "lieux,",
+      "start": 35.68,
+      "end": 36.08
+    },
+    {
+      "word": "les",
+      "start": 36.08,
+      "end": 36.18
+    },
+    {
+      "word": "chiffres,",
+      "start": 36.18,
+      "end": 36.879999999999995
+    },
+    {
+      "word": "les",
+      "start": 36.879999999999995,
+      "end": 36.94
+    },
+    {
+      "word": "listes,",
+      "start": 36.94,
+      "end": 37.36
+    },
+    {
+      "word": "comme",
+      "start": 37.36,
+      "end": 37.739999999999995
+    },
+    {
+      "word": "celle-ci.",
+      "start": 37.739999999999995,
+      "end": 38.58
+    },
+    {
+      "word": "Et",
+      "start": 38.99,
+      "end": 39.09
+    },
+    {
+      "word": "c'est",
+      "start": 39.09,
+      "end": 39.190000000000005
+    },
+    {
+      "word": "pas",
+      "start": 39.190000000000005,
+      "end": 39.33
+    },
+    {
+      "word": "tout.",
+      "start": 39.33,
+      "end": 39.81
+    },
+    {
+      "word": "Il",
+      "start": 40.25,
+      "end": 40.39
+    },
+    {
+      "word": "fait",
+      "start": 40.39,
+      "end": 40.53
+    },
+    {
+      "word": "les",
+      "start": 40.53,
+      "end": 40.71
+    },
+    {
+      "word": "zooms,",
+      "start": 40.71,
+      "end": 41.25
+    },
+    {
+      "word": "coupe",
+      "start": 41.25,
+      "end": 41.29
+    },
+    {
+      "word": "les",
+      "start": 41.29,
+      "end": 41.43
+    },
+    {
+      "word": "silences,",
+      "start": 41.43,
+      "end": 42.35
+    },
+    {
+      "word": "élimine",
+      "start": 42.35,
+      "end": 42.69
+    },
+    {
+      "word": "les",
+      "start": 42.69,
+      "end": 42.87
+    },
+    {
+      "word": "mauvaises",
+      "start": 42.87,
+      "end": 43.129999999999995
+    },
+    {
+      "word": "Automontage",
+      "start": 44.94,
+      "end": 45.5
+    },
+    {
+      "word": "garde",
+      "start": 45.5,
+      "end": 45.779999999999994
+    },
+    {
+      "word": "la",
+      "start": 45.779999999999994,
+      "end": 45.9
+    },
+    {
+      "word": "dernière",
+      "start": 45.9,
+      "end": 46.279999999999994
+    },
+    {
+      "word": "prise",
+      "start": 46.279999999999994,
+      "end": 46.72
+    },
+    {
+      "word": "et",
+      "start": 46.72,
+      "end": 47.04
+    },
+    {
+      "word": "élimine",
+      "start": 47.04,
+      "end": 47.419999999999995
+    },
+    {
+      "word": "les",
+      "start": 47.419999999999995,
+      "end": 47.559999999999995
+    },
+    {
+      "word": "précédentes.",
+      "start": 47.559999999999995,
+      "end": 48.059999999999995
+    },
+    {
+      "word": "Et",
+      "start": 49.269999999999996,
+      "end": 49.33
+    },
+    {
+      "word": "en",
+      "start": 49.33,
+      "end": 49.39
+    },
+    {
+      "word": "plus",
+      "start": 49.39,
+      "end": 49.69
+    },
+    {
+      "word": "de",
+      "start": 49.69,
+      "end": 49.81
+    },
+    {
+      "word": "tout",
+      "start": 49.81,
+      "end": 50.03
+    },
+    {
+      "word": "ça,",
+      "start": 50.03,
+      "end": 50.53
+    },
+    {
+      "word": "Automontage",
+      "start": 50.53,
+      "end": 51.19
+    },
+    {
+      "word": "identifie",
+      "start": 51.19,
+      "end": 51.69
+    },
+    {
+      "word": "les",
+      "start": 51.69,
+      "end": 51.87
+    },
+    {
+      "word": "appels",
+      "start": 51.87,
+      "end": 52.07
+    },
+    {
+      "word": "à",
+      "start": 52.07,
+      "end": 52.19
+    },
+    {
+      "word": "l'action.",
+      "start": 52.19,
+      "end": 52.97
+    },
+    {
+      "word": "Je",
+      "start": 53.34,
+      "end": 53.400000000000006
+    },
+    {
+      "word": "peux",
+      "start": 53.400000000000006,
+      "end": 53.5
+    },
+    {
+      "word": "vous",
+      "start": 53.5,
+      "end": 53.660000000000004
+    },
+    {
+      "word": "dire",
+      "start": 53.660000000000004,
+      "end": 53.78
+    },
+    {
+      "word": "de",
+      "start": 53.78,
+      "end": 53.92
+    },
+    {
+      "word": "vous",
+      "start": 53.92,
+      "end": 54.06
+    },
+    {
+      "word": "abonner",
+      "start": 54.06,
+      "end": 54.24
+    },
+    {
+      "word": "à",
+      "start": 54.24,
+      "end": 54.36000000000001
+    },
+    {
+      "word": "la",
+      "start": 54.36000000000001,
+      "end": 54.540000000000006
+    },
+    {
+      "word": "chaîne",
+      "start": 54.540000000000006,
+      "end": 54.78
+    },
+    {
+      "word": "pour",
+      "start": 54.78,
+      "end": 55.080000000000005
+    },
+    {
+      "word": "déclencher",
+      "start": 55.080000000000005,
+      "end": 55.46
+    },
+    {
+      "word": "cette",
+      "start": 55.46,
+      "end": 55.660000000000004
+    },
+    {
+      "word": "animation",
+      "start": 55.660000000000004,
+      "end": 56.14
+    },
+    {
+      "word": "de",
+      "start": 56.97,
+      "end": 57.449999999999996
+    },
+    {
+      "word": "commenter",
+      "start": 57.449999999999996,
+      "end": 57.91
+    },
+    {
+      "word": "la",
+      "start": 57.91,
+      "end": 58.05
+    },
+    {
+      "word": "vidéo",
+      "start": 58.05,
+      "end": 58.39
+    },
+    {
+      "word": "ou",
+      "start": 59.02,
+      "end": 59.24
+    },
+    {
+      "word": "encore",
+      "start": 59.24,
+      "end": 59.64
+    },
+    {
+      "word": "de",
+      "start": 59.64,
+      "end": 59.9
+    },
+    {
+      "word": "mentionner",
+      "start": 59.9,
+      "end": 60.440000000000005
+    },
+    {
+      "word": "un",
+      "start": 60.440000000000005,
+      "end": 60.56
+    },
+    {
+      "word": "réseau",
+      "start": 60.56,
+      "end": 60.760000000000005
+    },
+    {
+      "word": "social",
+      "start": 60.760000000000005,
+      "end": 61.160000000000004
+    },
+    {
+      "word": "comme",
+      "start": 61.160000000000004,
+      "end": 61.480000000000004
+    },
+    {
+      "word": "Instagram.",
+      "start": 61.480000000000004,
+      "end": 61.88
+    },
+    {
+      "word": "Bref,",
+      "start": 63.54,
+      "end": 64.03999999999999
+    },
+    {
+      "word": "c'est",
+      "start": 64.03999999999999,
+      "end": 64.14
+    },
+    {
+      "word": "magique",
+      "start": 64.14,
+      "end": 64.58
+    },
+    {
+      "word": "mais",
+      "start": 64.58,
+      "end": 64.8
+    },
+    {
+      "word": "il",
+      "start": 64.8,
+      "end": 64.88
+    },
+    {
+      "word": "y",
+      "start": 64.88,
+      "end": 64.9
+    },
+    {
+      "word": "a",
+      "start": 64.9,
+      "end": 64.96
+    },
+    {
+      "word": "encore",
+      "start": 64.96,
+      "end": 65.38
+    },
+    {
+      "word": "mieux.",
+      "start": 65.38,
+      "end": 65.76
+    },
+    {
+      "word": "Si",
+      "start": 66.35,
+      "end": 66.60999999999999
+    },
+    {
+      "word": "vous",
+      "start": 66.60999999999999,
+      "end": 66.85
+    },
+    {
+      "word": "utilisez",
+      "start": 66.85,
+      "end": 67.28999999999999
+    },
+    {
+      "word": "un",
+      "start": 67.28999999999999,
+      "end": 67.78999999999999
+    },
+    {
+      "word": "script",
+      "start": 67.78999999999999,
+      "end": 68.16999999999999
+    },
+    {
+      "word": "ou",
+      "start": 68.67999999999999,
+      "end": 68.82
+    },
+    {
+      "word": "en",
+      "start": 68.82,
+      "end": 68.96
+    },
+    {
+      "word": "prompteur,",
+      "start": 68.96,
+      "end": 69.91999999999999
+    },
+    {
+      "word": "pour",
+      "start": 69.91999999999999,
+      "end": 70.01999999999998
+    },
+    {
+      "word": "mieux",
+      "start": 70.01999999999998,
+      "end": 70.23999999999998
+    },
+    {
+      "word": "contrôler",
+      "start": 70.23999999999998,
+      "end": 70.61999999999999
+    },
+    {
+      "word": "l'automontage,",
+      "start": 70.61999999999999,
+      "end": 72.19999999999999
+    },
+    {
+      "word": "envoyez-nous",
+      "start": 72.19999999999999,
+      "end": 72.55999999999999
+    },
+    {
+      "word": "ce",
+      "start": 72.55999999999999,
+      "end": 72.96
+    },
+    {
+      "word": "document",
+      "start": 72.96,
+      "end": 73.29999999999998
+    },
+    {
+      "word": "texte.",
+      "start": 73.29999999999998,
+      "end": 73.75999999999999
+    },
+    {
+      "word": "Si",
+      "start": 77.50999999999999,
+      "end": 77.62999999999998
+    },
+    {
+      "word": "vous",
+      "start": 77.62999999999998,
+      "end": 78.38999999999999
+    },
+    {
+      "word": "utilisez",
+      "start": 78.38999999999999,
+      "end": 78.68999999999998
+    },
+    {
+      "word": "un",
+      "start": 78.68999999999998,
+      "end": 78.94999999999999
+    },
+    {
+      "word": "script",
+      "start": 78.94999999999999,
+      "end": 79.22999999999999
+    },
+    {
+      "word": "Pour",
+      "start": 79.66999999999999,
+      "end": 80.14999999999999
+    },
+    {
+      "word": "mieux",
+      "start": 80.14999999999999,
+      "end": 80.66999999999999
+    },
+    {
+      "word": "piloter",
+      "start": 80.66999999999999,
+      "end": 81.10999999999999
+    },
+    {
+      "word": "votre",
+      "start": 81.10999999999999,
+      "end": 81.32999999999998
+    },
+    {
+      "word": "montage,",
+      "start": 81.32999999999998,
+      "end": 82.22999999999999
+    },
+    {
+      "word": "envoyez-nous",
+      "start": 82.22999999999999,
+      "end": 82.60999999999999
+    },
+    {
+      "word": "un",
+      "start": 82.60999999999999,
+      "end": 82.90999999999998
+    },
+    {
+      "word": "document",
+      "start": 82.90999999999998,
+      "end": 83.24999999999999
+    },
+    {
+      "word": "texte.",
+      "start": 83.24999999999999,
+      "end": 83.52999999999999
+    },
+    {
+      "word": "Et",
+      "start": 84.38999999999999,
+      "end": 84.50999999999999
+    },
+    {
+      "word": "dans",
+      "start": 84.50999999999999,
+      "end": 84.64999999999999
+    },
+    {
+      "word": "ce",
+      "start": 84.64999999999999,
+      "end": 84.74999999999999
+    },
+    {
+      "word": "document",
+      "start": 84.74999999999999,
+      "end": 85.12999999999998
+    },
+    {
+      "word": "texte,",
+      "start": 85.12999999999998,
+      "end": 85.54999999999998
+    },
+    {
+      "word": "pour",
+      "start": 85.54999999999998,
+      "end": 85.64999999999999
+    },
+    {
+      "word": "piloter",
+      "start": 85.64999999999999,
+      "end": 86.07
+    },
+    {
+      "word": "le",
+      "start": 86.07,
+      "end": 86.18999999999998
+    },
+    {
+      "word": "montage,",
+      "start": 86.18999999999998,
+      "end": 86.72999999999999
+    },
+    {
+      "word": "je",
+      "start": 86.72999999999999,
+      "end": 86.74999999999999
+    },
+    {
+      "word": "mettais",
+      "start": 86.74999999999999,
+      "end": 86.96999999999998
+    },
+    {
+      "word": "bien",
+      "start": 86.96999999999998,
+      "end": 87.08999999999999
+    },
+    {
+      "word": "des",
+      "start": 87.08999999999999,
+      "end": 87.28999999999999
+    },
+    {
+      "word": "mots",
+      "start": 87.28999999999999,
+      "end": 87.50999999999999
+    },
+    {
+      "word": "en",
+      "start": 87.50999999999999,
+      "end": 87.86999999999999
+    },
+    {
+      "word": "gras,",
+      "start": 87.86999999999999,
+      "end": 88.10999999999999
+    },
+    {
+      "word": "des",
+      "start": 88.10999999999999,
+      "end": 88.28999999999999
+    },
+    {
+      "word": "guillemets,",
+      "start": 88.28999999999999,
+      "end": 88.74999999999999
+    },
+    {
+      "word": "des",
+      "start": 88.74999999999999,
+      "end": 88.86999999999999
+    },
+    {
+      "word": "tirés,",
+      "start": 88.86999999999999,
+      "end": 89.35
+    },
+    {
+      "word": "des",
+      "start": 89.35,
+      "end": 89.44999999999999
+    },
+    {
+      "word": "titres.",
+      "start": 89.44999999999999,
+      "end": 90.44999999999999
+    },
+    {
+      "word": "mais",
+      "start": 90.58999999999999,
+      "end": 90.68999999999998
+    },
+    {
+      "word": "aussi",
+      "start": 90.68999999999998,
+      "end": 90.88999999999999
+    },
+    {
+      "word": "des",
+      "start": 90.88999999999999,
+      "end": 91.07
+    },
+    {
+      "word": "liens",
+      "start": 91.07,
+      "end": 91.22999999999999
+    },
+    {
+      "word": "hypertextes.",
+      "start": 91.22999999999999,
+      "end": 91.72999999999999
+    },
+    {
+      "word": "Des",
+      "start": 92.73999999999998,
+      "end": 92.83999999999999
+    },
+    {
+      "word": "liens",
+      "start": 92.83999999999999,
+      "end": 93.11999999999999
+    },
+    {
+      "word": "vers",
+      "start": 93.11999999999999,
+      "end": 93.27999999999999
+    },
+    {
+      "word": "des",
+      "start": 93.27999999999999,
+      "end": 93.43999999999998
+    },
+    {
+      "word": "articles,",
+      "start": 93.43999999999998,
+      "end": 93.96
+    },
+    {
+      "word": "on",
+      "start": 93.96,
+      "end": 94.25999999999999
+    },
+    {
+      "word": "les",
+      "start": 94.25999999999999,
+      "end": 94.35999999999999
+    },
+    {
+      "word": "affichera",
+      "start": 94.35999999999999,
+      "end": 94.73999999999998
+    },
+    {
+      "word": "sur",
+      "start": 94.73999999999998,
+      "end": 94.96
+    },
+    {
+      "word": "le",
+      "start": 94.96,
+      "end": 95.11999999999999
+    },
+    {
+      "word": "côté",
+      "start": 95.11999999999999,
+      "end": 95.46
+    },
+    {
+      "word": "avec",
+      "start": 95.46,
+      "end": 95.89999999999999
+    },
+    {
+      "word": "les",
+      "start": 95.89999999999999,
+      "end": 96.03999999999999
+    },
+    {
+      "word": "auteurs",
+      "start": 96.03999999999999,
+      "end": 96.51999999999998
+    },
+    {
+      "word": "et",
+      "start": 96.51999999999998,
+      "end": 96.69999999999999
+    },
+    {
+      "word": "la",
+      "start": 96.69999999999999,
+      "end": 96.87999999999998
+    },
+    {
+      "word": "date.",
+      "start": 96.87999999999998,
+      "end": 97.82
+    },
+    {
+      "word": "ou",
+      "start": 97.95,
+      "end": 98.07
+    },
+    {
+      "word": "des",
+      "start": 98.07,
+      "end": 98.21
+    },
+    {
+      "word": "liens",
+      "start": 98.21,
+      "end": 98.36999999999999
+    },
+    {
+      "word": "vers",
+      "start": 98.36999999999999,
+      "end": 98.69
+    },
+    {
+      "word": "des",
+      "start": 98.69,
+      "end": 98.85
+    },
+    {
+      "word": "tweets,",
+      "start": 98.85,
+      "end": 99.41
+    },
+    {
+      "word": "on",
+      "start": 99.41,
+      "end": 99.58999999999999
+    },
+    {
+      "word": "les",
+      "start": 99.58999999999999,
+      "end": 99.71
+    },
+    {
+      "word": "a",
+      "start": 99.71,
+      "end": 99.83
+    },
+    {
+      "word": "fait",
+      "start": 99.83,
+      "end": 99.95
+    },
+    {
+      "word": "juste",
+      "start": 99.95,
+      "end": 100.22999999999999
+    },
+    {
+      "word": "là.",
+      "start": 100.22999999999999,
+      "end": 100.47
+    },
+    {
+      "word": "ou",
+      "start": 101.25,
+      "end": 101.41
+    },
+    {
+      "word": "des",
+      "start": 101.41,
+      "end": 101.52999999999999
+    },
+    {
+      "word": "liens",
+      "start": 101.52999999999999,
+      "end": 101.69
+    },
+    {
+      "word": "vers",
+      "start": 101.69,
+      "end": 101.80999999999999
+    },
+    {
+      "word": "des",
+      "start": 101.80999999999999,
+      "end": 101.94999999999999
+    },
+    {
+      "word": "sites",
+      "start": 101.94999999999999,
+      "end": 102.11
+    },
+    {
+      "word": "internet",
+      "start": 102.11,
+      "end": 102.64999999999999
+    },
+    {
+      "word": "ou",
+      "start": 105.07,
+      "end": 105.18999999999998
+    },
+    {
+      "word": "des",
+      "start": 105.18999999999998,
+      "end": 105.35
+    },
+    {
+      "word": "liens",
+      "start": 105.35,
+      "end": 105.46999999999998
+    },
+    {
+      "word": "vers",
+      "start": 105.46999999999998,
+      "end": 105.60999999999999
+    },
+    {
+      "word": "des",
+      "start": 105.60999999999999,
+      "end": 105.78999999999999
+    },
+    {
+      "word": "images",
+      "start": 105.78999999999999,
+      "end": 106.16999999999999
+    },
+    {
+      "word": "qui",
+      "start": 106.16999999999999,
+      "end": 106.36999999999999
+    },
+    {
+      "word": "vont",
+      "start": 106.36999999999999,
+      "end": 106.49
+    },
+    {
+      "word": "apparaître",
+      "start": 106.49,
+      "end": 106.80999999999999
+    },
+    {
+      "word": "comme",
+      "start": 106.80999999999999,
+      "end": 107.07
+    },
+    {
+      "word": "ça.",
+      "start": 107.07,
+      "end": 107.21
+    },
+    {
+      "word": "ou",
+      "start": 108.1,
+      "end": 108.24
+    },
+    {
+      "word": "encore",
+      "start": 108.24,
+      "end": 108.5
+    },
+    {
+      "word": "des",
+      "start": 108.5,
+      "end": 108.69999999999999
+    },
+    {
+      "word": "liens",
+      "start": 108.69999999999999,
+      "end": 108.82
+    },
+    {
+      "word": "vers",
+      "start": 108.82,
+      "end": 109.0
+    },
+    {
+      "word": "des",
+      "start": 109.0,
+      "end": 109.11999999999999
+    },
+    {
+      "word": "vidéos.",
+      "start": 109.11999999999999,
+      "end": 109.91999999999999
+    },
+    {
+      "word": "Ça",
+      "start": 109.91999999999999,
+      "end": 110.1
+    },
+    {
+      "word": "paraît",
+      "start": 110.1,
+      "end": 110.23999999999998
+    },
+    {
+      "word": "trompe,",
+      "start": 110.23999999999998,
+      "end": 110.53999999999999
+    },
+    {
+      "word": "prends-moi",
+      "start": 110.53999999999999,
+      "end": 110.71999999999998
+    },
+    {
+      "word": "la.",
+      "start": 110.71999999999998,
+      "end": 110.85999999999999
+    },
+    {
+      "word": "Elles",
+      "start": 112.38999999999999,
+      "end": 112.52999999999999
+    },
+    {
+      "word": "apparaîtront",
+      "start": 112.52999999999999,
+      "end": 112.97
+    },
+    {
+      "word": "pendant",
+      "start": 112.97,
+      "end": 113.22999999999999
+    },
+    {
+      "word": "la",
+      "start": 113.22999999999999,
+      "end": 113.44999999999999
+    },
+    {
+      "word": "longueur",
+      "start": 113.44999999999999,
+      "end": 113.83
+    },
+    {
+      "word": "du",
+      "start": 113.83,
+      "end": 114.00999999999999
+    },
+    {
+      "word": "lien",
+      "start": 114.00999999999999,
+      "end": 114.22999999999999
+    },
+    {
+      "word": "et",
+      "start": 114.22999999999999,
+      "end": 114.72999999999999
+    },
+    {
+      "word": "on",
+      "start": 114.72999999999999,
+      "end": 114.83
+    },
+    {
+      "word": "fait",
+      "start": 114.83,
+      "end": 114.97
+    },
+    {
+      "word": "les",
+      "start": 114.97,
+      "end": 115.08999999999999
+    },
+    {
+      "word": "transitions.",
+      "start": 115.08999999999999,
+      "end": 116.30999999999999
+    },
+    {
+      "word": "Vous",
+      "start": 116.7,
+      "end": 116.88
+    },
+    {
+      "word": "pouvez",
+      "start": 116.88,
+      "end": 117.03999999999999
+    },
+    {
+      "word": "aussi",
+      "start": 117.03999999999999,
+      "end": 117.24
+    },
+    {
+      "word": "préciser",
+      "start": 117.24,
+      "end": 117.66
+    },
+    {
+      "word": "le",
+      "start": 117.66,
+      "end": 117.86
+    },
+    {
+      "word": "timecode",
+      "start": 117.86,
+      "end": 118.33999999999999
+    },
+    {
+      "word": "de",
+      "start": 118.33999999999999,
+      "end": 118.66
+    },
+    {
+      "word": "début",
+      "start": 118.66,
+      "end": 118.96
+    },
+    {
+      "word": "et",
+      "start": 118.96,
+      "end": 119.22
+    },
+    {
+      "word": "de",
+      "start": 119.22,
+      "end": 119.33999999999999
+    },
+    {
+      "word": "fin",
+      "start": 119.33999999999999,
+      "end": 119.58
+    },
+    {
+      "word": "pour",
+      "start": 119.58,
+      "end": 119.86
+    },
+    {
+      "word": "qu'on",
+      "start": 119.86,
+      "end": 120.02
+    },
+    {
+      "word": "découpe",
+      "start": 120.02,
+      "end": 120.36
+    },
+    {
+      "word": "la",
+      "start": 120.36,
+      "end": 120.5
+    },
+    {
+      "word": "vidéo",
+      "start": 120.5,
+      "end": 120.75999999999999
+    },
+    {
+      "word": "pour",
+      "start": 120.75999999999999,
+      "end": 121.0
+    },
+    {
+      "word": "vous.",
+      "start": 121.0,
+      "end": 121.19999999999999
+    },
+    {
+      "word": "Si",
+      "start": 122.39999999999999,
+      "end": 122.52
+    },
+    {
+      "word": "vous",
+      "start": 122.52,
+      "end": 122.67999999999999
+    },
+    {
+      "word": "mettez",
+      "start": 122.67999999999999,
+      "end": 122.83999999999999
+    },
+    {
+      "word": "votre",
+      "start": 122.83999999999999,
+      "end": 123.03999999999999
+    },
+    {
+      "word": "lien",
+      "start": 123.03999999999999,
+      "end": 123.25999999999999
+    },
+    {
+      "word": "vidéo",
+      "start": 123.25999999999999,
+      "end": 123.52
+    },
+    {
+      "word": "dans",
+      "start": 123.52,
+      "end": 123.67999999999999
+    },
+    {
+      "word": "le",
+      "start": 123.67999999999999,
+      "end": 123.82
+    },
+    {
+      "word": "mot",
+      "start": 123.82,
+      "end": 124.02
+    },
+    {
+      "word": "extrait,",
+      "start": 124.02,
+      "end": 125.16
+    },
+    {
+      "word": "on",
+      "start": 125.16,
+      "end": 125.21999999999998
+    },
+    {
+      "word": "intercale",
+      "start": 125.21999999999998,
+      "end": 125.8
+    },
+    {
+      "word": "la",
+      "start": 125.8,
+      "end": 126.11999999999999
+    },
+    {
+      "word": "vidéo",
+      "start": 126.11999999999999,
+      "end": 126.44
+    },
+    {
+      "word": "avec",
+      "start": 126.44,
+      "end": 126.75999999999999
+    },
+    {
+      "word": "le",
+      "start": 126.75999999999999,
+      "end": 126.91999999999999
+    },
+    {
+      "word": "son",
+      "start": 126.91999999999999,
+      "end": 127.13999999999999
+    },
+    {
+      "word": "comme",
+      "start": 127.13999999999999,
+      "end": 127.38
+    },
+    {
+      "word": "ça.",
+      "start": 127.38,
+      "end": 127.53999999999999
+    },
+    {
+      "word": "Envoyez-nous",
+      "start": 129.38,
+      "end": 129.8
+    },
+    {
+      "word": "votre",
+      "start": 129.8,
+      "end": 130.02
+    },
+    {
+      "word": "Roche",
+      "start": 130.02,
+      "end": 130.48000000000002
+    },
+    {
+      "word": "vidéo",
+      "start": 130.48000000000002,
+      "end": 130.98000000000002
+    },
+    {
+      "word": "brute",
+      "start": 130.98000000000002,
+      "end": 131.3
+    },
+    {
+      "word": "sur",
+      "start": 131.3,
+      "end": 131.58
+    },
+    {
+      "word": "automontage.com",
+      "start": 131.58,
+      "end": 132.44
+    },
+    {
+      "word": "accompagné",
+      "start": 132.64000000000001,
+      "end": 133.02
+    },
+    {
+      "word": "d'un",
+      "start": 133.02,
+      "end": 133.18
+    },
+    {
+      "word": "document",
+      "start": 133.18,
+      "end": 133.6
+    },
+    {
+      "word": "avec",
+      "start": 133.6,
+      "end": 133.94
+    },
+    {
+      "word": "des",
+      "start": 133.94,
+      "end": 134.18
+    },
+    {
+      "word": "liens",
+      "start": 134.18,
+      "end": 134.4
+    },
+    {
+      "word": "si",
+      "start": 134.4,
+      "end": 134.68
+    },
+    {
+      "word": "vous",
+      "start": 134.68,
+      "end": 134.86
+    },
+    {
+      "word": "voulez",
+      "start": 134.86,
+      "end": 135.08
+    },
+    {
+      "word": "Et",
+      "start": 135.76,
+      "end": 135.88
+    },
+    {
+      "word": "on",
+      "start": 135.88,
+      "end": 135.95999999999998
+    },
+    {
+      "word": "vous",
+      "start": 135.95999999999998,
+      "end": 136.2
+    },
+    {
+      "word": "renvoie",
+      "start": 136.2,
+      "end": 136.26
+    },
+    {
+      "word": "la",
+      "start": 136.26,
+      "end": 136.39999999999998
+    },
+    {
+      "word": "vidéo",
+      "start": 136.39999999999998,
+      "end": 136.55999999999997
+    },
+    {
+      "word": "finale",
+      "start": 136.55999999999997,
+      "end": 136.85999999999999
+    },
+    {
+      "word": "en",
+      "start": 136.85999999999999,
+      "end": 136.98
+    },
+    {
+      "word": "MP4.",
+      "start": 136.98,
+      "end": 137.54
+    },
+    {
+      "word": "Un",
+      "start": 138.58,
+      "end": 138.72
+    },
+    {
+      "word": "fichier",
+      "start": 138.72,
+      "end": 138.98
+    },
+    {
+      "word": "XML",
+      "start": 138.98,
+      "end": 139.42
+    },
+    {
+      "word": "ouvré",
+      "start": 139.42,
+      "end": 139.96
+    },
+    {
+      "word": "Un",
+      "start": 141.08,
+      "end": 141.24
+    },
+    {
+      "word": "fichier",
+      "start": 141.24,
+      "end": 141.46
+    },
+    {
+      "word": "XML",
+      "start": 141.46,
+      "end": 141.9
+    },
+    {
+      "word": "ouvrable",
+      "start": 141.9,
+      "end": 142.4
+    },
+    {
+      "word": "sur",
+      "start": 142.4,
+      "end": 142.62
+    },
+    {
+      "word": "Premiere,",
+      "start": 142.62,
+      "end": 142.98
+    },
+    {
+      "word": "Final",
+      "start": 143.81,
+      "end": 144.10999999999999
+    },
+    {
+      "word": "Cut,",
+      "start": 144.10999999999999,
+      "end": 144.65
+    },
+    {
+      "word": "un",
+      "start": 144.65,
+      "end": 144.75
+    },
+    {
+      "word": "fichier",
+      "start": 144.75,
+      "end": 145.07
+    },
+    {
+      "word": "XML",
+      "start": 145.07,
+      "end": 145.51
+    },
+    {
+      "word": "ouvrable",
+      "start": 145.51,
+      "end": 146.07
+    },
+    {
+      "word": "sur",
+      "start": 146.07,
+      "end": 146.23
+    },
+    {
+      "word": "Premiere",
+      "start": 146.23,
+      "end": 146.60999999999999
+    },
+    {
+      "word": "et",
+      "start": 146.60999999999999,
+      "end": 146.79
+    },
+    {
+      "word": "Final",
+      "start": 146.79,
+      "end": 147.09
+    },
+    {
+      "word": "Cut,",
+      "start": 147.09,
+      "end": 147.93
+    },
+    {
+      "word": "et",
+      "start": 147.93,
+      "end": 148.07
+    },
+    {
+      "word": "un",
+      "start": 148.07,
+      "end": 148.10999999999999
+    },
+    {
+      "word": "fichier",
+      "start": 148.10999999999999,
+      "end": 148.51
+    },
+    {
+      "word": "O2O",
+      "start": 148.51,
+      "end": 149.09
+    },
+    {
+      "word": "pour",
+      "start": 149.09,
+      "end": 149.23
+    },
+    {
+      "word": "DaVinci",
+      "start": 149.23,
+      "end": 149.63
+    },
+    {
+      "word": "Resolve.",
+      "start": 149.63,
+      "end": 149.97
+    },
+    {
+      "word": "Si",
+      "start": 150.94,
+      "end": 151.1
+    },
+    {
+      "word": "vous",
+      "start": 151.1,
+      "end": 151.3
+    },
+    {
+      "word": "voulez",
+      "start": 151.3,
+      "end": 151.5
+    },
+    {
+      "word": "affiner",
+      "start": 151.5,
+      "end": 151.9
+    },
+    {
+      "word": "le",
+      "start": 151.9,
+      "end": 152.04
+    },
+    {
+      "word": "montage.",
+      "start": 152.04,
+      "end": 152.88
+    },
+    {
+      "word": "On",
+      "start": 153.73,
+      "end": 153.87
+    },
+    {
+      "word": "fait",
+      "start": 153.87,
+      "end": 153.97
+    },
+    {
+      "word": "tout",
+      "start": 153.97,
+      "end": 154.23
+    },
+    {
+      "word": "ça",
+      "start": 154.23,
+      "end": 154.39
+    },
+    {
+      "word": "en",
+      "start": 154.39,
+      "end": 154.65
+    },
+    {
+      "word": "moins",
+      "start": 154.65,
+      "end": 154.79
+    },
+    {
+      "word": "de",
+      "start": 154.79,
+      "end": 154.93
+    },
+    {
+      "word": "10",
+      "start": 154.93,
+      "end": 155.05
+    },
+    {
+      "word": "minutes",
+      "start": 155.05,
+      "end": 155.09
+    },
+    {
+      "word": "Et",
+      "start": 156.15999999999997,
+      "end": 156.29999999999998
+    },
+    {
+      "word": "vous,",
+      "start": 156.29999999999998,
+      "end": 156.55999999999997
+    },
+    {
+      "word": "vous",
+      "start": 156.55999999999997,
+      "end": 156.89999999999998
+    },
+    {
+      "word": "allez",
+      "start": 156.89999999999998,
+      "end": 157.05999999999997
+    },
+    {
+      "word": "gagner",
+      "start": 157.05999999999997,
+      "end": 157.26
+    },
+    {
+      "word": "des",
+      "start": 157.26,
+      "end": 157.49999999999997
+    },
+    {
+      "word": "heures",
+      "start": 157.49999999999997,
+      "end": 157.65999999999997
+    },
+    {
+      "word": "de",
+      "start": 157.65999999999997,
+      "end": 157.77999999999997
+    },
+    {
+      "word": "travail.",
+      "start": 157.77999999999997,
+      "end": 158.65999999999997
+    },
+    {
+      "word": ".",
+      "start": 158.97,
+      "end": 159.73
+    }
+  ],
+  "clips": [
+    {
+      "clip_id": 1,
+      "source_start_seconds": 1.12,
+      "source_end_seconds": 7.38,
+      "duration_seconds": 6.26,
+      "resolution": "local",
+      "word_count": 18,
+      "segment_count": 1,
+      "text": "Le 2 juin 2025, l'acteur Omar Sy saute en parachute d'un avion qui vole à 900 km à",
+      "transcription": {
+        "text": " Le 2 juin 2025, l'acteur Omar Sy saute en parachute d'un avion qui vole à 900 km à",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 6.26,
+        "words": [
+          {
+            "word": "Le",
+            "start": 0,
+            "end": 0.16
+          },
+          {
+            "word": "2",
+            "start": 0.16,
+            "end": 0.42
+          },
+          {
+            "word": "juin",
+            "start": 0.42,
+            "end": 0.68
+          },
+          {
+            "word": "2025,",
+            "start": 0.68,
+            "end": 1.94
+          },
+          {
+            "word": "l'acteur",
+            "start": 1.94,
+            "end": 2.28
+          },
+          {
+            "word": "Omar",
+            "start": 2.28,
+            "end": 2.76
+          },
+          {
+            "word": "Sy",
+            "start": 2.76,
+            "end": 2.94
+          },
+          {
+            "word": "saute",
+            "start": 2.94,
+            "end": 3.4
+          },
+          {
+            "word": "en",
+            "start": 3.4,
+            "end": 3.56
+          },
+          {
+            "word": "parachute",
+            "start": 3.56,
+            "end": 4.04
+          },
+          {
+            "word": "d'un",
+            "start": 4.04,
+            "end": 4.4
+          },
+          {
+            "word": "avion",
+            "start": 4.4,
+            "end": 4.8
+          },
+          {
+            "word": "qui",
+            "start": 4.8,
+            "end": 5.12
+          },
+          {
+            "word": "vole",
+            "start": 5.12,
+            "end": 5.26
+          },
+          {
+            "word": "à",
+            "start": 5.26,
+            "end": 5.36
+          },
+          {
+            "word": "900",
+            "start": 5.36,
+            "end": 5.72
+          },
+          {
+            "word": "km",
+            "start": 5.72,
+            "end": 6.18
+          },
+          {
+            "word": "à",
+            "start": 6.18,
+            "end": 6.34
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 6.26,
+            "text": " Le 2 juin 2025, l'acteur Omar Sy saute en parachute d'un avion qui vole à 900 km à",
+            "tokens": [
+              50365,
+              1456,
+              568,
+              3649,
+              259,
+              39209,
+              11,
+              287,
+              6,
+              578,
+              13629,
+              33784,
+              3902,
+              41223,
+              465,
+              44665,
+              274,
+              6,
+              409,
+              1305,
+              313,
+              1956,
+              49877,
+              1531,
+              22016,
+              10698,
+              1531,
+              50678
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.12038873,
+            "compression_ratio": 0.95454544,
+            "no_speech_prob": 0.0066948966
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxnc7ce4trqmxdx2w9as2k"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 2,
+      "source_start_seconds": 8.52,
+      "source_end_seconds": 11.33,
+      "duration_seconds": 2.8100000000000005,
+      "resolution": "local",
+      "word_count": 13,
+      "segment_count": 1,
+      "text": "Il atterrit dans la ville de New York, sur le toit d'un immeuble.",
+      "transcription": {
+        "text": " Il atterrit dans la ville de New York, sur le toit d'un immeuble.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 2.81,
+        "words": [
+          {
+            "word": "Il",
+            "start": 0.14,
+            "end": 0.26
+          },
+          {
+            "word": "atterrit",
+            "start": 0.26,
+            "end": 0.46
+          },
+          {
+            "word": "dans",
+            "start": 0.46,
+            "end": 0.58
+          },
+          {
+            "word": "la",
+            "start": 0.58,
+            "end": 0.72
+          },
+          {
+            "word": "ville",
+            "start": 0.72,
+            "end": 0.84
+          },
+          {
+            "word": "de",
+            "start": 0.84,
+            "end": 1
+          },
+          {
+            "word": "New",
+            "start": 1,
+            "end": 1.2
+          },
+          {
+            "word": "York,",
+            "start": 1.2,
+            "end": 2.04
+          },
+          {
+            "word": "sur",
+            "start": 2.04,
+            "end": 2.14
+          },
+          {
+            "word": "le",
+            "start": 2.14,
+            "end": 2.3
+          },
+          {
+            "word": "toit",
+            "start": 2.3,
+            "end": 2.4
+          },
+          {
+            "word": "d'un",
+            "start": 2.4,
+            "end": 2.58
+          },
+          {
+            "word": "immeuble.",
+            "start": 2.58,
+            "end": 3.08
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 2.82,
+            "text": " Il atterrit dans la ville de New York, sur le toit d'un immeuble.",
+            "tokens": [
+              50365,
+              4416,
+              412,
+              391,
+              3210,
+              2680,
+              635,
+              23019,
+              368,
+              1873,
+              3609,
+              11,
+              1022,
+              476,
+              281,
+              270,
+              274,
+              6,
+              409,
+              566,
+              1398,
+              84,
+              638,
+              13,
+              50506
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.0729529,
+            "compression_ratio": 0.9285714,
+            "no_speech_prob": 0.013102038
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxncksfv9vf067r50frcb9"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 3,
+      "source_start_seconds": 12.02,
+      "source_end_seconds": 15.68,
+      "duration_seconds": 3.66,
+      "resolution": "local",
+      "word_count": 9,
+      "segment_count": 1,
+      "text": "Lecteur qui pèse 110 kilos tombe sur George Clooney.",
+      "transcription": {
+        "text": " Lecteur qui pèse 110 kilos tombe sur George Clooney.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 3.66,
+        "words": [
+          {
+            "word": "Lecteur",
+            "start": 0.28,
+            "end": 0.78
+          },
+          {
+            "word": "qui",
+            "start": 0.78,
+            "end": 0.98
+          },
+          {
+            "word": "pèse",
+            "start": 0.98,
+            "end": 1.14
+          },
+          {
+            "word": "110",
+            "start": 1.14,
+            "end": 1.44
+          },
+          {
+            "word": "kilos",
+            "start": 1.44,
+            "end": 1.74
+          },
+          {
+            "word": "tombe",
+            "start": 1.74,
+            "end": 2.7
+          },
+          {
+            "word": "sur",
+            "start": 2.7,
+            "end": 2.98
+          },
+          {
+            "word": "George",
+            "start": 2.98,
+            "end": 3.36
+          },
+          {
+            "word": "Clooney.",
+            "start": 3.36,
+            "end": 3.6
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 3.66,
+            "text": " Lecteur qui pèse 110 kilos tombe sur George Clooney.",
+            "tokens": [
+              50365,
+              37196,
+              13629,
+              1956,
+              280,
+              45238,
+              20154,
+              30000,
+              2916,
+              650,
+              1022,
+              7136,
+              31901,
+              1308,
+              13,
+              50548
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.18797667,
+            "compression_ratio": 0.8833333,
+            "no_speech_prob": 0.022206591
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxnd0ee50a9ypm1bthaqt4"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 4,
+      "source_start_seconds": 16.02,
+      "source_end_seconds": 19.33,
+      "duration_seconds": 3.3099999999999987,
+      "resolution": "local",
+      "word_count": 13,
+      "segment_count": 1,
+      "text": "Georges Cooney lui dit, je cite, « On marche sous la tête ».",
+      "transcription": {
+        "text": " Georges Cooney lui dit, je cite, « On marche sous la tête ».",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 3.31,
+        "words": [
+          {
+            "word": "Georges",
+            "start": 0.32,
+            "end": 0.6
+          },
+          {
+            "word": "Cooney",
+            "start": 0.6,
+            "end": 0.86
+          },
+          {
+            "word": "lui",
+            "start": 0.86,
+            "end": 1.06
+          },
+          {
+            "word": "dit,",
+            "start": 1.06,
+            "end": 1.26
+          },
+          {
+            "word": "je",
+            "start": 1.26,
+            "end": 1.64
+          },
+          {
+            "word": "cite,",
+            "start": 1.64,
+            "end": 2.46
+          },
+          {
+            "word": "«",
+            "start": 2.46,
+            "end": 2.7
+          },
+          {
+            "word": "On",
+            "start": 2.7,
+            "end": 2.72
+          },
+          {
+            "word": "marche",
+            "start": 2.72,
+            "end": 2.86
+          },
+          {
+            "word": "sous",
+            "start": 2.86,
+            "end": 2.98
+          },
+          {
+            "word": "la",
+            "start": 2.98,
+            "end": 3.12
+          },
+          {
+            "word": "tête",
+            "start": 3.12,
+            "end": 3.32
+          },
+          {
+            "word": "».",
+            "start": 3.32,
+            "end": 3.34
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 3.44,
+            "text": " Georges Cooney lui dit, je cite, « On marche sous la tête ».",
+            "tokens": [
+              50365,
+              27909,
+              2880,
+              3066,
+              1308,
+              8783,
+              6176,
+              11,
+              1506,
+              37771,
+              11,
+              4657,
+              1282,
+              32631,
+              16686,
+              635,
+              24661,
+              28082,
+              50537
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.43151608,
+            "compression_ratio": 0.8873239,
+            "no_speech_prob": 0.01064193
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxndc3e50sk7ef5729r6ww"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 5,
+      "source_start_seconds": 20.22,
+      "source_end_seconds": 22.08,
+      "duration_seconds": 1.8599999999999994,
+      "resolution": "local",
+      "word_count": 11,
+      "segment_count": 1,
+      "text": "Tout ce que je viens de dire est faux à 100%.",
+      "transcription": {
+        "text": " Tout ce que je viens de dire est faux à 100%.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 1.8599999999999999,
+        "words": [
+          {
+            "word": "Tout",
+            "start": 0.28,
+            "end": 0.42
+          },
+          {
+            "word": "ce",
+            "start": 0.42,
+            "end": 0.46
+          },
+          {
+            "word": "que",
+            "start": 0.46,
+            "end": 0.56
+          },
+          {
+            "word": "je",
+            "start": 0.56,
+            "end": 0.64
+          },
+          {
+            "word": "viens",
+            "start": 0.64,
+            "end": 0.7
+          },
+          {
+            "word": "de",
+            "start": 0.7,
+            "end": 0.78
+          },
+          {
+            "word": "dire",
+            "start": 0.78,
+            "end": 0.88
+          },
+          {
+            "word": "est",
+            "start": 0.88,
+            "end": 1
+          },
+          {
+            "word": "faux",
+            "start": 1,
+            "end": 1.12
+          },
+          {
+            "word": "à",
+            "start": 1.12,
+            "end": 1.2
+          },
+          {
+            "word": "100%.",
+            "start": 1.2,
+            "end": 1.62
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 1.86,
+            "text": " Tout ce que je viens de dire est faux à 100%.",
+            "tokens": [
+              50365,
+              20453,
+              1769,
+              631,
+              1506,
+              36421,
+              368,
+              1264,
+              871,
+              36659,
+              1531,
+              2319,
+              6856,
+              50458
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.17518255,
+            "compression_ratio": 0.8518519,
+            "no_speech_prob": 0.011188861
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxndvae2zb2jb9dkw0spa3"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 6,
+      "source_start_seconds": 22.47,
+      "source_end_seconds": 27.83,
+      "duration_seconds": 5.359999999999999,
+      "resolution": "local",
+      "word_count": 17,
+      "segment_count": 1,
+      "text": "Mais c'est pas important. Ce qui compte, c'est que cette vidéo a été montée automatiquement par automontage.",
+      "transcription": {
+        "text": " Mais c'est pas important. Ce qui compte, c'est que cette vidéo a été montée automatiquement par automontage.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 5.36,
+        "words": [
+          {
+            "word": "Mais",
+            "start": 0.2,
+            "end": 0.36
+          },
+          {
+            "word": "c'est",
+            "start": 0.36,
+            "end": 0.58
+          },
+          {
+            "word": "pas",
+            "start": 0.58,
+            "end": 0.68
+          },
+          {
+            "word": "important.",
+            "start": 0.68,
+            "end": 1.46
+          },
+          {
+            "word": "Ce",
+            "start": 1.46,
+            "end": 1.48
+          },
+          {
+            "word": "qui",
+            "start": 1.48,
+            "end": 1.64
+          },
+          {
+            "word": "compte,",
+            "start": 1.64,
+            "end": 2.06
+          },
+          {
+            "word": "c'est",
+            "start": 2.06,
+            "end": 2.08
+          },
+          {
+            "word": "que",
+            "start": 2.08,
+            "end": 2.18
+          },
+          {
+            "word": "cette",
+            "start": 2.18,
+            "end": 2.36
+          },
+          {
+            "word": "vidéo",
+            "start": 2.36,
+            "end": 2.68
+          },
+          {
+            "word": "a",
+            "start": 2.68,
+            "end": 2.9
+          },
+          {
+            "word": "été",
+            "start": 2.9,
+            "end": 3.12
+          },
+          {
+            "word": "montée",
+            "start": 3.12,
+            "end": 3.34
+          },
+          {
+            "word": "automatiquement",
+            "start": 3.34,
+            "end": 3.94
+          },
+          {
+            "word": "par",
+            "start": 3.94,
+            "end": 4.38
+          },
+          {
+            "word": "automontage.",
+            "start": 4.38,
+            "end": 5.84
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 5.36,
+            "text": " Mais c'est pas important. Ce qui compte, c'est que cette vidéo a été montée automatiquement par automontage.",
+            "tokens": [
+              50365,
+              6313,
+              269,
+              6,
+              377,
+              1736,
+              1021,
+              13,
+              8257,
+              1956,
+              19424,
+              11,
+              269,
+              6,
+              377,
+              631,
+              5550,
+              11660,
+              257,
+              8862,
+              8143,
+              3856,
+              28034,
+              27703,
+              971,
+              3553,
+              896,
+              609,
+              13,
+              50633
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.10571069,
+            "compression_ratio": 1.1428572,
+            "no_speech_prob": 0.00055848766
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxne8se33bw9qyjge0r240"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 7,
+      "source_start_seconds": 28.22,
+      "source_end_seconds": 29.03,
+      "duration_seconds": 0.8100000000000023,
+      "resolution": "local",
+      "word_count": 3,
+      "segment_count": 1,
+      "text": "Au bout d'où",
+      "transcription": {
+        "text": " Au bout d'où",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 0.81,
+        "words": [
+          {
+            "word": "Au",
+            "start": 0.08,
+            "end": 0.3
+          },
+          {
+            "word": "bout",
+            "start": 0.3,
+            "end": 0.4
+          },
+          {
+            "word": "d'où",
+            "start": 0.4,
+            "end": 0.54
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 0.82,
+            "text": " Au bout d'où",
+            "tokens": [
+              50365,
+              12160,
+              15738,
+              274,
+              6,
+              78,
+              5035,
+              50406
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.59945375,
+            "compression_ratio": 0.61904764,
+            "no_speech_prob": 0.022935076
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxnep4e5cbgz0gthjfvm3s"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 8,
+      "source_start_seconds": 29.97,
+      "source_end_seconds": 34.18,
+      "duration_seconds": 4.210000000000001,
+      "resolution": "local",
+      "word_count": 11,
+      "segment_count": 1,
+      "text": "Automontage fait tout le montage pour vous. Il identifie et illustre",
+      "transcription": {
+        "text": " Automontage fait tout le montage pour vous. Il identifie et illustre",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 4.21,
+        "words": [
+          {
+            "word": "Automontage",
+            "start": 0.3,
+            "end": 0.88
+          },
+          {
+            "word": "fait",
+            "start": 0.88,
+            "end": 1.04
+          },
+          {
+            "word": "tout",
+            "start": 1.04,
+            "end": 1.24
+          },
+          {
+            "word": "le",
+            "start": 1.24,
+            "end": 1.34
+          },
+          {
+            "word": "montage",
+            "start": 1.34,
+            "end": 1.56
+          },
+          {
+            "word": "pour",
+            "start": 1.56,
+            "end": 1.8
+          },
+          {
+            "word": "vous.",
+            "start": 1.8,
+            "end": 2.44
+          },
+          {
+            "word": "Il",
+            "start": 2.44,
+            "end": 2.5
+          },
+          {
+            "word": "identifie",
+            "start": 2.5,
+            "end": 3.1
+          },
+          {
+            "word": "et",
+            "start": 3.1,
+            "end": 3.42
+          },
+          {
+            "word": "illustre",
+            "start": 3.42,
+            "end": 3.96
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 4.2,
+            "text": " Automontage fait tout le montage pour vous. Il identifie et illustre",
+            "tokens": [
+              50365,
+              24619,
+              896,
+              609,
+              3887,
+              3486,
+              476,
+              40184,
+              2016,
+              2630,
+              13,
+              4416,
+              2473,
+              42726,
+              1030,
+              8490,
+              265,
+              50575
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.16908371,
+            "compression_ratio": 1.030303,
+            "no_speech_prob": 0.001446506
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxnf1ye5ds0jxkx86k0ab2"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 9,
+      "source_start_seconds": 34.62,
+      "source_end_seconds": 38.28,
+      "duration_seconds": 3.6600000000000037,
+      "resolution": "local",
+      "word_count": 10,
+      "segment_count": 1,
+      "text": "les dates, les lieux, les chiffres, les listes, comme celle-ci.",
+      "transcription": {
+        "text": " les dates, les lieux, les chiffres, les listes, comme celle-ci.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 3.66,
+        "words": [
+          {
+            "word": "les",
+            "start": 0,
+            "end": 0.22
+          },
+          {
+            "word": "dates,",
+            "start": 0.22,
+            "end": 1
+          },
+          {
+            "word": "les",
+            "start": 1,
+            "end": 1.06
+          },
+          {
+            "word": "lieux,",
+            "start": 1.06,
+            "end": 1.46
+          },
+          {
+            "word": "les",
+            "start": 1.46,
+            "end": 1.56
+          },
+          {
+            "word": "chiffres,",
+            "start": 1.56,
+            "end": 2.26
+          },
+          {
+            "word": "les",
+            "start": 2.26,
+            "end": 2.32
+          },
+          {
+            "word": "listes,",
+            "start": 2.32,
+            "end": 2.74
+          },
+          {
+            "word": "comme",
+            "start": 2.74,
+            "end": 3.12
+          },
+          {
+            "word": "celle-ci.",
+            "start": 3.12,
+            "end": 3.96
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 3.48,
+            "text": " les dates, les lieux, les chiffres, les listes, comme celle-ci.",
+            "tokens": [
+              50365,
+              1512,
+              11691,
+              11,
+              1512,
+              4544,
+              2449,
+              11,
+              1512,
+              37627,
+              495,
+              11,
+              1512,
+              1329,
+              279,
+              11,
+              5173,
+              25722,
+              12,
+              537,
+              13,
+              50539
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.15306245,
+            "compression_ratio": 1.1666666,
+            "no_speech_prob": 0.011301426
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxnfbge5gb8wcqkvfekbjx"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 10,
+      "source_start_seconds": 38.67,
+      "source_end_seconds": 39.78,
+      "duration_seconds": 1.1099999999999994,
+      "resolution": "local",
+      "word_count": 4,
+      "segment_count": 1,
+      "text": "Et c'est pas tout.",
+      "transcription": {
+        "text": " Et c'est pas tout.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 1.11,
+        "words": [
+          {
+            "word": "Et",
+            "start": 0.32,
+            "end": 0.42
+          },
+          {
+            "word": "c'est",
+            "start": 0.42,
+            "end": 0.52
+          },
+          {
+            "word": "pas",
+            "start": 0.52,
+            "end": 0.66
+          },
+          {
+            "word": "tout.",
+            "start": 0.66,
+            "end": 1.14
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 0.8,
+            "text": " Et c'est pas tout.",
+            "tokens": [
+              50365,
+              3790,
+              269,
+              6,
+              377,
+              1736,
+              3486,
+              13,
+              50405
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.19471714,
+            "compression_ratio": 0.6923077,
+            "no_speech_prob": 0.006983621
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxnfrqfvt92jjr5vcjvtz6"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 11,
+      "source_start_seconds": 39.97,
+      "source_end_seconds": 42.93,
+      "duration_seconds": 2.960000000000001,
+      "resolution": "local",
+      "word_count": 10,
+      "segment_count": 1,
+      "text": "Il fait les zooms, coupe les silences, élimine les mauvaises",
+      "transcription": {
+        "text": " Il fait les zooms, coupe les silences, élimine les mauvaises",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 2.96,
+        "words": [
+          {
+            "word": "Il",
+            "start": 0.28,
+            "end": 0.42
+          },
+          {
+            "word": "fait",
+            "start": 0.42,
+            "end": 0.56
+          },
+          {
+            "word": "les",
+            "start": 0.56,
+            "end": 0.74
+          },
+          {
+            "word": "zooms,",
+            "start": 0.74,
+            "end": 1.28
+          },
+          {
+            "word": "coupe",
+            "start": 1.28,
+            "end": 1.32
+          },
+          {
+            "word": "les",
+            "start": 1.32,
+            "end": 1.46
+          },
+          {
+            "word": "silences,",
+            "start": 1.46,
+            "end": 2.38
+          },
+          {
+            "word": "élimine",
+            "start": 2.38,
+            "end": 2.72
+          },
+          {
+            "word": "les",
+            "start": 2.72,
+            "end": 2.9
+          },
+          {
+            "word": "mauvaises",
+            "start": 2.9,
+            "end": 3.16
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 2.96,
+            "text": " Il fait les zooms, coupe les silences, élimine les mauvaises",
+            "tokens": [
+              50365,
+              4416,
+              3887,
+              1512,
+              5721,
+              4785,
+              11,
+              45136,
+              1512,
+              3425,
+              2667,
+              11,
+              1136,
+              4197,
+              533,
+              1512,
+              50018,
+              279,
+              50513
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.123690546,
+            "compression_ratio": 1,
+            "no_speech_prob": 0.008057916
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxng1ne3eahzpv2c82xqek"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 12,
+      "source_start_seconds": 44.62,
+      "source_end_seconds": 48.08,
+      "duration_seconds": 3.460000000000001,
+      "resolution": "local",
+      "word_count": 9,
+      "segment_count": 1,
+      "text": "Automontage garde la dernière prise et élimine les précédentes.",
+      "transcription": {
+        "text": " Automontage garde la dernière prise et élimine les précédentes.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 3.46,
+        "words": [
+          {
+            "word": "Automontage",
+            "start": 0.32,
+            "end": 0.88
+          },
+          {
+            "word": "garde",
+            "start": 0.88,
+            "end": 1.16
+          },
+          {
+            "word": "la",
+            "start": 1.16,
+            "end": 1.28
+          },
+          {
+            "word": "dernière",
+            "start": 1.28,
+            "end": 1.66
+          },
+          {
+            "word": "prise",
+            "start": 1.66,
+            "end": 2.1
+          },
+          {
+            "word": "et",
+            "start": 2.1,
+            "end": 2.42
+          },
+          {
+            "word": "élimine",
+            "start": 2.42,
+            "end": 2.8
+          },
+          {
+            "word": "les",
+            "start": 2.8,
+            "end": 2.94
+          },
+          {
+            "word": "précédentes.",
+            "start": 2.94,
+            "end": 3.44
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 3.46,
+            "text": " Automontage garde la dernière prise et élimine les précédentes.",
+            "tokens": [
+              50365,
+              6049,
+              298,
+              896,
+              609,
+              47903,
+              635,
+              29028,
+              49468,
+              1030,
+              1136,
+              4197,
+              533,
+              1512,
+              48653,
+              9240,
+              13,
+              50538
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.19114545,
+            "compression_ratio": 0.95714283,
+            "no_speech_prob": 0.00074240274
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxngfwe3kaa68shzbe7nnj"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 13,
+      "source_start_seconds": 48.97,
+      "source_end_seconds": 52.73,
+      "duration_seconds": 3.759999999999998,
+      "resolution": "local",
+      "word_count": 12,
+      "segment_count": 1,
+      "text": "Et en plus de tout ça, Automontage identifie les appels à l'action.",
+      "transcription": {
+        "text": " Et en plus de tout ça, Automontage identifie les appels à l'action.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 3.76,
+        "words": [
+          {
+            "word": "Et",
+            "start": 0.3,
+            "end": 0.36
+          },
+          {
+            "word": "en",
+            "start": 0.36,
+            "end": 0.42
+          },
+          {
+            "word": "plus",
+            "start": 0.42,
+            "end": 0.72
+          },
+          {
+            "word": "de",
+            "start": 0.72,
+            "end": 0.84
+          },
+          {
+            "word": "tout",
+            "start": 0.84,
+            "end": 1.06
+          },
+          {
+            "word": "ça,",
+            "start": 1.06,
+            "end": 1.56
+          },
+          {
+            "word": "Automontage",
+            "start": 1.56,
+            "end": 2.22
+          },
+          {
+            "word": "identifie",
+            "start": 2.22,
+            "end": 2.72
+          },
+          {
+            "word": "les",
+            "start": 2.72,
+            "end": 2.9
+          },
+          {
+            "word": "appels",
+            "start": 2.9,
+            "end": 3.1
+          },
+          {
+            "word": "à",
+            "start": 3.1,
+            "end": 3.22
+          },
+          {
+            "word": "l'action.",
+            "start": 3.22,
+            "end": 4
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 3.52,
+            "text": " Et en plus de tout ça, Automontage identifie les appels à l'action.",
+            "tokens": [
+              50365,
+              3790,
+              465,
+              1804,
+              368,
+              3486,
+              2788,
+              11,
+              24619,
+              896,
+              609,
+              2473,
+              42726,
+              1512,
+              724,
+              1625,
+              1531,
+              287,
+              6,
+              2894,
+              13,
+              50541
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.14558901,
+            "compression_ratio": 0.92,
+            "no_speech_prob": 0.0016656244
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxngvbfvxsn0kta35yysr5"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 14,
+      "source_start_seconds": 53.02,
+      "source_end_seconds": 56.43,
+      "duration_seconds": 3.4099999999999966,
+      "resolution": "local",
+      "word_count": 14,
+      "segment_count": 1,
+      "text": "Je peux vous dire de vous abonner à la chaîne pour déclencher cette animation",
+      "transcription": {
+        "text": " Je peux vous dire de vous abonner à la chaîne pour déclencher cette animation",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 3.41,
+        "words": [
+          {
+            "word": "Je",
+            "start": 0.32,
+            "end": 0.38
+          },
+          {
+            "word": "peux",
+            "start": 0.38,
+            "end": 0.48
+          },
+          {
+            "word": "vous",
+            "start": 0.48,
+            "end": 0.64
+          },
+          {
+            "word": "dire",
+            "start": 0.64,
+            "end": 0.76
+          },
+          {
+            "word": "de",
+            "start": 0.76,
+            "end": 0.9
+          },
+          {
+            "word": "vous",
+            "start": 0.9,
+            "end": 1.04
+          },
+          {
+            "word": "abonner",
+            "start": 1.04,
+            "end": 1.22
+          },
+          {
+            "word": "à",
+            "start": 1.22,
+            "end": 1.34
+          },
+          {
+            "word": "la",
+            "start": 1.34,
+            "end": 1.52
+          },
+          {
+            "word": "chaîne",
+            "start": 1.52,
+            "end": 1.76
+          },
+          {
+            "word": "pour",
+            "start": 1.76,
+            "end": 2.06
+          },
+          {
+            "word": "déclencher",
+            "start": 2.06,
+            "end": 2.44
+          },
+          {
+            "word": "cette",
+            "start": 2.44,
+            "end": 2.64
+          },
+          {
+            "word": "animation",
+            "start": 2.64,
+            "end": 3.12
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 3.4,
+            "text": " Je peux vous dire de vous abonner à la chaîne pour déclencher cette animation",
+            "tokens": [
+              50365,
+              2588,
+              14844,
+              2630,
+              1264,
+              368,
+              2630,
+              410,
+              38885,
+              1531,
+              635,
+              28036,
+              2016,
+              2795,
+              3474,
+              268,
+              6759,
+              5550,
+              9603,
+              50535
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.09652591,
+            "compression_ratio": 1,
+            "no_speech_prob": 0.0049675563
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxnhb7e66sq1bpv7hn3eb3"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 15,
+      "source_start_seconds": 56.97,
+      "source_end_seconds": 58.73,
+      "duration_seconds": 1.759999999999998,
+      "resolution": "local",
+      "word_count": 4,
+      "segment_count": 1,
+      "text": "de commenter la vidéo",
+      "transcription": {
+        "text": " de commenter la vidéo",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 1.76,
+        "words": [
+          {
+            "word": "de",
+            "start": 0,
+            "end": 0.48
+          },
+          {
+            "word": "commenter",
+            "start": 0.48,
+            "end": 0.94
+          },
+          {
+            "word": "la",
+            "start": 0.94,
+            "end": 1.08
+          },
+          {
+            "word": "vidéo",
+            "start": 1.08,
+            "end": 1.42
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 1.76,
+            "text": " de commenter la vidéo",
+            "tokens": [
+              50365,
+              368,
+              2871,
+              260,
+              635,
+              11660,
+              50453
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.20018616,
+            "compression_ratio": 0.73333335,
+            "no_speech_prob": 0.0021768615
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxnhrqe6ktbezmzw5vz7zn"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 16,
+      "source_start_seconds": 58.92,
+      "source_end_seconds": 61.93,
+      "duration_seconds": 3.009999999999998,
+      "resolution": "local",
+      "word_count": 9,
+      "segment_count": 1,
+      "text": "ou encore de mentionner un réseau social comme Instagram.",
+      "transcription": {
+        "text": " ou encore de mentionner un réseau social comme Instagram.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 3.01,
+        "words": [
+          {
+            "word": "ou",
+            "start": 0.1,
+            "end": 0.32
+          },
+          {
+            "word": "encore",
+            "start": 0.32,
+            "end": 0.72
+          },
+          {
+            "word": "de",
+            "start": 0.72,
+            "end": 0.98
+          },
+          {
+            "word": "mentionner",
+            "start": 0.98,
+            "end": 1.52
+          },
+          {
+            "word": "un",
+            "start": 1.52,
+            "end": 1.64
+          },
+          {
+            "word": "réseau",
+            "start": 1.64,
+            "end": 1.84
+          },
+          {
+            "word": "social",
+            "start": 1.84,
+            "end": 2.24
+          },
+          {
+            "word": "comme",
+            "start": 2.24,
+            "end": 2.56
+          },
+          {
+            "word": "Instagram.",
+            "start": 2.56,
+            "end": 2.96
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 3.02,
+            "text": " ou encore de mentionner un réseau social comme Instagram.",
+            "tokens": [
+              50365,
+              2820,
+              10122,
+              368,
+              2152,
+              1193,
+              517,
+              34044,
+              1459,
+              2093,
+              5173,
+              5281,
+              13,
+              50516
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.07449313,
+            "compression_ratio": 0.9206349,
+            "no_speech_prob": 0.011578883
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxnj5jfw5atae8zh73ak17"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 17,
+      "source_start_seconds": 63.22,
+      "source_end_seconds": 65.48,
+      "duration_seconds": 2.260000000000005,
+      "resolution": "local",
+      "word_count": 9,
+      "segment_count": 1,
+      "text": "Bref, c'est magique mais il y a encore mieux.",
+      "transcription": {
+        "text": " Bref, c'est magique mais il y a encore mieux.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 2.26,
+        "words": [
+          {
+            "word": "Bref,",
+            "start": 0.32,
+            "end": 0.82
+          },
+          {
+            "word": "c'est",
+            "start": 0.82,
+            "end": 0.92
+          },
+          {
+            "word": "magique",
+            "start": 0.92,
+            "end": 1.36
+          },
+          {
+            "word": "mais",
+            "start": 1.36,
+            "end": 1.58
+          },
+          {
+            "word": "il",
+            "start": 1.58,
+            "end": 1.66
+          },
+          {
+            "word": "y",
+            "start": 1.66,
+            "end": 1.68
+          },
+          {
+            "word": "a",
+            "start": 1.68,
+            "end": 1.74
+          },
+          {
+            "word": "encore",
+            "start": 1.74,
+            "end": 2.16
+          },
+          {
+            "word": "mieux.",
+            "start": 2.16,
+            "end": 2.54
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 2.26,
+            "text": " Bref, c'est magique mais il y a encore mieux.",
+            "tokens": [
+              50365,
+              49957,
+              11,
+              269,
+              6,
+              377,
+              2258,
+              1925,
+              2420,
+              1930,
+              288,
+              257,
+              10122,
+              20401,
+              13,
+              50478
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.21809742,
+            "compression_ratio": 0.9,
+            "no_speech_prob": 0.0042545884
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxnjh0e49tw2rtgh5fy910"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 18,
+      "source_start_seconds": 66.16999999999999,
+      "source_end_seconds": 68.23,
+      "duration_seconds": 2.0600000000000165,
+      "resolution": "local",
+      "word_count": 5,
+      "segment_count": 1,
+      "text": "Si vous utilisez un script",
+      "transcription": {
+        "text": " Si vous utilisez un script",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 2.06,
+        "words": [
+          {
+            "word": "Si",
+            "start": 0.18,
+            "end": 0.44
+          },
+          {
+            "word": "vous",
+            "start": 0.44,
+            "end": 0.68
+          },
+          {
+            "word": "utilisez",
+            "start": 0.68,
+            "end": 1.12
+          },
+          {
+            "word": "un",
+            "start": 1.12,
+            "end": 1.62
+          },
+          {
+            "word": "script",
+            "start": 1.62,
+            "end": 2
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 2.06,
+            "text": " Si vous utilisez un script",
+            "tokens": [
+              50365,
+              4909,
+              2630,
+              39475,
+              89,
+              517,
+              5755,
+              50468
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.04407153,
+            "compression_ratio": 0.7647059,
+            "no_speech_prob": 2.8179355e-05
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxnjwje4e9daxf8d957f1x"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 19,
+      "source_start_seconds": 68.41999999999999,
+      "source_end_seconds": 73.98,
+      "duration_seconds": 5.5600000000000165,
+      "resolution": "local",
+      "word_count": 11,
+      "segment_count": 1,
+      "text": "ou en prompteur, pour mieux contrôler l'automontage, envoyez-nous ce document texte.",
+      "transcription": {
+        "text": " ou en prompteur, pour mieux contrôler l'automontage, envoyez-nous ce document texte.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 5.5600000000000005,
+        "words": [
+          {
+            "word": "ou",
+            "start": 0.26,
+            "end": 0.4
+          },
+          {
+            "word": "en",
+            "start": 0.4,
+            "end": 0.54
+          },
+          {
+            "word": "prompteur,",
+            "start": 0.54,
+            "end": 1.5
+          },
+          {
+            "word": "pour",
+            "start": 1.5,
+            "end": 1.6
+          },
+          {
+            "word": "mieux",
+            "start": 1.6,
+            "end": 1.82
+          },
+          {
+            "word": "contrôler",
+            "start": 1.82,
+            "end": 2.2
+          },
+          {
+            "word": "l'automontage,",
+            "start": 2.2,
+            "end": 3.78
+          },
+          {
+            "word": "envoyez-nous",
+            "start": 3.78,
+            "end": 4.14
+          },
+          {
+            "word": "ce",
+            "start": 4.14,
+            "end": 4.54
+          },
+          {
+            "word": "document",
+            "start": 4.54,
+            "end": 4.88
+          },
+          {
+            "word": "texte.",
+            "start": 4.88,
+            "end": 5.34
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 5.56,
+            "text": " ou en prompteur, pour mieux contrôler l'automontage, envoyez-nous ce document texte.",
+            "tokens": [
+              50365,
+              2820,
+              465,
+              12391,
+              13629,
+              11,
+              2016,
+              20401,
+              10273,
+              2851,
+              1918,
+              287,
+              6,
+              1375,
+              298,
+              896,
+              609,
+              11,
+              35351,
+              4371,
+              12,
+              47008,
+              1769,
+              4166,
+              2487,
+              68,
+              13,
+              50643
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.11662411,
+            "compression_ratio": 1.0240964,
+            "no_speech_prob": 0.0004680503
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxnk8be4r8s08njk6ytw9j"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 20,
+      "source_start_seconds": 77.16999999999999,
+      "source_end_seconds": 79.43,
+      "duration_seconds": 2.2600000000000193,
+      "resolution": "local",
+      "word_count": 5,
+      "segment_count": 1,
+      "text": "Si vous utilisez un script",
+      "transcription": {
+        "text": " Si vous utilisez un script",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 2.26,
+        "words": [
+          {
+            "word": "Si",
+            "start": 0.34,
+            "end": 0.46
+          },
+          {
+            "word": "vous",
+            "start": 0.46,
+            "end": 1.22
+          },
+          {
+            "word": "utilisez",
+            "start": 1.22,
+            "end": 1.52
+          },
+          {
+            "word": "un",
+            "start": 1.52,
+            "end": 1.78
+          },
+          {
+            "word": "script",
+            "start": 1.78,
+            "end": 2.06
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 2.26,
+            "text": " Si vous utilisez un script",
+            "tokens": [
+              50365,
+              4909,
+              2630,
+              39475,
+              89,
+              517,
+              5755,
+              50478
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.10155783,
+            "compression_ratio": 0.7647059,
+            "no_speech_prob": 0.0045860675
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxnkqze7sr1ks865fz7m76"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 21,
+      "source_start_seconds": 79.66999999999999,
+      "source_end_seconds": 83.53,
+      "duration_seconds": 3.8600000000000136,
+      "resolution": "local",
+      "word_count": 9,
+      "segment_count": 1,
+      "text": "Pour mieux piloter votre montage, envoyez-nous un document texte.",
+      "transcription": {
+        "text": " Pour mieux piloter votre montage, envoyez-nous un document texte.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 3.86,
+        "words": [
+          {
+            "word": "Pour",
+            "start": 0,
+            "end": 0.48
+          },
+          {
+            "word": "mieux",
+            "start": 0.48,
+            "end": 1
+          },
+          {
+            "word": "piloter",
+            "start": 1,
+            "end": 1.44
+          },
+          {
+            "word": "votre",
+            "start": 1.44,
+            "end": 1.66
+          },
+          {
+            "word": "montage,",
+            "start": 1.66,
+            "end": 2.56
+          },
+          {
+            "word": "envoyez-nous",
+            "start": 2.56,
+            "end": 2.94
+          },
+          {
+            "word": "un",
+            "start": 2.94,
+            "end": 3.24
+          },
+          {
+            "word": "document",
+            "start": 3.24,
+            "end": 3.58
+          },
+          {
+            "word": "texte.",
+            "start": 3.58,
+            "end": 3.86
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 3.86,
+            "text": " Pour mieux piloter votre montage, envoyez-nous un document texte.",
+            "tokens": [
+              50365,
+              8732,
+              20401,
+              9691,
+              260,
+              10087,
+              40184,
+              11,
+              35351,
+              4371,
+              12,
+              47008,
+              517,
+              4166,
+              2487,
+              68,
+              13,
+              50558
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.1232154,
+            "compression_ratio": 0.9701493,
+            "no_speech_prob": 0.00024897148
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxnq5yfxjrsmjqsg0gfjyz"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 22,
+      "source_start_seconds": 84.16999999999999,
+      "source_end_seconds": 90.18,
+      "duration_seconds": 6.010000000000019,
+      "resolution": "local",
+      "word_count": 22,
+      "segment_count": 1,
+      "text": "Et dans ce document texte, pour piloter le montage, je mettais bien des mots en gras, des guillemets, des tirés, des titres.",
+      "transcription": {
+        "text": " Et dans ce document texte, pour piloter le montage, je mettais bien des mots en gras, des guillemets, des tirés, des titres.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 6.01,
+        "words": [
+          {
+            "word": "Et",
+            "start": 0.22,
+            "end": 0.34
+          },
+          {
+            "word": "dans",
+            "start": 0.34,
+            "end": 0.48
+          },
+          {
+            "word": "ce",
+            "start": 0.48,
+            "end": 0.58
+          },
+          {
+            "word": "document",
+            "start": 0.58,
+            "end": 0.96
+          },
+          {
+            "word": "texte,",
+            "start": 0.96,
+            "end": 1.38
+          },
+          {
+            "word": "pour",
+            "start": 1.38,
+            "end": 1.48
+          },
+          {
+            "word": "piloter",
+            "start": 1.48,
+            "end": 1.9
+          },
+          {
+            "word": "le",
+            "start": 1.9,
+            "end": 2.02
+          },
+          {
+            "word": "montage,",
+            "start": 2.02,
+            "end": 2.56
+          },
+          {
+            "word": "je",
+            "start": 2.56,
+            "end": 2.58
+          },
+          {
+            "word": "mettais",
+            "start": 2.58,
+            "end": 2.8
+          },
+          {
+            "word": "bien",
+            "start": 2.8,
+            "end": 2.92
+          },
+          {
+            "word": "des",
+            "start": 2.92,
+            "end": 3.12
+          },
+          {
+            "word": "mots",
+            "start": 3.12,
+            "end": 3.34
+          },
+          {
+            "word": "en",
+            "start": 3.34,
+            "end": 3.7
+          },
+          {
+            "word": "gras,",
+            "start": 3.7,
+            "end": 3.94
+          },
+          {
+            "word": "des",
+            "start": 3.94,
+            "end": 4.12
+          },
+          {
+            "word": "guillemets,",
+            "start": 4.12,
+            "end": 4.58
+          },
+          {
+            "word": "des",
+            "start": 4.58,
+            "end": 4.7
+          },
+          {
+            "word": "tirés,",
+            "start": 4.7,
+            "end": 5.18
+          },
+          {
+            "word": "des",
+            "start": 5.18,
+            "end": 5.28
+          },
+          {
+            "word": "titres.",
+            "start": 5.28,
+            "end": 6.28
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 6.02,
+            "text": " Et dans ce document texte, pour piloter le montage, je mettais bien des mots en gras, des guillemets, des tirés, des titres.",
+            "tokens": [
+              50365,
+              3790,
+              2680,
+              1769,
+              4166,
+              2487,
+              68,
+              11,
+              2016,
+              9691,
+              260,
+              476,
+              40184,
+              11,
+              1506,
+              1131,
+              1328,
+              271,
+              3610,
+              730,
+              34009,
+              465,
+              29444,
+              11,
+              730,
+              695,
+              373,
+              443,
+              1385,
+              11,
+              730,
+              13807,
+              2191,
+              11,
+              730,
+              3459,
+              495,
+              13,
+              50666
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.1359104,
+            "compression_ratio": 1.25,
+            "no_speech_prob": 0.0034024548
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxnthwfym8fr0mnbq4fd1s"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 23,
+      "source_start_seconds": 90.36999999999999,
+      "source_end_seconds": 91.73,
+      "duration_seconds": 1.3600000000000136,
+      "resolution": "local",
+      "word_count": 5,
+      "segment_count": 1,
+      "text": "mais aussi des liens hypertextes.",
+      "transcription": {
+        "text": " mais aussi des liens hypertextes.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 1.3599999999999999,
+        "words": [
+          {
+            "word": "mais",
+            "start": 0.22,
+            "end": 0.32
+          },
+          {
+            "word": "aussi",
+            "start": 0.32,
+            "end": 0.52
+          },
+          {
+            "word": "des",
+            "start": 0.52,
+            "end": 0.7
+          },
+          {
+            "word": "liens",
+            "start": 0.7,
+            "end": 0.86
+          },
+          {
+            "word": "hypertextes.",
+            "start": 0.86,
+            "end": 1.36
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 1.36,
+            "text": " mais aussi des liens hypertextes.",
+            "tokens": [
+              50365,
+              2420,
+              6212,
+              730,
+              375,
+              694,
+              9848,
+              25111,
+              279,
+              13,
+              50433
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.13250554,
+            "compression_ratio": 0.80487806,
+            "no_speech_prob": 0.009352021
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxnxweec4r3re4rge08aj0"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 24,
+      "source_start_seconds": 92.41999999999999,
+      "source_end_seconds": 97.33000000000001,
+      "duration_seconds": 4.910000000000025,
+      "resolution": "local",
+      "word_count": 17,
+      "segment_count": 1,
+      "text": "Des liens vers des articles, on les affichera sur le côté avec les auteurs et la date.",
+      "transcription": {
+        "text": " Des liens vers des articles, on les affichera sur le côté avec les auteurs et la date.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 4.91,
+        "words": [
+          {
+            "word": "Des",
+            "start": 0.32,
+            "end": 0.42
+          },
+          {
+            "word": "liens",
+            "start": 0.42,
+            "end": 0.7
+          },
+          {
+            "word": "vers",
+            "start": 0.7,
+            "end": 0.86
+          },
+          {
+            "word": "des",
+            "start": 0.86,
+            "end": 1.02
+          },
+          {
+            "word": "articles,",
+            "start": 1.02,
+            "end": 1.54
+          },
+          {
+            "word": "on",
+            "start": 1.54,
+            "end": 1.84
+          },
+          {
+            "word": "les",
+            "start": 1.84,
+            "end": 1.94
+          },
+          {
+            "word": "affichera",
+            "start": 1.94,
+            "end": 2.32
+          },
+          {
+            "word": "sur",
+            "start": 2.32,
+            "end": 2.54
+          },
+          {
+            "word": "le",
+            "start": 2.54,
+            "end": 2.7
+          },
+          {
+            "word": "côté",
+            "start": 2.7,
+            "end": 3.04
+          },
+          {
+            "word": "avec",
+            "start": 3.04,
+            "end": 3.48
+          },
+          {
+            "word": "les",
+            "start": 3.48,
+            "end": 3.62
+          },
+          {
+            "word": "auteurs",
+            "start": 3.62,
+            "end": 4.1
+          },
+          {
+            "word": "et",
+            "start": 4.1,
+            "end": 4.28
+          },
+          {
+            "word": "la",
+            "start": 4.28,
+            "end": 4.46
+          },
+          {
+            "word": "date.",
+            "start": 4.46,
+            "end": 5.4
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 4.92,
+            "text": " Des liens vers des articles, on les affichera sur le côté avec les auteurs et la date.",
+            "tokens": [
+              50365,
+              3885,
+              375,
+              694,
+              1774,
+              730,
+              11290,
+              11,
+              322,
+              1512,
+              2096,
+              480,
+              1663,
+              1022,
+              476,
+              18437,
+              4163,
+              1512,
+              257,
+              1169,
+              2156,
+              1030,
+              635,
+              4002,
+              13,
+              50611
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.12561993,
+            "compression_ratio": 1.060241,
+            "no_speech_prob": 0.0023117473
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxp16tebfre2t9qxtpk2mh"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 25,
+      "source_start_seconds": 97.77,
+      "source_end_seconds": 100.73,
+      "duration_seconds": 2.960000000000008,
+      "resolution": "local",
+      "word_count": 12,
+      "segment_count": 1,
+      "text": "ou des liens vers des tweets, on les a fait juste là.",
+      "transcription": {
+        "text": " ou des liens vers des tweets, on les a fait juste là.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 2.96,
+        "words": [
+          {
+            "word": "ou",
+            "start": 0.18,
+            "end": 0.3
+          },
+          {
+            "word": "des",
+            "start": 0.3,
+            "end": 0.44
+          },
+          {
+            "word": "liens",
+            "start": 0.44,
+            "end": 0.6
+          },
+          {
+            "word": "vers",
+            "start": 0.6,
+            "end": 0.92
+          },
+          {
+            "word": "des",
+            "start": 0.92,
+            "end": 1.08
+          },
+          {
+            "word": "tweets,",
+            "start": 1.08,
+            "end": 1.64
+          },
+          {
+            "word": "on",
+            "start": 1.64,
+            "end": 1.82
+          },
+          {
+            "word": "les",
+            "start": 1.82,
+            "end": 1.94
+          },
+          {
+            "word": "a",
+            "start": 1.94,
+            "end": 2.06
+          },
+          {
+            "word": "fait",
+            "start": 2.06,
+            "end": 2.18
+          },
+          {
+            "word": "juste",
+            "start": 2.18,
+            "end": 2.46
+          },
+          {
+            "word": "là.",
+            "start": 2.46,
+            "end": 2.7
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 2.96,
+            "text": " ou des liens vers des tweets, on les a fait juste là.",
+            "tokens": [
+              50365,
+              2820,
+              730,
+              375,
+              694,
+              1774,
+              730,
+              25671,
+              11,
+              322,
+              1512,
+              257,
+              3887,
+              13016,
+              3684,
+              13,
+              50513
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.13703947,
+            "compression_ratio": 0.94736844,
+            "no_speech_prob": 0.0010061214
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxp4myedv84wxrq7ddy8q3"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 26,
+      "source_start_seconds": 101.07,
+      "source_end_seconds": 104.38000000000001,
+      "duration_seconds": 3.3100000000000165,
+      "resolution": "local",
+      "word_count": 7,
+      "segment_count": 1,
+      "text": "ou des liens vers des sites internet",
+      "transcription": {
+        "text": " ou des liens vers des sites internet",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 3.31,
+        "words": [
+          {
+            "word": "ou",
+            "start": 0.18,
+            "end": 0.34
+          },
+          {
+            "word": "des",
+            "start": 0.34,
+            "end": 0.46
+          },
+          {
+            "word": "liens",
+            "start": 0.46,
+            "end": 0.62
+          },
+          {
+            "word": "vers",
+            "start": 0.62,
+            "end": 0.74
+          },
+          {
+            "word": "des",
+            "start": 0.74,
+            "end": 0.88
+          },
+          {
+            "word": "sites",
+            "start": 0.88,
+            "end": 1.04
+          },
+          {
+            "word": "internet",
+            "start": 1.04,
+            "end": 1.58
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 3.3,
+            "text": " ou des liens vers des sites internet",
+            "tokens": [
+              50365,
+              2820,
+              730,
+              375,
+              694,
+              1774,
+              730,
+              7533,
+              4705,
+              50530
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.20843086,
+            "compression_ratio": 0.9230769,
+            "no_speech_prob": 0.0016664326
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxp81aeffs3989zgcbyra0"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 27,
+      "source_start_seconds": 104.86999999999999,
+      "source_end_seconds": 107.48,
+      "duration_seconds": 2.6100000000000136,
+      "resolution": "local",
+      "word_count": 11,
+      "segment_count": 1,
+      "text": "ou des liens vers des images qui vont apparaître comme ça.",
+      "transcription": {
+        "text": " ou des liens vers des images qui vont apparaître comme ça.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 2.61,
+        "words": [
+          {
+            "word": "ou",
+            "start": 0.2,
+            "end": 0.32
+          },
+          {
+            "word": "des",
+            "start": 0.32,
+            "end": 0.48
+          },
+          {
+            "word": "liens",
+            "start": 0.48,
+            "end": 0.6
+          },
+          {
+            "word": "vers",
+            "start": 0.6,
+            "end": 0.74
+          },
+          {
+            "word": "des",
+            "start": 0.74,
+            "end": 0.92
+          },
+          {
+            "word": "images",
+            "start": 0.92,
+            "end": 1.3
+          },
+          {
+            "word": "qui",
+            "start": 1.3,
+            "end": 1.5
+          },
+          {
+            "word": "vont",
+            "start": 1.5,
+            "end": 1.62
+          },
+          {
+            "word": "apparaître",
+            "start": 1.62,
+            "end": 1.94
+          },
+          {
+            "word": "comme",
+            "start": 1.94,
+            "end": 2.2
+          },
+          {
+            "word": "ça.",
+            "start": 2.2,
+            "end": 2.34
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 2.62,
+            "text": " ou des liens vers des images qui vont apparaître comme ça.",
+            "tokens": [
+              50365,
+              2820,
+              730,
+              375,
+              694,
+              1774,
+              730,
+              5267,
+              1956,
+              14362,
+              724,
+              2419,
+              25011,
+              5173,
+              2788,
+              13,
+              50496
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.105702326,
+            "compression_ratio": 0.9375,
+            "no_speech_prob": 0.0019176983
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxpbpdeh1spb794xahyvcq"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 28,
+      "source_start_seconds": 107.82,
+      "source_end_seconds": 109.48,
+      "duration_seconds": 1.6600000000000108,
+      "resolution": "local",
+      "word_count": 7,
+      "segment_count": 1,
+      "text": "ou encore des liens vers des vidéos.",
+      "transcription": {
+        "text": " ou encore des liens vers des vidéos.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 1.6600000000000001,
+        "words": [
+          {
+            "word": "ou",
+            "start": 0.28,
+            "end": 0.42
+          },
+          {
+            "word": "encore",
+            "start": 0.42,
+            "end": 0.68
+          },
+          {
+            "word": "des",
+            "start": 0.68,
+            "end": 0.88
+          },
+          {
+            "word": "liens",
+            "start": 0.88,
+            "end": 1
+          },
+          {
+            "word": "vers",
+            "start": 1,
+            "end": 1.18
+          },
+          {
+            "word": "des",
+            "start": 1.18,
+            "end": 1.3
+          },
+          {
+            "word": "vidéos.",
+            "start": 1.3,
+            "end": 2.1
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 1.66,
+            "text": " ou encore des liens vers des vidéos.",
+            "tokens": [
+              50365,
+              2820,
+              10122,
+              730,
+              375,
+              694,
+              1774,
+              730,
+              25417,
+              13,
+              50448
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.08286219,
+            "compression_ratio": 0.88095236,
+            "no_speech_prob": 0.0002652555
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxpf37efwvqkb0bswg7046"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 29,
+      "source_start_seconds": 109.91999999999999,
+      "source_end_seconds": 111.03,
+      "duration_seconds": 1.1100000000000136,
+      "resolution": "local",
+      "word_count": 5,
+      "segment_count": 1,
+      "text": "Ça paraît trompe, prends-moi la.",
+      "transcription": {
+        "text": " Ça paraît trompe, prends-moi la.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 1.11,
+        "words": [
+          {
+            "word": "Ça",
+            "start": 0,
+            "end": 0.18
+          },
+          {
+            "word": "paraît",
+            "start": 0.18,
+            "end": 0.32
+          },
+          {
+            "word": "trompe,",
+            "start": 0.32,
+            "end": 0.62
+          },
+          {
+            "word": "prends-moi",
+            "start": 0.62,
+            "end": 0.8
+          },
+          {
+            "word": "la.",
+            "start": 0.8,
+            "end": 0.94
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 1.12,
+            "text": " Ça paraît trompe, prends-moi la.",
+            "tokens": [
+              50365,
+              11527,
+              1690,
+              20028,
+              504,
+              298,
+              494,
+              11,
+              46750,
+              12,
+              29292,
+              635,
+              13,
+              50421
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.65358776,
+            "compression_ratio": 0.8095238,
+            "no_speech_prob": 0.0084218765
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxpjdxek3ah1p3zj4vfrbx"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 30,
+      "source_start_seconds": 112.07,
+      "source_end_seconds": 115.83000000000001,
+      "duration_seconds": 3.7600000000000193,
+      "resolution": "local",
+      "word_count": 12,
+      "segment_count": 1,
+      "text": "Elles apparaîtront pendant la longueur du lien et on fait les transitions.",
+      "transcription": {
+        "text": " Elles apparaîtront pendant la longueur du lien et on fait les transitions.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 3.76,
+        "words": [
+          {
+            "word": "Elles",
+            "start": 0.32,
+            "end": 0.46
+          },
+          {
+            "word": "apparaîtront",
+            "start": 0.46,
+            "end": 0.9
+          },
+          {
+            "word": "pendant",
+            "start": 0.9,
+            "end": 1.16
+          },
+          {
+            "word": "la",
+            "start": 1.16,
+            "end": 1.38
+          },
+          {
+            "word": "longueur",
+            "start": 1.38,
+            "end": 1.76
+          },
+          {
+            "word": "du",
+            "start": 1.76,
+            "end": 1.94
+          },
+          {
+            "word": "lien",
+            "start": 1.94,
+            "end": 2.16
+          },
+          {
+            "word": "et",
+            "start": 2.16,
+            "end": 2.66
+          },
+          {
+            "word": "on",
+            "start": 2.66,
+            "end": 2.76
+          },
+          {
+            "word": "fait",
+            "start": 2.76,
+            "end": 2.9
+          },
+          {
+            "word": "les",
+            "start": 2.9,
+            "end": 3.02
+          },
+          {
+            "word": "transitions.",
+            "start": 3.02,
+            "end": 4.24
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 3.76,
+            "text": " Elles apparaîtront pendant la longueur du lien et on fait les transitions.",
+            "tokens": [
+              50365,
+              8353,
+              279,
+              724,
+              2419,
+              7517,
+              6903,
+              896,
+              17338,
+              635,
+              44445,
+              374,
+              1581,
+              32553,
+              1030,
+              322,
+              3887,
+              1512,
+              23767,
+              13,
+              50553
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.08084859,
+            "compression_ratio": 1,
+            "no_speech_prob": 0.0005731562
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxpns6e86r8e5w0s6zdgmd"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 31,
+      "source_start_seconds": 116.52,
+      "source_end_seconds": 120.98,
+      "duration_seconds": 4.460000000000008,
+      "resolution": "local",
+      "word_count": 18,
+      "segment_count": 1,
+      "text": "Vous pouvez aussi préciser le timecode de début et de fin pour qu'on découpe la vidéo pour vous.",
+      "transcription": {
+        "text": " Vous pouvez aussi préciser le timecode de début et de fin pour qu'on découpe la vidéo pour vous.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 4.46,
+        "words": [
+          {
+            "word": "Vous",
+            "start": 0.18,
+            "end": 0.36
+          },
+          {
+            "word": "pouvez",
+            "start": 0.36,
+            "end": 0.52
+          },
+          {
+            "word": "aussi",
+            "start": 0.52,
+            "end": 0.72
+          },
+          {
+            "word": "préciser",
+            "start": 0.72,
+            "end": 1.14
+          },
+          {
+            "word": "le",
+            "start": 1.14,
+            "end": 1.34
+          },
+          {
+            "word": "timecode",
+            "start": 1.34,
+            "end": 1.82
+          },
+          {
+            "word": "de",
+            "start": 1.82,
+            "end": 2.14
+          },
+          {
+            "word": "début",
+            "start": 2.14,
+            "end": 2.44
+          },
+          {
+            "word": "et",
+            "start": 2.44,
+            "end": 2.7
+          },
+          {
+            "word": "de",
+            "start": 2.7,
+            "end": 2.82
+          },
+          {
+            "word": "fin",
+            "start": 2.82,
+            "end": 3.06
+          },
+          {
+            "word": "pour",
+            "start": 3.06,
+            "end": 3.34
+          },
+          {
+            "word": "qu'on",
+            "start": 3.34,
+            "end": 3.5
+          },
+          {
+            "word": "découpe",
+            "start": 3.5,
+            "end": 3.84
+          },
+          {
+            "word": "la",
+            "start": 3.84,
+            "end": 3.98
+          },
+          {
+            "word": "vidéo",
+            "start": 3.98,
+            "end": 4.24
+          },
+          {
+            "word": "pour",
+            "start": 4.24,
+            "end": 4.48
+          },
+          {
+            "word": "vous.",
+            "start": 4.48,
+            "end": 4.68
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 4.46,
+            "text": " Vous pouvez aussi préciser le timecode de début et de fin pour qu'on découpe la vidéo pour vous.",
+            "tokens": [
+              50365,
+              10802,
+              18248,
+              6212,
+              23107,
+              6694,
+              476,
+              565,
+              22332,
+              368,
+              22594,
+              1030,
+              368,
+              962,
+              2016,
+              421,
+              6,
+              266,
+              9198,
+              23266,
+              635,
+              11660,
+              2016,
+              2630,
+              13,
+              50588
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.0960267,
+            "compression_ratio": 1.1235955,
+            "no_speech_prob": 0.0040592533
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxps4we8ws1wdwayp6g4pk"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 32,
+      "source_start_seconds": 122.11999999999999,
+      "source_end_seconds": 127.58000000000001,
+      "duration_seconds": 5.460000000000022,
+      "resolution": "local",
+      "word_count": 19,
+      "segment_count": 1,
+      "text": "Si vous mettez votre lien vidéo dans le mot extrait, on intercale la vidéo avec le son comme ça.",
+      "transcription": {
+        "text": " Si vous mettez votre lien vidéo dans le mot extrait, on intercale la vidéo avec le son comme ça.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 5.46,
+        "words": [
+          {
+            "word": "Si",
+            "start": 0.28,
+            "end": 0.4
+          },
+          {
+            "word": "vous",
+            "start": 0.4,
+            "end": 0.56
+          },
+          {
+            "word": "mettez",
+            "start": 0.56,
+            "end": 0.72
+          },
+          {
+            "word": "votre",
+            "start": 0.72,
+            "end": 0.92
+          },
+          {
+            "word": "lien",
+            "start": 0.92,
+            "end": 1.14
+          },
+          {
+            "word": "vidéo",
+            "start": 1.14,
+            "end": 1.4
+          },
+          {
+            "word": "dans",
+            "start": 1.4,
+            "end": 1.56
+          },
+          {
+            "word": "le",
+            "start": 1.56,
+            "end": 1.7
+          },
+          {
+            "word": "mot",
+            "start": 1.7,
+            "end": 1.9
+          },
+          {
+            "word": "extrait,",
+            "start": 1.9,
+            "end": 3.04
+          },
+          {
+            "word": "on",
+            "start": 3.04,
+            "end": 3.1
+          },
+          {
+            "word": "intercale",
+            "start": 3.1,
+            "end": 3.68
+          },
+          {
+            "word": "la",
+            "start": 3.68,
+            "end": 4
+          },
+          {
+            "word": "vidéo",
+            "start": 4,
+            "end": 4.32
+          },
+          {
+            "word": "avec",
+            "start": 4.32,
+            "end": 4.64
+          },
+          {
+            "word": "le",
+            "start": 4.64,
+            "end": 4.8
+          },
+          {
+            "word": "son",
+            "start": 4.8,
+            "end": 5.02
+          },
+          {
+            "word": "comme",
+            "start": 5.02,
+            "end": 5.26
+          },
+          {
+            "word": "ça.",
+            "start": 5.26,
+            "end": 5.42
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 5.46,
+            "text": " Si vous mettez votre lien vidéo dans le mot extrait, on intercale la vidéo avec le son comme ça.",
+            "tokens": [
+              50365,
+              4909,
+              2630,
+              1131,
+              47616,
+              10087,
+              32553,
+              11660,
+              2680,
+              476,
+              2184,
+              2857,
+              270,
+              11,
+              322,
+              728,
+              37088,
+              635,
+              11660,
+              4163,
+              476,
+              1872,
+              5173,
+              2788,
+              13,
+              50638
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.048653226,
+            "compression_ratio": 1.1,
+            "no_speech_prob": 0.00034312817
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxpwhkekqrjzxdmfz4namw"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 33,
+      "source_start_seconds": 129.12,
+      "source_end_seconds": 135.13,
+      "duration_seconds": 6.009999999999991,
+      "resolution": "local",
+      "word_count": 16,
+      "segment_count": 2,
+      "text": "Envoyez-nous votre Roche vidéo brute sur automontage.com accompagné d'un document avec des liens si vous voulez",
+      "transcription": {
+        "text": " Envoyez-nous votre Roche vidéo brute sur automontage.com accompagné d'un document avec des liens si vous voulez",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 6.01,
+        "words": [
+          {
+            "word": "Envoyez-nous",
+            "start": 0.26,
+            "end": 0.68
+          },
+          {
+            "word": "votre",
+            "start": 0.68,
+            "end": 0.9
+          },
+          {
+            "word": "Roche",
+            "start": 0.9,
+            "end": 1.36
+          },
+          {
+            "word": "vidéo",
+            "start": 1.36,
+            "end": 1.86
+          },
+          {
+            "word": "brute",
+            "start": 1.86,
+            "end": 2.18
+          },
+          {
+            "word": "sur",
+            "start": 2.18,
+            "end": 2.46
+          },
+          {
+            "word": "automontage.com",
+            "start": 2.46,
+            "end": 3.32
+          },
+          {
+            "word": "accompagné",
+            "start": 3.52,
+            "end": 3.9
+          },
+          {
+            "word": "d'un",
+            "start": 3.9,
+            "end": 4.06
+          },
+          {
+            "word": "document",
+            "start": 4.06,
+            "end": 4.48
+          },
+          {
+            "word": "avec",
+            "start": 4.48,
+            "end": 4.82
+          },
+          {
+            "word": "des",
+            "start": 4.82,
+            "end": 5.06
+          },
+          {
+            "word": "liens",
+            "start": 5.06,
+            "end": 5.28
+          },
+          {
+            "word": "si",
+            "start": 5.28,
+            "end": 5.56
+          },
+          {
+            "word": "vous",
+            "start": 5.56,
+            "end": 5.74
+          },
+          {
+            "word": "voulez",
+            "start": 5.74,
+            "end": 5.96
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 3.44,
+            "text": " Envoyez-nous votre Roche vidéo brute sur automontage.com",
+            "tokens": [
+              50365,
+              2193,
+              35176,
+              4371,
+              12,
+              47008,
+              10087,
+              3101,
+              1876,
+              11660,
+              47909,
+              1022,
+              3553,
+              896,
+              609,
+              13,
+              1112,
+              50537
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.25286356,
+            "compression_ratio": 1.0865384,
+            "no_speech_prob": 0.018535852
+          },
+          {
+            "id": 1,
+            "seek": 0,
+            "start": 3.44,
+            "end": 6.02,
+            "text": " accompagné d'un document avec des liens si vous voulez",
+            "tokens": [
+              50537,
+              18037,
+              4535,
+              526,
+              274,
+              6,
+              409,
+              4166,
+              4163,
+              730,
+              375,
+              694,
+              1511,
+              2630,
+              29072,
+              50666
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.25286356,
+            "compression_ratio": 1.0865384,
+            "no_speech_prob": 0.018535852
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxq00jeb1bp6v3v42x946j"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 34,
+      "source_start_seconds": 135.42,
+      "source_end_seconds": 137.53,
+      "duration_seconds": 2.1100000000000136,
+      "resolution": "local",
+      "word_count": 9,
+      "segment_count": 1,
+      "text": "Et on vous renvoie la vidéo finale en MP4.",
+      "transcription": {
+        "text": " Et on vous renvoie la vidéo finale en MP4.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 2.109999999,
+        "words": [
+          {
+            "word": "Et",
+            "start": 0.34,
+            "end": 0.46
+          },
+          {
+            "word": "on",
+            "start": 0.46,
+            "end": 0.54
+          },
+          {
+            "word": "vous",
+            "start": 0.54,
+            "end": 0.78
+          },
+          {
+            "word": "renvoie",
+            "start": 0.78,
+            "end": 0.84
+          },
+          {
+            "word": "la",
+            "start": 0.84,
+            "end": 0.98
+          },
+          {
+            "word": "vidéo",
+            "start": 0.98,
+            "end": 1.14
+          },
+          {
+            "word": "finale",
+            "start": 1.14,
+            "end": 1.44
+          },
+          {
+            "word": "en",
+            "start": 1.44,
+            "end": 1.56
+          },
+          {
+            "word": "MP4.",
+            "start": 1.56,
+            "end": 2.12
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 2.12,
+            "text": " Et on vous renvoie la vidéo finale en MP4.",
+            "tokens": [
+              50365,
+              3790,
+              322,
+              2630,
+              8124,
+              3080,
+              414,
+              635,
+              11660,
+              23510,
+              465,
+              14146,
+              19,
+              13,
+              50471
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.21130434,
+            "compression_ratio": 0.84313726,
+            "no_speech_prob": 0.0015449848
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxq3fgec8vrtd1m8yscvb4"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 35,
+      "source_start_seconds": 138.22,
+      "source_end_seconds": 140.28,
+      "duration_seconds": 2.0600000000000023,
+      "resolution": "local",
+      "word_count": 4,
+      "segment_count": 1,
+      "text": "Un fichier XML ouvré",
+      "transcription": {
+        "text": " Un fichier XML ouvré",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 2.06,
+        "words": [
+          {
+            "word": "Un",
+            "start": 0.36,
+            "end": 0.5
+          },
+          {
+            "word": "fichier",
+            "start": 0.5,
+            "end": 0.76
+          },
+          {
+            "word": "XML",
+            "start": 0.76,
+            "end": 1.2
+          },
+          {
+            "word": "ouvré",
+            "start": 1.2,
+            "end": 1.74
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 2.06,
+            "text": " Un fichier XML ouvré",
+            "tokens": [
+              50365,
+              1156,
+              283,
+              480,
+              811,
+              43484,
+              21157,
+              10521,
+              50468
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.3184118,
+            "compression_ratio": 0.7241379,
+            "no_speech_prob": 0.018420694
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxq6qged0amt5c0yrrdvtt"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 36,
+      "source_start_seconds": 140.72,
+      "source_end_seconds": 142.78,
+      "duration_seconds": 2.0600000000000023,
+      "resolution": "local",
+      "word_count": 6,
+      "segment_count": 1,
+      "text": "Un fichier XML ouvrable sur Premiere,",
+      "transcription": {
+        "text": " Un fichier XML ouvrable sur Premiere,",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 2.06,
+        "words": [
+          {
+            "word": "Un",
+            "start": 0.36,
+            "end": 0.52
+          },
+          {
+            "word": "fichier",
+            "start": 0.52,
+            "end": 0.74
+          },
+          {
+            "word": "XML",
+            "start": 0.74,
+            "end": 1.18
+          },
+          {
+            "word": "ouvrable",
+            "start": 1.18,
+            "end": 1.68
+          },
+          {
+            "word": "sur",
+            "start": 1.68,
+            "end": 1.9
+          },
+          {
+            "word": "Premiere,",
+            "start": 1.9,
+            "end": 2.26
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 2.06,
+            "text": " Un fichier XML ouvrable sur Premiere,",
+            "tokens": [
+              50365,
+              1156,
+              283,
+              480,
+              811,
+              43484,
+              21157,
+              424,
+              638,
+              1022,
+              39724,
+              11,
+              50468
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.20356965,
+            "compression_ratio": 0.84090906,
+            "no_speech_prob": 0.0069932425
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxq9zderqsy70hnsbxkafm"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 37,
+      "source_start_seconds": 143.47,
+      "source_end_seconds": 149.98000000000002,
+      "duration_seconds": 6.510000000000019,
+      "resolution": "local",
+      "word_count": 18,
+      "segment_count": 2,
+      "text": "Final Cut, un fichier XML ouvrable sur Premiere et Final Cut, et un fichier O2O pour DaVinci Resolve.",
+      "transcription": {
+        "text": " Final Cut, un fichier XML ouvrable sur Premiere et Final Cut, et un fichier O2O pour DaVinci Resolve.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 6.51,
+        "words": [
+          {
+            "word": "Final",
+            "start": 0.34,
+            "end": 0.64
+          },
+          {
+            "word": "Cut,",
+            "start": 0.64,
+            "end": 1.18
+          },
+          {
+            "word": "un",
+            "start": 1.18,
+            "end": 1.28
+          },
+          {
+            "word": "fichier",
+            "start": 1.28,
+            "end": 1.6
+          },
+          {
+            "word": "XML",
+            "start": 1.6,
+            "end": 2.04
+          },
+          {
+            "word": "ouvrable",
+            "start": 2.04,
+            "end": 2.6
+          },
+          {
+            "word": "sur",
+            "start": 2.6,
+            "end": 2.76
+          },
+          {
+            "word": "Premiere",
+            "start": 2.76,
+            "end": 3.14
+          },
+          {
+            "word": "et",
+            "start": 3.14,
+            "end": 3.32
+          },
+          {
+            "word": "Final",
+            "start": 3.32,
+            "end": 3.62
+          },
+          {
+            "word": "Cut,",
+            "start": 3.62,
+            "end": 4.46
+          },
+          {
+            "word": "et",
+            "start": 4.46,
+            "end": 4.6
+          },
+          {
+            "word": "un",
+            "start": 4.6,
+            "end": 4.64
+          },
+          {
+            "word": "fichier",
+            "start": 4.64,
+            "end": 5.04
+          },
+          {
+            "word": "O2O",
+            "start": 5.04,
+            "end": 5.62
+          },
+          {
+            "word": "pour",
+            "start": 5.62,
+            "end": 5.76
+          },
+          {
+            "word": "DaVinci",
+            "start": 5.76,
+            "end": 6.16
+          },
+          {
+            "word": "Resolve.",
+            "start": 6.16,
+            "end": 6.5
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 4,
+            "text": " Final Cut, un fichier XML ouvrable sur Premiere et Final Cut,",
+            "tokens": [
+              50365,
+              13443,
+              9431,
+              11,
+              517,
+              283,
+              480,
+              811,
+              43484,
+              21157,
+              424,
+              638,
+              1022,
+              39724,
+              1030,
+              13443,
+              9431,
+              11,
+              50565
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.37668926,
+            "compression_ratio": 1.1477273,
+            "no_speech_prob": 0.0031649761
+          },
+          {
+            "id": 1,
+            "seek": 0,
+            "start": 4,
+            "end": 6.52,
+            "text": " et un fichier O2O pour DaVinci Resolve.",
+            "tokens": [
+              50565,
+              1030,
+              517,
+              283,
+              480,
+              811,
+              422,
+              17,
+              46,
+              2016,
+              3933,
+              53,
+              21961,
+              5015,
+              37361,
+              13,
+              50691
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.37668926,
+            "compression_ratio": 1.1477273,
+            "no_speech_prob": 0.0031649761
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxqd9mesjremndkv17wx8f"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 38,
+      "source_start_seconds": 150.62,
+      "source_end_seconds": 152.78,
+      "duration_seconds": 2.1599999999999966,
+      "resolution": "local",
+      "word_count": 6,
+      "segment_count": 1,
+      "text": "Si vous voulez affiner le montage.",
+      "transcription": {
+        "text": " Si vous voulez affiner le montage.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 2.16,
+        "words": [
+          {
+            "word": "Si",
+            "start": 0.32,
+            "end": 0.48
+          },
+          {
+            "word": "vous",
+            "start": 0.48,
+            "end": 0.68
+          },
+          {
+            "word": "voulez",
+            "start": 0.68,
+            "end": 0.88
+          },
+          {
+            "word": "affiner",
+            "start": 0.88,
+            "end": 1.28
+          },
+          {
+            "word": "le",
+            "start": 1.28,
+            "end": 1.42
+          },
+          {
+            "word": "montage.",
+            "start": 1.42,
+            "end": 2.26
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 1.78,
+            "text": " Si vous voulez affiner le montage.",
+            "tokens": [
+              50365,
+              4909,
+              2630,
+              29072,
+              2096,
+              4564,
+              476,
+              40184,
+              13,
+              50454
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.25698176,
+            "compression_ratio": 0.8717949,
+            "no_speech_prob": 0.004335021
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxqgsvet89ddee0j450nnc"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 39,
+      "source_start_seconds": 153.47,
+      "source_end_seconds": 155.08,
+      "duration_seconds": 1.6100000000000136,
+      "resolution": "local",
+      "word_count": 9,
+      "segment_count": 1,
+      "text": "On fait tout ça en moins de 10 minutes",
+      "transcription": {
+        "text": " On fait tout ça en moins de 10 minutes",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 1.6099999999999999,
+        "words": [
+          {
+            "word": "On",
+            "start": 0.26,
+            "end": 0.4
+          },
+          {
+            "word": "fait",
+            "start": 0.4,
+            "end": 0.5
+          },
+          {
+            "word": "tout",
+            "start": 0.5,
+            "end": 0.76
+          },
+          {
+            "word": "ça",
+            "start": 0.76,
+            "end": 0.92
+          },
+          {
+            "word": "en",
+            "start": 0.92,
+            "end": 1.18
+          },
+          {
+            "word": "moins",
+            "start": 1.18,
+            "end": 1.32
+          },
+          {
+            "word": "de",
+            "start": 1.32,
+            "end": 1.46
+          },
+          {
+            "word": "10",
+            "start": 1.46,
+            "end": 1.58
+          },
+          {
+            "word": "minutes",
+            "start": 1.58,
+            "end": 1.62
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 1.62,
+            "text": " On fait tout ça en moins de 10 minutes",
+            "tokens": [
+              50365,
+              1282,
+              3887,
+              3486,
+              2788,
+              465,
+              13099,
+              368,
+              1266,
+              2077,
+              50446
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.1142354,
+            "compression_ratio": 0.82978725,
+            "no_speech_prob": 0.014242564
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxqm3keswbszk75bfhhp9k"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 40,
+      "source_start_seconds": 156.01999999999998,
+      "source_end_seconds": 158.18,
+      "duration_seconds": 2.160000000000025,
+      "resolution": "local",
+      "word_count": 9,
+      "segment_count": 1,
+      "text": "Et vous, vous allez gagner des heures de travail.",
+      "transcription": {
+        "text": " Et vous, vous allez gagner des heures de travail.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 2.16,
+        "words": [
+          {
+            "word": "Et",
+            "start": 0.14,
+            "end": 0.28
+          },
+          {
+            "word": "vous,",
+            "start": 0.28,
+            "end": 0.54
+          },
+          {
+            "word": "vous",
+            "start": 0.54,
+            "end": 0.88
+          },
+          {
+            "word": "allez",
+            "start": 0.88,
+            "end": 1.04
+          },
+          {
+            "word": "gagner",
+            "start": 1.04,
+            "end": 1.24
+          },
+          {
+            "word": "des",
+            "start": 1.24,
+            "end": 1.48
+          },
+          {
+            "word": "heures",
+            "start": 1.48,
+            "end": 1.64
+          },
+          {
+            "word": "de",
+            "start": 1.64,
+            "end": 1.76
+          },
+          {
+            "word": "travail.",
+            "start": 1.76,
+            "end": 2.64
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 2.16,
+            "text": " Et vous, vous allez gagner des heures de travail.",
+            "tokens": [
+              50365,
+              3790,
+              2630,
+              11,
+              2630,
+              18146,
+              45343,
+              730,
+              28509,
+              368,
+              18047,
+              13,
+              50473
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.13326976,
+            "compression_ratio": 0.9423077,
+            "no_speech_prob": 0.0017798829
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxqqf7ev59y3ndhgjvscjz"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 41,
+      "source_start_seconds": 158.97,
+      "source_end_seconds": 159.701333,
+      "duration_seconds": 0.7313330000000065,
+      "resolution": "local",
+      "word_count": 1,
+      "segment_count": 1,
+      "text": ".",
+      "transcription": {
+        "text": " .",
+        "task": "transcribe",
+        "language": "English",
+        "duration": 0.73,
+        "words": [
+          {
+            "word": ".",
+            "start": 0,
+            "end": 0.76
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 0.72,
+            "text": " .",
+            "tokens": [
+              50365,
+              2411,
+              50401
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.8176415,
+            "compression_ratio": 0.11111111,
+            "no_speech_prob": 0.8573245
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kptxqtvsewxtqxkjdxed8ebv"
+        },
+        "_resolution": "local"
+      }
+    }
+  ]
+}

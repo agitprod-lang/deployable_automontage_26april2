@@ -1,0 +1,12 @@
+Start Time;End Time;Transcript Word;Reference Word;Illustration Type;Crossing With Previous
+00:00:01.167;00:00:02.000;janvier 2012;janvier 2012;date;
+00:00:01.267;00:00:02.000;2012;2012;date;x
+00:00:02.233;00:00:03.000;nicolas cage;nicolas cage;person;
+00:00:04.100;00:00:05.133;enchere secrete;enchere secrete;keyword;
+00:00:05.300;00:00:05.633;washington;washington;city;
+00:00:11.233;00:00:12.400;270;270;number;
+00:00:11.233;00:00:13.367;270 000 dollars;270 000 dollars;money;x
+00:00:12.400;00:00:13.367;000 dollars;000 dollars;money;x
+00:00:24.167;00:00:25.100;0;0;percent;
+00:00:33.000;00:00:33.567;abonnez vous;Abonnez-vous;cta_subscribe;
+00:00:35.833;00:00:36.167;tipeee;Tipeee;cta_tippee;

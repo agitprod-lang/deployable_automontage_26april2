@@ -1,0 +1,42 @@
+# Video files
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.wmv
+*.flv
+*.m4v
+*.mts
+*.m2ts
+
+# Audio files
+*.mp3
+*.wav
+*.aiff
+*.aif
+*.aac
+*.ogg
+*.flac
+*.m4a
+*.wma
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Python
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment / credentials
+.env
+*.env
+x_auth.json
+
+# Claude Code local settings
+settings.local.json
+**/settings.local.json

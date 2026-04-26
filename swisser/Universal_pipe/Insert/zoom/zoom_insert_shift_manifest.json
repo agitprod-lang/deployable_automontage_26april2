@@ -1,0 +1,125 @@
+{
+  "sequence_fps": 24.0,
+  "entries": [
+    {
+      "window_id": 1,
+      "row_id": "SHIFT_W_1",
+      "zoom_code": "INSERT_SHIFT",
+      "zoom_type": "plain",
+      "timeline_start_frames": 0,
+      "timeline_end_frames": 211,
+      "source_start_frames": 0,
+      "source_end_frames": 211,
+      "output_path": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/zoom/000000000ms_to_000008795ms_zoom_right_shift.mp4",
+      "output_path_plain": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/zoom/000000000ms_to_000008795ms_zoom_right_shift.mp4",
+      "output_path_paper": null,
+      "focus_method": "eyes",
+      "focus_x": 1969.5,
+      "focus_y": 698.5,
+      "zoom_end": 1.35,
+      "pan_right_ratio": 0.7,
+      "trigger_inserts": [
+        "00h00m01s167ms_1_calendar_001_CAL.mov",
+        "00h00m02s233ms_2_image@circle_arrow_trans_nicolas_cage.mov",
+        "00h00m02s233ms_2_nicolas_cage_filled.mov"
+      ],
+      "overridden_comparser_rows": []
+    },
+    {
+      "window_id": 2,
+      "row_id": "SHIFT_W_2",
+      "zoom_code": "INSERT_SHIFT",
+      "zoom_type": "plain",
+      "timeline_start_frames": 180,
+      "timeline_end_frames": 368,
+      "source_start_frames": 180,
+      "source_end_frames": 368,
+      "output_path": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/zoom/000007517ms_to_000015329ms_zoom_right_shift.mp4",
+      "output_path_plain": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/zoom/000007517ms_to_000015329ms_zoom_right_shift.mp4",
+      "output_path_paper": null,
+      "focus_method": "eyes",
+      "focus_x": 1919.25,
+      "focus_y": 748.75,
+      "zoom_end": 1.35,
+      "pan_right_ratio": 0.7,
+      "trigger_inserts": [
+        "00h00m08s767ms_1_image@circle_arrow_trans_leonardo_dicaprio.mov",
+        "00h00m08s767ms_1_leonardo_dicaprio_filled.mov"
+      ],
+      "overridden_comparser_rows": []
+    },
+    {
+      "window_id": 3,
+      "row_id": "SHIFT_W_3",
+      "zoom_code": "INSERT_SHIFT",
+      "zoom_type": "plain",
+      "timeline_start_frames": 334,
+      "timeline_end_frames": 546,
+      "source_start_frames": 334,
+      "source_end_frames": 546,
+      "output_path": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/zoom/000013917ms_to_000022767ms_zoom_right_shift.mp4",
+      "output_path_plain": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/zoom/000013917ms_to_000022767ms_zoom_right_shift.mp4",
+      "output_path_paper": null,
+      "focus_method": "eyes",
+      "focus_x": 1995.25,
+      "focus_y": 712.25,
+      "zoom_end": 1.35,
+      "pan_right_ratio": 0.7,
+      "trigger_inserts": [
+        "00h00m15s167ms_10_Ammonite_cat_downloaded_polaroid_insert.mov"
+      ],
+      "overridden_comparser_rows": []
+    },
+    {
+      "window_id": 4,
+      "row_id": "SHIFT_W_4",
+      "zoom_code": "INSERT_SHIFT",
+      "zoom_type": "plain",
+      "timeline_start_frames": 550,
+      "timeline_end_frames": 878,
+      "source_start_frames": 550,
+      "source_end_frames": 878,
+      "output_path": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/zoom/000022917ms_to_000036577ms_zoom_right_shift.mp4",
+      "output_path_plain": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/zoom/000022917ms_to_000036577ms_zoom_right_shift.mp4",
+      "output_path_paper": null,
+      "focus_method": "eyes",
+      "focus_x": 2069.25,
+      "focus_y": 757.25,
+      "zoom_end": 1.35,
+      "pan_right_ratio": 0.7,
+      "trigger_inserts": [
+        "00h00m24s167ms_1_percent_001_PCT.mov",
+        "00h00m25s100ms_15_3_Titre@www_rtl_fr_web_RTL.mov",
+        "00h00m30s167ms_1_title_001.mov",
+        "00h00m33s000ms_20_sabonner_CTA.mov"
+      ],
+      "overridden_comparser_rows": [
+        "29"
+      ]
+    },
+    {
+      "window_id": 5,
+      "row_id": "SHIFT_W_5",
+      "zoom_code": "INSERT_SHIFT",
+      "zoom_type": "plain",
+      "timeline_start_frames": 830,
+      "timeline_end_frames": 935,
+      "source_start_frames": 830,
+      "source_end_frames": 935,
+      "output_path": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/zoom/000034583ms_to_000038958ms_zoom_right_shift.mp4",
+      "output_path_plain": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/zoom/000034583ms_to_000038958ms_zoom_right_shift.mp4",
+      "output_path_paper": null,
+      "focus_method": "eyes",
+      "focus_x": 1924.0,
+      "focus_y": 764.0,
+      "zoom_end": 1.35,
+      "pan_right_ratio": 0.7,
+      "trigger_inserts": [
+        "00h00m35s833ms_21_money_give_CTA.mov"
+      ],
+      "overridden_comparser_rows": [
+        "29"
+      ]
+    }
+  ]
+}

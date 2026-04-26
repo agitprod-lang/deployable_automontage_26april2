@@ -1,0 +1,38 @@
+{
+  "version": 8,
+  "name": "Natural Canvas",
+  "sources": {
+    "terrain-base": {
+      "type": "raster",
+      "tiles": [
+        "https://cartodb-basemaps-a.global.ssl.fastly.net/light_nolabels/{z}/{x}/{y}.png",
+        "https://cartodb-basemaps-b.global.ssl.fastly.net/light_nolabels/{z}/{x}/{y}.png",
+        "https://cartodb-basemaps-c.global.ssl.fastly.net/light_nolabels/{z}/{x}/{y}.png",
+        "https://cartodb-basemaps-d.global.ssl.fastly.net/light_nolabels/{z}/{x}/{y}.png"
+      ],
+      "tileSize": 256,
+      "attribution": "© CARTO & OpenStreetMap contributors"
+    }
+  },
+  "layers": [
+    {
+      "id": "background",
+      "type": "background",
+      "paint": {
+        "background-color": "#0b1926"
+      }
+    },
+    {
+      "id": "terrain-layer",
+      "type": "raster",
+      "source": "terrain-base",
+      "paint": {
+        "raster-opacity": 1.0,
+        "raster-brightness-min": 0.45,
+        "raster-brightness-max": 0.92,
+        "raster-contrast": 0.3,
+        "raster-saturation": -0.05
+      }
+    }
+  ]
+}

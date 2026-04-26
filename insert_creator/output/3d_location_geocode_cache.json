@@ -1,0 +1,16 @@
+{
+  "city:mongolie": {
+    "ok": true,
+    "latitude": 46.8250388,
+    "longitude": 103.8499736,
+    "display_name": "Mongolia",
+    "source": "nominatim"
+  },
+  "city:washington": {
+    "ok": true,
+    "latitude": 38.8950982,
+    "longitude": -77.0363849,
+    "display_name": "Washington, District of Columbia, United States",
+    "source": "nominatim"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "source_csv": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/output/second_comparser_output/nicolascage_20260426_181230_groq_html_comparison.csv",
+  "template": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/insert_creator/program/templates/maplibre_3d_renderer.html",
+  "videos": [
+    {
+      "name": "mongolie",
+      "type": "city",
+      "rows": [
+        4
+      ],
+      "latitude": 46.8250388,
+      "longitude": 103.8499736,
+      "geocode_source": "nominatim",
+      "video_path": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m13s367ms_1_city_001_mongolie_00:02-00:07.webm",
+      "success": true,
+      "audio_track": null,
+      "mime_type": "video/webm",
+      "frames": 360,
+      "trim_start_seconds": 2,
+      "trim_end_seconds": 7
+    },
+    {
+      "name": "washington",
+      "type": "city",
+      "rows": [
+        1
+      ],
+      "latitude": 38.8950982,
+      "longitude": -77.0363849,
+      "geocode_source": "nominatim",
+      "video_path": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m05s300ms_2_city_002_washington_00:02-00:07.webm",
+      "success": true,
+      "audio_track": null,
+      "mime_type": "video/webm",
+      "frames": 360,
+      "trim_start_seconds": 2,
+      "trim_end_seconds": 7
+    }
+  ],
+  "summary": {
+    "success": 2,
+    "failed": 0,
+    "total": 2
+  }
+}

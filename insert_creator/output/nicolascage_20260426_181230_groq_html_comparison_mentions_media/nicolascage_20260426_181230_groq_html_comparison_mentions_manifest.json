@@ -1,0 +1,46 @@
+{
+  "source_csv": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/output/second_comparser_output/nicolascage_20260426_181230_groq_html_comparison.csv",
+  "clips": [
+    {
+      "column": "Timed AI Manifest",
+      "value": "il sera remboursé",
+      "overlay_text": "il sera remboursé",
+      "tag": "BLD",
+      "type_name": "bold",
+      "entry_id": 13,
+      "illustration_type": "bold",
+      "seq_num": 1,
+      "occurrence": 1,
+      "row_index": 11,
+      "transcript_number": "11",
+      "start_timecode": "00:00:22.867",
+      "end_timecode": "00:00:23.833",
+      "start_seconds": 22.867,
+      "base_video_path": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/insert_creator/output/nicolascage_20260426_181230_groq_html_comparison_mentions_media/base_videos/bold_001_BLD.mov",
+      "video_path": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m23s747ms_13_bold_001_BLD.mov",
+      "needs_text_layer": true,
+      "success": true,
+      "text_layer_applied": true
+    },
+    {
+      "column": "Timed AI Manifest",
+      "value": "Twitter",
+      "overlay_text": "Twitter",
+      "tag": "SOC",
+      "type_name": "twitter",
+      "entry_id": 22,
+      "illustration_type": "twitter",
+      "seq_num": 1,
+      "occurrence": 1,
+      "row_index": 31,
+      "transcript_number": "31",
+      "start_timecode": "00:00:37.767",
+      "end_timecode": "00:00:38.100",
+      "start_seconds": 37.767,
+      "base_video_path": null,
+      "video_path": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m38s647ms_22_twitter_001_SOC.mov",
+      "needs_text_layer": false,
+      "success": true
+    }
+  ]
+}

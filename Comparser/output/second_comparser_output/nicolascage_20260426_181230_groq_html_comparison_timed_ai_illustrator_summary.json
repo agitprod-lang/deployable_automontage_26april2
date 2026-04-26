@@ -1,0 +1,66 @@
+{
+  "resolved_inputs": {
+    "run_dir": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/improved_ref_comparser/claude/output/20260426_181230",
+    "comparer": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/improved_ref_comparser/claude/output/20260426_181230/13_precise_comparer.csv",
+    "edit_timeline": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/improved_ref_comparser/claude/output/20260426_181230/12_edit_timeline.csv",
+    "html": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/html/nicolascagepages09.html",
+    "summary": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/improved_ref_comparser/claude/output/20260426_181230/summary.json"
+  },
+  "keep_mode": "xml_ready",
+  "kept_rows": 14,
+  "counts": {
+    "format": {
+      "article_link": 1,
+      "bold": 1,
+      "image_link": 1,
+      "spoken_url": 1,
+      "title_h1": 1,
+      "tweet_link": 1,
+      "twitter": 1,
+      "video_link_direct": 1,
+      "website_link": 2
+    },
+    "ai": {
+      "city": 1,
+      "cta_subscribe": 1,
+      "cta_tippee": 1,
+      "date": 2,
+      "keyword": 1,
+      "money": 3,
+      "number": 1,
+      "percent": 1,
+      "person": 1
+    },
+    "emoji": {
+      "animated_emoji": 4
+    },
+    "flag": {
+      "animated_flag": 1
+    }
+  },
+  "skipped": {
+    "format": {},
+    "ai": {
+      "no_span": 9,
+      "duplicate": 1
+    },
+    "emoji": {},
+    "flag": {
+      "nearby_flag_dup": 1
+    }
+  },
+  "timing": {
+    "basis_counts": {
+      "exact": 23,
+      "inherited_interpolated": 3
+    },
+    "edit_timing_mode": "mixed"
+  },
+  "outputs": {
+    "run_output_dir": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/timed_AI_illustrator/output/20260426_181305",
+    "format_csv": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/timed_AI_illustrator/output/20260426_181305/01_format_illustrations.csv",
+    "ai_csv": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/timed_AI_illustrator/output/20260426_181305/02_ai_illustrations.csv",
+    "timing_manifest_csv": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/timed_AI_illustrator/output/20260426_181305/03_insert_timing_manifest.csv",
+    "timing_manifest_json": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/timed_AI_illustrator/output/20260426_181305/03_insert_timing_manifest.json"
+  }
+}

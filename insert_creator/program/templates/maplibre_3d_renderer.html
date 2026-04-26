@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>MapLibre Automated Recorder</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      href="https://unpkg.com/maplibre-gl@5.11.0/dist/maplibre-gl.css"
+      rel="stylesheet"
+    />
+    <style>
+      html,
+      body,
+      #map {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        height: 100%;
+        background: #000;
+        overflow: hidden;
+      }
+      #map {
+        position: absolute;
+        top: 0;
+        left: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <script src="https://unpkg.com/maplibre-gl@5.11.0/dist/maplibre-gl.js"></script>
+    <script src="https://unpkg.com/maplibre-gl-video-export@0.1.1/dist/maplibre-gl-video-export/maplibre-gl-video-export.min.js"></script>
+    <script>
+      window.__videoResult = null;
+      window.__videoError = null;
+
+      function arrayBufferToBase64(buffer) {
+        const bytes = new Uint8Array(buffer);
+        let binary = "";
+        for (let i = 0; i < bytes.byteLength; i++) {
+          binary += String.fromCharCode(bytes[i]);
+        }
+        return btoa(binary);
+      }
+
+      function buildWaypoint(config) {
+        return {
+          type: "FeatureCollection",
+          features: [
+            {
+              type: "Feature",
+              properties: {
+                name: config.locationName || "Waypoint",
+              },
+              geometry: {
+                type: "Point",
+                coordinates: [config.longitude, config.latitude],
+              },
+            },
+          ],
+        };
+      }
+
+      function createStraightZoomAnimation(config) {
+        return async (map, callbacks = {}, options = {}) => {
+          const updateStatus =
+            typeof callbacks.updateStatus === "function"
+              ? callbacks.updateStatus
+              : () => {};
+          const checkAbort =
+            typeof callbacks.checkAbort === "function"
+              ? callbacks.checkAbort
+              : () => {};
+          const targetCenter = [config.longitude, config.latitude];
+          const finalZoom = config.zoom || 6;
+          const finalPitch = config.pitch || 55;
+          const finalBearing = config.bearing || 0;
+          const holdDuration = config.holdDuration ?? 1500;
+          const duration = config.duration || 10000;
+
+          updateStatus("🔍 Zooming to target...");
+          map.easeTo({
+            center: targetCenter,
+            zoom: finalZoom,
+            pitch: finalPitch,
+            bearing: finalBearing,
+            duration,
+            essential: true,
+          });
+          await map.once("moveend");
+          checkAbort();
+          map.jumpTo({
+            center: targetCenter,
+            zoom: finalZoom,
+            pitch: finalPitch,
+            bearing: finalBearing,
+          });
+
+          if (holdDuration > 0) {
+            await new Promise((resolve) => setTimeout(resolve, holdDuration));
+          }
+        };
+      }
+
+      function waitForInitialRender(map, timeout = 8000) {
+        if (!map) {
+          return Promise.resolve();
+        }
+        if (typeof map.areTilesLoaded === "function" && map.areTilesLoaded()) {
+          return Promise.resolve();
+        }
+        return new Promise((resolve) => {
+          let resolved = false;
+          const finish = () => {
+            if (!resolved) {
+              resolved = true;
+              map.off("idle", finish);
+              resolve();
+            }
+          };
+          map.on("idle", finish);
+          setTimeout(finish, timeout);
+        });
+      }
+
+      window.renderLocationVideo = function renderLocationVideo(config) {
+        window.__videoResult = null;
+        window.__videoError = null;
+
+        const styleUrl =
+          config.styleUrl || "https://demotiles.maplibre.org/style.json";
+        const startZoom =
+          typeof config.startZoom === "number" ? config.startZoom : 1.2;
+        const startPitch =
+          typeof config.startPitch === "number" ? config.startPitch : 0;
+        const startBearing =
+          typeof config.startBearing === "number" ? config.startBearing : 0;
+        const map = new maplibregl.Map({
+          container: "map",
+          style: styleUrl,
+          center: [config.longitude, config.latitude],
+          zoom: startZoom,
+          pitch: startPitch,
+          bearing: startBearing,
+          antialias: true,
+          interactive: false,
+          attributionControl: false,
+          hash: false,
+          localIdeographFontFamily: "system-ui, sans-serif",
+        });
+
+        if (config.globe) {
+          map.once("style.load", () => {
+            if (typeof map.setProjection === "function") {
+              map.setProjection({ name: "globe" });
+            }
+          });
+        }
+
+        map.on("style.load", () => {
+          if (config.terrainSourceUrl && !map.getSource("terrain-source")) {
+            map.addSource("terrain-source", {
+              type: "raster-dem",
+              url: config.terrainSourceUrl,
+              tileSize: 512,
+              maxzoom: 14,
+            });
+            if (typeof map.setTerrain === "function") {
+              map.setTerrain({
+                source: "terrain-source",
+                exaggeration:
+                  typeof config.terrainExaggeration === "number"
+                    ? config.terrainExaggeration
+                    : 1.2,
+              });
+            }
+            if (config.hillshade !== false && !map.getLayer("terrain-hillshade")) {
+              map.addLayer({
+                id: "terrain-hillshade",
+                type: "hillshade",
+                source: "terrain-source",
+                paint: {
+                  "hillshade-exaggeration":
+                    typeof config.hillshadeExaggeration === "number"
+                      ? config.hillshadeExaggeration
+                      : 0.75,
+                  "hillshade-shadow-color": "#182533",
+                  "hillshade-highlight-color": "#f8f5e5",
+                },
+              });
+            }
+          }
+          if (config.boundariesSourceUrl && !map.getSource("custom-boundaries-source")) {
+            map.addSource("custom-boundaries-source", {
+              type: "vector",
+              url: config.boundariesSourceUrl,
+            });
+            map.addLayer({
+              id: "custom-boundaries",
+              type: "line",
+              source: "custom-boundaries-source",
+              "source-layer": config.boundariesLayer || "boundary",
+              filter: [
+                "all",
+                ["==", ["to-number", ["get", "admin_level"]], 2],
+                ["==", ["geometry-type"], "LineString"],
+                ["!=", ["to-number", ["get", "maritime"]], 1],
+              ],
+              paint: {
+                "line-color": "#fff4d7",
+                "line-opacity": 1.0,
+                "line-width": [
+                  "interpolate",
+                  ["linear"],
+                  ["zoom"],
+                  2,
+                  0.6,
+                  5,
+                  1.2,
+                  8,
+                  2.4,
+                  12,
+                  3.6,
+                ],
+                "line-blur": 0.1,
+                "line-translate": [0, 0],
+              },
+            });
+          }
+        });
+
+        map.on("load", () => {
+          const animationMode = config.animation || "smart";
+          const targetPoint = {
+            type: "FeatureCollection",
+            features: [
+              {
+                type: "Feature",
+                geometry: {
+                  type: "Point",
+                  coordinates: [config.longitude, config.latitude],
+                },
+              },
+            ],
+          };
+          const waypoints =
+            animationMode === "straight-zoom"
+              ? null
+              : config.waypoints || buildWaypoint(config);
+          let animationSetting = animationMode;
+          if (animationMode === "straight-zoom") {
+            animationSetting = createStraightZoomAnimation(config);
+          }
+          const settings = {
+            animation: animationSetting,
+            duration: config.duration || 12000,
+            resolution: {
+              width: config.width || 1920,
+              height: config.height || 1080,
+            },
+            fps: config.fps || 30,
+            maxDuration: config.duration || 12000,
+            format: config.format || "webm-vp9",
+            bitrate: config.bitrate || 8000,
+            collapsed: true,
+            position: "top-left",
+            waypoints,
+            onStart: () => {
+              if (config.onStartMessage) {
+                console.log(config.onStartMessage);
+              }
+            },
+            onProgress: () => {},
+            onComplete: async (blob, frames) => {
+              const buffer = await blob.arrayBuffer();
+              window.__videoResult = {
+                base64: arrayBufferToBase64(buffer),
+                mimeType: blob.type,
+                frames,
+                width: config.width || 1920,
+                height: config.height || 1080,
+              };
+            },
+            onError: (error) => {
+              window.__videoError = error ? error.message || String(error) : "Unknown recording error";
+            },
+          };
+
+          const control = new maplibregl.VideoExportControl(settings);
+          map.addControl(control);
+          if (control && typeof control._readOptionsFromUI === "function") {
+            control._readOptionsFromUI = () => {};
+          }
+          control.options = {
+            ...control.options,
+            ...settings,
+          };
+          map.addSource("target-point", {
+            type: "geojson",
+            data: targetPoint,
+          });
+          map.addLayer({
+            id: "target-point-layer",
+            type: "circle",
+            source: "target-point",
+            paint: {
+              "circle-radius": [
+                "interpolate",
+                ["linear"],
+                ["zoom"],
+                2,
+                4,
+                10,
+                9,
+                16,
+                14,
+              ],
+              "circle-color": "#ff4136",
+              "circle-stroke-color": "#ffffff",
+              "circle-stroke-width": 2,
+              "circle-opacity": 0.9,
+            },
+          });
+          map.addLayer({
+            id: "target-label",
+            type: "symbol",
+            source: "target-point",
+            layout: {
+              "text-field": config.locationName || "Location",
+              "text-font": ["Open Sans Bold", "Arial Unicode MS Regular"],
+              "text-size": [
+                "interpolate",
+                ["linear"],
+                ["zoom"],
+                3,
+                10,
+                8,
+                18,
+                12,
+                24
+              ],
+              "text-anchor": "top",
+              "text-offset": [0, 0.4]
+            },
+            paint: {
+              "text-color": "#ffffff",
+              "text-halo-color": "#000000",
+              "text-halo-width": 1.2,
+              "text-opacity": 0.95
+            }
+          });
+          window.__mapControl = control;
+          const delay = config.startDelay || 800;
+          const waitForTiles = config.waitForTiles !== false;
+          const waitTimeout = typeof config.tileWaitTimeout === "number" ? config.tileWaitTimeout : 8000;
+          (async () => {
+            if (waitForTiles) {
+              await waitForInitialRender(map, waitTimeout);
+            }
+            setTimeout(() => {
+              if (control && typeof control._startRecording === "function") {
+                control._startRecording();
+              } else {
+                window.__videoError = "VideoExportControl missing _startRecording";
+              }
+            }, delay);
+          })();
+        });
+
+        map.on("error", (event) => {
+          window.__videoError =
+            (event && event.error && event.error.message) ||
+            "MapLibre runtime error";
+        });
+      };
+    </script>
+  </body>
+</html>

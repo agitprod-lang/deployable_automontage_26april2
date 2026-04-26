@@ -1,0 +1,18 @@
+{
+  "source_csv": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/output/second_comparser_output/nicolascage_20260426_181230_groq_html_comparison.csv",
+  "videos": [
+    {
+      "id": 1,
+      "text": "janvier 2012",
+      "date_iso": "2012-01-01",
+      "day": "",
+      "month": "janvier",
+      "year": "2012",
+      "video_path": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m01s167ms_1_calendar_001_CAL.mov",
+      "row_index": 1,
+      "transcript_number": "1",
+      "start_timecode": "00:00:00:15",
+      "end_timecode": "00:00:05:19"
+    }
+  ]
+}

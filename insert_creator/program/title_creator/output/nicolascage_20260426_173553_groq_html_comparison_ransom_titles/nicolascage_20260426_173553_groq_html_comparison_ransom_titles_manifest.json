@@ -1,0 +1,28 @@
+{
+  "source_csv": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/output/second_comparser_output/nicolascage_20260426_173553_groq_html_comparison.csv",
+  "background_path": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/insert_creator/program/title_creator/asset/background_for_title.mov",
+  "options": {
+    "spacing": 10,
+    "max_letters": 10,
+    "target_width": 1000,
+    "show_from_seconds": 1.0,
+    "show_until_seconds": 4.0,
+    "change_every_frames": 10
+  },
+  "titles": [
+    {
+      "id": 1,
+      "row_index": 11,
+      "transcript_number": "21",
+      "title": "fou vrai incroyable",
+      "sanitized_title": "fou vrai incroyable",
+      "video_path": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m30s167ms_1_title_001.mov",
+      "show_from_seconds": 1.0,
+      "show_until_seconds": 4.0,
+      "visible_duration_seconds": 3.0,
+      "change_every_frames": 10,
+      "duration_seconds": 5.16,
+      "success": true
+    }
+  ]
+}

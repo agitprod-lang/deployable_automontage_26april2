@@ -1,0 +1,22 @@
+{
+  "entries": [
+    {
+      "noun": "leonardo dicaprio",
+      "category": "person",
+      "occurrences": 1,
+      "rows": [
+        3
+      ],
+      "image_path": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/insert_creator/output/nicolascage_20260426_181230_groq_html_comparison_nouns_images/people/00h00m08s767ms_1_leonardo_dicaprio.jpg"
+    },
+    {
+      "noun": "nicolas cage",
+      "category": "person",
+      "occurrences": 1,
+      "rows": [
+        1
+      ],
+      "image_path": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/insert_creator/output/nicolascage_20260426_181230_groq_html_comparison_nouns_images/people/00h00m02s233ms_2_nicolas_cage.jpg"
+    }
+  ]
+}

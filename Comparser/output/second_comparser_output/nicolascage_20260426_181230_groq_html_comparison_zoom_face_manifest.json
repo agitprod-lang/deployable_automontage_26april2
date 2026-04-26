@@ -1,0 +1,18 @@
+{
+  "sequence_fps": 24.0,
+  "entries": [
+    {
+      "row_id": "29",
+      "zoom_code": "Z3",
+      "timeline_start_frames": 792,
+      "timeline_end_frames": 869,
+      "source_start_frames": 1334,
+      "source_end_frames": 1411,
+      "output_path": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/zoom/nicolascage_20260426_181230_groq_html_comparison/nicolascage_Z3_row29_000055583ms.mp4",
+      "focus_method": "face",
+      "focus_x": 1884.0,
+      "focus_y": 730.74,
+      "zoom_end": 1.38
+    }
+  ]
+}

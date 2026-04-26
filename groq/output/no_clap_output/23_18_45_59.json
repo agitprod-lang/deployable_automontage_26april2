@@ -1,0 +1,3513 @@
+{
+  "transcription_mode": "vad_groq_words",
+  "source_media": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/groq/output/audio/nicolascage.mp3",
+  "transcription_source": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/groq/output/audio/nicolascage.mp3",
+  "frame_rate": 24.0,
+  "model": "whisper-large-v3",
+  "vad_config": {
+    "trigger_level": 4.9,
+    "window_ms": 400,
+    "hop_ms": 50,
+    "min_speech_seconds": 0.18,
+    "merge_gap_seconds": 0.15,
+    "padding_seconds": 0.18,
+    "pre_trigger_seconds": 0.18,
+    "sample_rate": 16000
+  },
+  "clip_resolution_counts": {
+    "local": 23
+  },
+  "text": "On est en janvier 2012, l'acteur Nicolas Cage participe à une enchère secrète à Washington Dans la salle, il y a un cheval, il y a un chien et il y a un cerf-volant. Il achète un fossile de dinosaure pour 270 000 dollars. Il passe devant Leonardo DiCaprio qui voulait aussi le Fossil. Mais le fossile a en fait été volé. en Mongolie. Nicolas Cage devra rendre le fossile et il sera remboursé à 0%. Tous les journaux en parlent. Il y a même des photos qui sortent Il y a même des photos qui sortent. et même des vidéos qui ont marqué l'histoire. C'est fou, vrai, incroyable. Abonnez-vous à la chaîne Abonnez-vous à la chaîne Abonnez-vous à la chaîne ! Abonnez-vous à la chaîne, faites-nous un don sur Tipeee Et puis allez voir notre page Twitter. Et enfin... Et rendez-vous sur NicolasKage.com C'est tout ? Oui, c'est tout ce que j'avais à dire. C'est une très bonne journée. Passez une bonne journée. C'est une très bonne journée. Thank you.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 6.18,
+      "text": " On est en janvier 2012, l'acteur Nicolas Cage participe à une enchère secrète à Washington",
+      "tokens": [
+        50365,
+        1282,
+        871,
+        465,
+        25442,
+        85,
+        811,
+        9125,
+        11,
+        287,
+        6,
+        578,
+        13629,
+        38268,
+        48677,
+        1276,
+        6527,
+        1531,
+        2251,
+        35213,
+        4212,
+        907,
+        81,
+        22279,
+        1531,
+        6149,
+        50674
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.07704333,
+      "compression_ratio": 0.9894737,
+      "no_speech_prob": 0.0026252759
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 6.42,
+      "end": 10.08,
+      "text": " Dans la salle, il y a un cheval, il y a un chien et il y a un cerf-volant.",
+      "tokens": [
+        50365,
+        16897,
+        635,
+        262,
+        11780,
+        11,
+        1930,
+        288,
+        257,
+        517,
+        947,
+        3337,
+        11,
+        1930,
+        288,
+        257,
+        517,
+        417,
+        1053,
+        1030,
+        1930,
+        288,
+        257,
+        517,
+        10146,
+        69,
+        12,
+        9646,
+        394,
+        13,
+        50548
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.15638682,
+      "compression_ratio": 1.2333333,
+      "no_speech_prob": 0.007789086
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 10.52,
+      "end": 15.28,
+      "text": " Il achète un fossile de dinosaure pour 270 000 dollars.",
+      "tokens": [
+        50365,
+        4416,
+        2800,
+        22279,
+        517,
+        14090,
+        794,
+        368,
+        3791,
+        6447,
+        540,
+        2016,
+        40774,
+        13711,
+        3808,
+        13,
+        50603
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.10010188,
+      "compression_ratio": 0.9032258,
+      "no_speech_prob": 0.0015354976
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 16.12,
+      "end": 20.12,
+      "text": " Il passe devant Leonardo DiCaprio qui voulait aussi le Fossil.",
+      "tokens": [
+        50365,
+        4416,
+        14530,
+        28982,
+        36523,
+        8789,
+        46671,
+        6584,
+        1956,
+        6008,
+        35235,
+        6212,
+        476,
+        479,
+        772,
+        388,
+        13,
+        50565
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.24929829,
+      "compression_ratio": 0.92537314,
+      "no_speech_prob": 0.0036571287
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 20.57,
+      "end": 22.69,
+      "text": " Mais le fossile a en fait été volé.",
+      "tokens": [
+        50365,
+        6313,
+        476,
+        14090,
+        794,
+        257,
+        465,
+        3887,
+        8862,
+        1996,
+        526,
+        13,
+        50471
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.17303021,
+      "compression_ratio": 0.84444445,
+      "no_speech_prob": 0.0018171322
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 23.02,
+      "end": 29.82,
+      "text": " en Mongolie. Nicolas Cage devra rendre le fossile et il sera remboursé à 0%.",
+      "tokens": [
+        50365,
+        465,
+        43573,
+        414,
+        13,
+        38268,
+        48677,
+        1905,
+        424,
+        36256,
+        476,
+        14090,
+        794,
+        1030,
+        1930,
+        15021,
+        890,
+        65,
+        5067,
+        526,
+        1531,
+        1958,
+        6856,
+        50705
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2331009,
+      "compression_ratio": 0.962963,
+      "no_speech_prob": 0.0037417575
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 31.02,
+      "end": 32.839999999999996,
+      "text": " Tous les journaux en parlent.",
+      "tokens": [
+        50365,
+        47277,
+        1512,
+        2827,
+        629,
+        2449,
+        465,
+        13734,
+        317,
+        13,
+        50456
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14527766,
+      "compression_ratio": 0.7837838,
+      "no_speech_prob": 0.006221888
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 33.17,
+      "end": 35.83,
+      "text": " Il y a même des photos qui sortent",
+      "tokens": [
+        50365,
+        4416,
+        288,
+        257,
+        5698,
+        730,
+        5787,
+        1956,
+        1333,
+        317,
+        50498
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14284237,
+      "compression_ratio": 0.81395346,
+      "no_speech_prob": 0.005306509
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 36.37,
+      "end": 38.33,
+      "text": " Il y a même des photos qui sortent.",
+      "tokens": [
+        50365,
+        4416,
+        288,
+        257,
+        5698,
+        730,
+        5787,
+        1956,
+        1333,
+        317,
+        13,
+        50463
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.13300322,
+      "compression_ratio": 0.8181818,
+      "no_speech_prob": 0.00035604532
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 39.67,
+      "end": 41.99,
+      "text": " et même des vidéos qui ont marqué l'histoire.",
+      "tokens": [
+        50365,
+        1030,
+        5698,
+        730,
+        25417,
+        1956,
+        6592,
+        1849,
+        16412,
+        287,
+        6,
+        29093,
+        13,
+        50481
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.16274771,
+      "compression_ratio": 0.8727273,
+      "no_speech_prob": 0.0046774712
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 42.87,
+      "end": 46.23,
+      "text": " C'est fou, vrai, incroyable.",
+      "tokens": [
+        50365,
+        383,
+        6,
+        377,
+        32012,
+        11,
+        17815,
+        11,
+        834,
+        45976,
+        13,
+        50533
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.15426438,
+      "compression_ratio": 0.7777778,
+      "no_speech_prob": 0.0032660349
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 47.02,
+      "end": 48.440000000000005,
+      "text": " Abonnez-vous à la chaîne",
+      "tokens": [
+        50365,
+        2847,
+        22419,
+        89,
+        12,
+        16514,
+        1531,
+        635,
+        28036,
+        50436
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.16769637,
+      "compression_ratio": 0.7647059,
+      "no_speech_prob": 0.029782409
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 50.12,
+      "end": 51.94,
+      "text": " Abonnez-vous à la chaîne",
+      "tokens": [
+        50365,
+        2847,
+        22419,
+        89,
+        12,
+        16514,
+        1531,
+        635,
+        28036,
+        50456
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14942966,
+      "compression_ratio": 0.7647059,
+      "no_speech_prob": 0.047527295
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 52.22,
+      "end": 54.18,
+      "text": " Abonnez-vous à la chaîne !",
+      "tokens": [
+        50365,
+        2847,
+        22419,
+        89,
+        12,
+        16514,
+        1531,
+        635,
+        28036,
+        2298,
+        50463
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.19241619,
+      "compression_ratio": 0.7777778,
+      "no_speech_prob": 0.011577441
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 55.32,
+      "end": 59.04,
+      "text": " Abonnez-vous à la chaîne, faites-nous un don sur Tipeee",
+      "tokens": [
+        50365,
+        2847,
+        22419,
+        89,
+        12,
+        16514,
+        1531,
+        635,
+        28036,
+        11,
+        29902,
+        12,
+        47008,
+        517,
+        500,
+        1022,
+        314,
+        6527,
+        1653,
+        50551
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.15625241,
+      "compression_ratio": 0.9047619,
+      "no_speech_prob": 0.0042600296
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 59.32,
+      "end": 61.84,
+      "text": " Et puis allez voir notre page Twitter.",
+      "tokens": [
+        50365,
+        3790,
+        9093,
+        18146,
+        10695,
+        10349,
+        3028,
+        5794,
+        13,
+        50491
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.25044098,
+      "compression_ratio": 0.82608694,
+      "no_speech_prob": 0.008891493
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 62.42,
+      "end": 63.74,
+      "text": " Et enfin...",
+      "tokens": [
+        50365,
+        3790,
+        25059,
+        485,
+        50431
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.55115235,
+      "compression_ratio": 0.57894737,
+      "no_speech_prob": 0.017620996
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 64.47,
+      "end": 67.28999999999999,
+      "text": " Et rendez-vous sur NicolasKage.com",
+      "tokens": [
+        50365,
+        3790,
+        40026,
+        12,
+        16514,
+        1022,
+        38268,
+        42,
+        609,
+        13,
+        1112,
+        50506
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.35968944,
+      "compression_ratio": 0.8095238,
+      "no_speech_prob": 0.069555
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 70.27,
+      "end": 72.58999999999999,
+      "text": " C'est tout ? Oui, c'est tout ce que j'avais à dire.",
+      "tokens": [
+        50365,
+        383,
+        6,
+        377,
+        3486,
+        2506,
+        14005,
+        11,
+        269,
+        6,
+        377,
+        3486,
+        1769,
+        631,
+        361,
+        6,
+        18866,
+        1531,
+        1264,
+        13,
+        50481
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.15250164,
+      "compression_ratio": 1,
+      "no_speech_prob": 0.008606007
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 74.16999999999999,
+      "end": 75.28999999999999,
+      "text": " C'est une très bonne journée.",
+      "tokens": [
+        50365,
+        383,
+        6,
+        377,
+        2251,
+        5732,
+        20577,
+        34277,
+        13,
+        50421
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.27553084,
+      "compression_ratio": 0.81578946,
+      "no_speech_prob": 0.018657405
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 76.52,
+      "end": 77.75999999999999,
+      "text": " Passez une bonne journée.",
+      "tokens": [
+        50365,
+        430,
+        8604,
+        89,
+        2251,
+        20577,
+        34277,
+        13,
+        50427
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.24924287,
+      "compression_ratio": 0.7878788,
+      "no_speech_prob": 0.011292464
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 79.97,
+      "end": 81.13,
+      "text": " C'est une très bonne journée.",
+      "tokens": [
+        50365,
+        383,
+        6,
+        377,
+        2251,
+        5732,
+        20577,
+        34277,
+        13,
+        50423
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.25035033,
+      "compression_ratio": 0.81578946,
+      "no_speech_prob": 0.00203419
+    },
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 82.57,
+      "end": 83.25,
+      "text": " Thank you.",
+      "tokens": [
+        50365,
+        1044,
+        291,
+        13,
+        50399
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6659209,
+      "compression_ratio": 0.5555556,
+      "no_speech_prob": 0.9498373
+    }
+  ],
+  "words": [
+    {
+      "word": "On",
+      "start": 0.62,
+      "end": 0.82
+    },
+    {
+      "word": "est",
+      "start": 0.82,
+      "end": 0.96
+    },
+    {
+      "word": "en",
+      "start": 0.96,
+      "end": 1.22
+    },
+    {
+      "word": "janvier",
+      "start": 1.22,
+      "end": 1.34
+    },
+    {
+      "word": "2012,",
+      "start": 1.34,
+      "end": 2.0
+    },
+    {
+      "word": "l'acteur",
+      "start": 2.0,
+      "end": 2.28
+    },
+    {
+      "word": "Nicolas",
+      "start": 2.28,
+      "end": 2.66
+    },
+    {
+      "word": "Cage",
+      "start": 2.66,
+      "end": 3.0
+    },
+    {
+      "word": "participe",
+      "start": 3.0,
+      "end": 3.74
+    },
+    {
+      "word": "à",
+      "start": 3.74,
+      "end": 3.96
+    },
+    {
+      "word": "une",
+      "start": 3.96,
+      "end": 4.14
+    },
+    {
+      "word": "enchère",
+      "start": 4.14,
+      "end": 4.64
+    },
+    {
+      "word": "secrète",
+      "start": 4.64,
+      "end": 5.18
+    },
+    {
+      "word": "à",
+      "start": 5.18,
+      "end": 5.38
+    },
+    {
+      "word": "Washington",
+      "start": 5.38,
+      "end": 5.78
+    },
+    {
+      "word": "Dans",
+      "start": 6.7,
+      "end": 6.8
+    },
+    {
+      "word": "la",
+      "start": 6.8,
+      "end": 6.98
+    },
+    {
+      "word": "salle,",
+      "start": 6.98,
+      "end": 7.18
+    },
+    {
+      "word": "il",
+      "start": 7.18,
+      "end": 7.2
+    },
+    {
+      "word": "y",
+      "start": 7.2,
+      "end": 7.22
+    },
+    {
+      "word": "a",
+      "start": 7.22,
+      "end": 7.24
+    },
+    {
+      "word": "un",
+      "start": 7.24,
+      "end": 7.38
+    },
+    {
+      "word": "cheval,",
+      "start": 7.38,
+      "end": 8.28
+    },
+    {
+      "word": "il",
+      "start": 8.28,
+      "end": 8.379999999999999
+    },
+    {
+      "word": "y",
+      "start": 8.379999999999999,
+      "end": 8.4
+    },
+    {
+      "word": "a",
+      "start": 8.4,
+      "end": 8.42
+    },
+    {
+      "word": "un",
+      "start": 8.42,
+      "end": 8.68
+    },
+    {
+      "word": "chien",
+      "start": 8.68,
+      "end": 8.76
+    },
+    {
+      "word": "et",
+      "start": 8.76,
+      "end": 9.26
+    },
+    {
+      "word": "il",
+      "start": 9.26,
+      "end": 9.379999999999999
+    },
+    {
+      "word": "y",
+      "start": 9.379999999999999,
+      "end": 9.4
+    },
+    {
+      "word": "a",
+      "start": 9.4,
+      "end": 9.42
+    },
+    {
+      "word": "un",
+      "start": 9.42,
+      "end": 9.54
+    },
+    {
+      "word": "cerf-volant.",
+      "start": 9.54,
+      "end": 9.879999999999999
+    },
+    {
+      "word": "Il",
+      "start": 10.76,
+      "end": 10.86
+    },
+    {
+      "word": "achète",
+      "start": 10.86,
+      "end": 11.16
+    },
+    {
+      "word": "un",
+      "start": 11.16,
+      "end": 11.459999999999999
+    },
+    {
+      "word": "fossile",
+      "start": 11.459999999999999,
+      "end": 11.86
+    },
+    {
+      "word": "de",
+      "start": 11.86,
+      "end": 12.18
+    },
+    {
+      "word": "dinosaure",
+      "start": 12.18,
+      "end": 12.76
+    },
+    {
+      "word": "pour",
+      "start": 12.76,
+      "end": 13.1
+    },
+    {
+      "word": "270",
+      "start": 13.1,
+      "end": 14.299999999999999
+    },
+    {
+      "word": "000",
+      "start": 14.299999999999999,
+      "end": 14.6
+    },
+    {
+      "word": "dollars.",
+      "start": 14.6,
+      "end": 15.26
+    },
+    {
+      "word": "Il",
+      "start": 16.64,
+      "end": 16.78
+    },
+    {
+      "word": "passe",
+      "start": 16.78,
+      "end": 17.1
+    },
+    {
+      "word": "devant",
+      "start": 17.1,
+      "end": 17.34
+    },
+    {
+      "word": "Leonardo",
+      "start": 17.34,
+      "end": 17.76
+    },
+    {
+      "word": "DiCaprio",
+      "start": 17.76,
+      "end": 18.380000000000003
+    },
+    {
+      "word": "qui",
+      "start": 18.380000000000003,
+      "end": 18.6
+    },
+    {
+      "word": "voulait",
+      "start": 18.6,
+      "end": 18.78
+    },
+    {
+      "word": "aussi",
+      "start": 18.78,
+      "end": 19.3
+    },
+    {
+      "word": "le",
+      "start": 19.3,
+      "end": 19.580000000000002
+    },
+    {
+      "word": "Fossil.",
+      "start": 19.580000000000002,
+      "end": 20.1
+    },
+    {
+      "word": "Mais",
+      "start": 20.81,
+      "end": 20.97
+    },
+    {
+      "word": "le",
+      "start": 20.97,
+      "end": 21.03
+    },
+    {
+      "word": "fossile",
+      "start": 21.03,
+      "end": 21.37
+    },
+    {
+      "word": "a",
+      "start": 21.37,
+      "end": 21.57
+    },
+    {
+      "word": "en",
+      "start": 21.57,
+      "end": 21.67
+    },
+    {
+      "word": "fait",
+      "start": 21.67,
+      "end": 21.79
+    },
+    {
+      "word": "été",
+      "start": 21.79,
+      "end": 22.05
+    },
+    {
+      "word": "volé.",
+      "start": 22.05,
+      "end": 22.45
+    },
+    {
+      "word": "en",
+      "start": 23.04,
+      "end": 23.259999999999998
+    },
+    {
+      "word": "Mongolie.",
+      "start": 23.259999999999998,
+      "end": 24.52
+    },
+    {
+      "word": "Nicolas",
+      "start": 24.52,
+      "end": 24.78
+    },
+    {
+      "word": "Cage",
+      "start": 24.78,
+      "end": 25.02
+    },
+    {
+      "word": "devra",
+      "start": 25.02,
+      "end": 25.28
+    },
+    {
+      "word": "rendre",
+      "start": 25.28,
+      "end": 25.62
+    },
+    {
+      "word": "le",
+      "start": 25.62,
+      "end": 25.84
+    },
+    {
+      "word": "fossile",
+      "start": 25.84,
+      "end": 26.3
+    },
+    {
+      "word": "et",
+      "start": 26.3,
+      "end": 27.3
+    },
+    {
+      "word": "il",
+      "start": 27.3,
+      "end": 27.34
+    },
+    {
+      "word": "sera",
+      "start": 27.34,
+      "end": 27.619999999999997
+    },
+    {
+      "word": "remboursé",
+      "start": 27.619999999999997,
+      "end": 28.24
+    },
+    {
+      "word": "à",
+      "start": 28.24,
+      "end": 28.68
+    },
+    {
+      "word": "0%.",
+      "start": 28.68,
+      "end": 29.58
+    },
+    {
+      "word": "Tous",
+      "start": 31.34,
+      "end": 31.52
+    },
+    {
+      "word": "les",
+      "start": 31.52,
+      "end": 31.8
+    },
+    {
+      "word": "journaux",
+      "start": 31.8,
+      "end": 32.12
+    },
+    {
+      "word": "en",
+      "start": 32.12,
+      "end": 32.32
+    },
+    {
+      "word": "parlent.",
+      "start": 32.32,
+      "end": 32.8
+    },
+    {
+      "word": "Il",
+      "start": 33.47,
+      "end": 34.190000000000005
+    },
+    {
+      "word": "y",
+      "start": 34.190000000000005,
+      "end": 34.25
+    },
+    {
+      "word": "a",
+      "start": 34.25,
+      "end": 34.31
+    },
+    {
+      "word": "même",
+      "start": 34.31,
+      "end": 34.550000000000004
+    },
+    {
+      "word": "des",
+      "start": 34.550000000000004,
+      "end": 34.89
+    },
+    {
+      "word": "photos",
+      "start": 34.89,
+      "end": 35.15
+    },
+    {
+      "word": "qui",
+      "start": 35.15,
+      "end": 35.35
+    },
+    {
+      "word": "sortent",
+      "start": 35.35,
+      "end": 35.75
+    },
+    {
+      "word": "Il",
+      "start": 36.71,
+      "end": 36.87
+    },
+    {
+      "word": "y",
+      "start": 36.87,
+      "end": 36.989999999999995
+    },
+    {
+      "word": "a",
+      "start": 36.989999999999995,
+      "end": 37.089999999999996
+    },
+    {
+      "word": "même",
+      "start": 37.089999999999996,
+      "end": 37.269999999999996
+    },
+    {
+      "word": "des",
+      "start": 37.269999999999996,
+      "end": 37.41
+    },
+    {
+      "word": "photos",
+      "start": 37.41,
+      "end": 37.669999999999995
+    },
+    {
+      "word": "qui",
+      "start": 37.669999999999995,
+      "end": 37.87
+    },
+    {
+      "word": "sortent.",
+      "start": 37.87,
+      "end": 38.65
+    },
+    {
+      "word": "et",
+      "start": 39.910000000000004,
+      "end": 40.03
+    },
+    {
+      "word": "même",
+      "start": 40.03,
+      "end": 40.29
+    },
+    {
+      "word": "des",
+      "start": 40.29,
+      "end": 40.49
+    },
+    {
+      "word": "vidéos",
+      "start": 40.49,
+      "end": 40.730000000000004
+    },
+    {
+      "word": "qui",
+      "start": 40.730000000000004,
+      "end": 40.95
+    },
+    {
+      "word": "ont",
+      "start": 40.95,
+      "end": 41.050000000000004
+    },
+    {
+      "word": "marqué",
+      "start": 41.050000000000004,
+      "end": 41.29
+    },
+    {
+      "word": "l'histoire.",
+      "start": 41.29,
+      "end": 41.59
+    },
+    {
+      "word": "C'est",
+      "start": 43.21,
+      "end": 43.57
+    },
+    {
+      "word": "fou,",
+      "start": 43.57,
+      "end": 44.51
+    },
+    {
+      "word": "vrai,",
+      "start": 44.51,
+      "end": 45.709999999999994
+    },
+    {
+      "word": "incroyable.",
+      "start": 45.709999999999994,
+      "end": 46.01
+    },
+    {
+      "word": "Abonnez-vous",
+      "start": 47.36000000000001,
+      "end": 47.760000000000005
+    },
+    {
+      "word": "à",
+      "start": 47.760000000000005,
+      "end": 47.84
+    },
+    {
+      "word": "la",
+      "start": 47.84,
+      "end": 47.980000000000004
+    },
+    {
+      "word": "chaîne",
+      "start": 47.980000000000004,
+      "end": 48.24
+    },
+    {
+      "word": "Abonnez-vous",
+      "start": 50.48,
+      "end": 50.96
+    },
+    {
+      "word": "à",
+      "start": 50.96,
+      "end": 51.239999999999995
+    },
+    {
+      "word": "la",
+      "start": 51.239999999999995,
+      "end": 51.419999999999995
+    },
+    {
+      "word": "chaîne",
+      "start": 51.419999999999995,
+      "end": 51.68
+    },
+    {
+      "word": "Abonnez-vous",
+      "start": 52.62,
+      "end": 53.12
+    },
+    {
+      "word": "à",
+      "start": 53.12,
+      "end": 53.5
+    },
+    {
+      "word": "la",
+      "start": 53.5,
+      "end": 53.699999999999996
+    },
+    {
+      "word": "chaîne !",
+      "start": 53.699999999999996,
+      "end": 54.4
+    },
+    {
+      "word": "Abonnez-vous",
+      "start": 55.58,
+      "end": 56.06
+    },
+    {
+      "word": "à",
+      "start": 56.06,
+      "end": 56.34
+    },
+    {
+      "word": "la",
+      "start": 56.34,
+      "end": 56.52
+    },
+    {
+      "word": "chaîne,",
+      "start": 56.52,
+      "end": 57.3
+    },
+    {
+      "word": "faites-nous",
+      "start": 57.3,
+      "end": 57.56
+    },
+    {
+      "word": "un",
+      "start": 57.56,
+      "end": 57.72
+    },
+    {
+      "word": "don",
+      "start": 57.72,
+      "end": 58.02
+    },
+    {
+      "word": "sur",
+      "start": 58.02,
+      "end": 58.38
+    },
+    {
+      "word": "Tipeee",
+      "start": 58.38,
+      "end": 58.8
+    },
+    {
+      "word": "Et",
+      "start": 59.5,
+      "end": 59.62
+    },
+    {
+      "word": "puis",
+      "start": 59.62,
+      "end": 59.84
+    },
+    {
+      "word": "allez",
+      "start": 59.84,
+      "end": 60.14
+    },
+    {
+      "word": "voir",
+      "start": 60.14,
+      "end": 60.28
+    },
+    {
+      "word": "notre",
+      "start": 60.28,
+      "end": 60.48
+    },
+    {
+      "word": "page",
+      "start": 60.48,
+      "end": 60.98
+    },
+    {
+      "word": "Twitter.",
+      "start": 60.98,
+      "end": 61.4
+    },
+    {
+      "word": "Et",
+      "start": 62.7,
+      "end": 62.88
+    },
+    {
+      "word": "enfin...",
+      "start": 62.88,
+      "end": 63.52
+    },
+    {
+      "word": "Et",
+      "start": 64.78999999999999,
+      "end": 64.92999999999999
+    },
+    {
+      "word": "rendez-vous",
+      "start": 64.92999999999999,
+      "end": 65.59
+    },
+    {
+      "word": "sur",
+      "start": 65.59,
+      "end": 65.92999999999999
+    },
+    {
+      "word": "NicolasKage.com",
+      "start": 65.92999999999999,
+      "end": 67.03
+    },
+    {
+      "word": "C'est",
+      "start": 70.27,
+      "end": 70.49
+    },
+    {
+      "word": "tout ?",
+      "start": 70.49,
+      "end": 71.03
+    },
+    {
+      "word": "Oui,",
+      "start": 71.03,
+      "end": 71.36999999999999
+    },
+    {
+      "word": "c'est",
+      "start": 71.36999999999999,
+      "end": 71.50999999999999
+    },
+    {
+      "word": "tout",
+      "start": 71.50999999999999,
+      "end": 71.64999999999999
+    },
+    {
+      "word": "ce",
+      "start": 71.64999999999999,
+      "end": 71.71
+    },
+    {
+      "word": "que",
+      "start": 71.71,
+      "end": 71.86999999999999
+    },
+    {
+      "word": "j'avais",
+      "start": 71.86999999999999,
+      "end": 71.99
+    },
+    {
+      "word": "à",
+      "start": 71.99,
+      "end": 72.11
+    },
+    {
+      "word": "dire.",
+      "start": 72.11,
+      "end": 73.07
+    },
+    {
+      "word": "C'est",
+      "start": 74.36999999999999,
+      "end": 74.62999999999998
+    },
+    {
+      "word": "une",
+      "start": 74.62999999999998,
+      "end": 74.72999999999999
+    },
+    {
+      "word": "très",
+      "start": 74.72999999999999,
+      "end": 74.94999999999999
+    },
+    {
+      "word": "bonne",
+      "start": 74.94999999999999,
+      "end": 75.04999999999998
+    },
+    {
+      "word": "journée.",
+      "start": 75.04999999999998,
+      "end": 75.76999999999998
+    },
+    {
+      "word": "Passez",
+      "start": 76.75999999999999,
+      "end": 77.16
+    },
+    {
+      "word": "une",
+      "start": 77.16,
+      "end": 77.3
+    },
+    {
+      "word": "bonne",
+      "start": 77.3,
+      "end": 77.46
+    },
+    {
+      "word": "journée.",
+      "start": 77.46,
+      "end": 77.72
+    },
+    {
+      "word": "C'est",
+      "start": 80.25,
+      "end": 80.42999999999999
+    },
+    {
+      "word": "une",
+      "start": 80.42999999999999,
+      "end": 80.57
+    },
+    {
+      "word": "très",
+      "start": 80.57,
+      "end": 80.69
+    },
+    {
+      "word": "bonne",
+      "start": 80.69,
+      "end": 80.77
+    },
+    {
+      "word": "journée.",
+      "start": 80.77,
+      "end": 81.13
+    },
+    {
+      "word": "Thank",
+      "start": 82.57,
+      "end": 83.13
+    },
+    {
+      "word": "you.",
+      "start": 83.13,
+      "end": 83.72999999999999
+    }
+  ],
+  "clips": [
+    {
+      "clip_id": 1,
+      "source_start_seconds": 0.0,
+      "source_end_seconds": 6.18,
+      "duration_seconds": 6.18,
+      "resolution": "local",
+      "word_count": 15,
+      "segment_count": 1,
+      "text": "On est en janvier 2012, l'acteur Nicolas Cage participe à une enchère secrète à Washington",
+      "transcription": {
+        "text": " On est en janvier 2012, l'acteur Nicolas Cage participe à une enchère secrète à Washington",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 6.18,
+        "words": [
+          {
+            "word": "On",
+            "start": 0.62,
+            "end": 0.82
+          },
+          {
+            "word": "est",
+            "start": 0.82,
+            "end": 0.96
+          },
+          {
+            "word": "en",
+            "start": 0.96,
+            "end": 1.22
+          },
+          {
+            "word": "janvier",
+            "start": 1.22,
+            "end": 1.34
+          },
+          {
+            "word": "2012,",
+            "start": 1.34,
+            "end": 2
+          },
+          {
+            "word": "l'acteur",
+            "start": 2,
+            "end": 2.28
+          },
+          {
+            "word": "Nicolas",
+            "start": 2.28,
+            "end": 2.66
+          },
+          {
+            "word": "Cage",
+            "start": 2.66,
+            "end": 3
+          },
+          {
+            "word": "participe",
+            "start": 3,
+            "end": 3.74
+          },
+          {
+            "word": "à",
+            "start": 3.74,
+            "end": 3.96
+          },
+          {
+            "word": "une",
+            "start": 3.96,
+            "end": 4.14
+          },
+          {
+            "word": "enchère",
+            "start": 4.14,
+            "end": 4.64
+          },
+          {
+            "word": "secrète",
+            "start": 4.64,
+            "end": 5.18
+          },
+          {
+            "word": "à",
+            "start": 5.18,
+            "end": 5.38
+          },
+          {
+            "word": "Washington",
+            "start": 5.38,
+            "end": 5.78
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 6.18,
+            "text": " On est en janvier 2012, l'acteur Nicolas Cage participe à une enchère secrète à Washington",
+            "tokens": [
+              50365,
+              1282,
+              871,
+              465,
+              25442,
+              85,
+              811,
+              9125,
+              11,
+              287,
+              6,
+              578,
+              13629,
+              38268,
+              48677,
+              1276,
+              6527,
+              1531,
+              2251,
+              35213,
+              4212,
+              907,
+              81,
+              22279,
+              1531,
+              6149,
+              50674
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.07704333,
+            "compression_ratio": 0.9894737,
+            "no_speech_prob": 0.0026252759
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kpxkr60de96tymvw7rcpcqb6"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 2,
+      "source_start_seconds": 6.42,
+      "source_end_seconds": 10.08,
+      "duration_seconds": 3.66,
+      "resolution": "local",
+      "word_count": 19,
+      "segment_count": 1,
+      "text": "Dans la salle, il y a un cheval, il y a un chien et il y a un cerf-volant.",
+      "transcription": {
+        "text": " Dans la salle, il y a un cheval, il y a un chien et il y a un cerf-volant.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 3.66,
+        "words": [
+          {
+            "word": "Dans",
+            "start": 0.28,
+            "end": 0.38
+          },
+          {
+            "word": "la",
+            "start": 0.38,
+            "end": 0.56
+          },
+          {
+            "word": "salle,",
+            "start": 0.56,
+            "end": 0.76
+          },
+          {
+            "word": "il",
+            "start": 0.76,
+            "end": 0.78
+          },
+          {
+            "word": "y",
+            "start": 0.78,
+            "end": 0.8
+          },
+          {
+            "word": "a",
+            "start": 0.8,
+            "end": 0.82
+          },
+          {
+            "word": "un",
+            "start": 0.82,
+            "end": 0.96
+          },
+          {
+            "word": "cheval,",
+            "start": 0.96,
+            "end": 1.86
+          },
+          {
+            "word": "il",
+            "start": 1.86,
+            "end": 1.96
+          },
+          {
+            "word": "y",
+            "start": 1.96,
+            "end": 1.98
+          },
+          {
+            "word": "a",
+            "start": 1.98,
+            "end": 2
+          },
+          {
+            "word": "un",
+            "start": 2,
+            "end": 2.26
+          },
+          {
+            "word": "chien",
+            "start": 2.26,
+            "end": 2.34
+          },
+          {
+            "word": "et",
+            "start": 2.34,
+            "end": 2.84
+          },
+          {
+            "word": "il",
+            "start": 2.84,
+            "end": 2.96
+          },
+          {
+            "word": "y",
+            "start": 2.96,
+            "end": 2.98
+          },
+          {
+            "word": "a",
+            "start": 2.98,
+            "end": 3
+          },
+          {
+            "word": "un",
+            "start": 3,
+            "end": 3.12
+          },
+          {
+            "word": "cerf-volant.",
+            "start": 3.12,
+            "end": 3.46
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 3.66,
+            "text": " Dans la salle, il y a un cheval, il y a un chien et il y a un cerf-volant.",
+            "tokens": [
+              50365,
+              16897,
+              635,
+              262,
+              11780,
+              11,
+              1930,
+              288,
+              257,
+              517,
+              947,
+              3337,
+              11,
+              1930,
+              288,
+              257,
+              517,
+              417,
+              1053,
+              1030,
+              1930,
+              288,
+              257,
+              517,
+              10146,
+              69,
+              12,
+              9646,
+              394,
+              13,
+              50548
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.15638682,
+            "compression_ratio": 1.2333333,
+            "no_speech_prob": 0.007789086
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kpxkr6ete9m9z9w46hcfp851"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 3,
+      "source_start_seconds": 10.52,
+      "source_end_seconds": 15.28,
+      "duration_seconds": 4.76,
+      "resolution": "local",
+      "word_count": 10,
+      "segment_count": 1,
+      "text": "Il achète un fossile de dinosaure pour 270 000 dollars.",
+      "transcription": {
+        "text": " Il achète un fossile de dinosaure pour 270 000 dollars.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 4.76,
+        "words": [
+          {
+            "word": "Il",
+            "start": 0.24,
+            "end": 0.34
+          },
+          {
+            "word": "achète",
+            "start": 0.34,
+            "end": 0.64
+          },
+          {
+            "word": "un",
+            "start": 0.64,
+            "end": 0.94
+          },
+          {
+            "word": "fossile",
+            "start": 0.94,
+            "end": 1.34
+          },
+          {
+            "word": "de",
+            "start": 1.34,
+            "end": 1.66
+          },
+          {
+            "word": "dinosaure",
+            "start": 1.66,
+            "end": 2.24
+          },
+          {
+            "word": "pour",
+            "start": 2.24,
+            "end": 2.58
+          },
+          {
+            "word": "270",
+            "start": 2.58,
+            "end": 3.78
+          },
+          {
+            "word": "000",
+            "start": 3.78,
+            "end": 4.08
+          },
+          {
+            "word": "dollars.",
+            "start": 4.08,
+            "end": 4.74
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 4.76,
+            "text": " Il achète un fossile de dinosaure pour 270 000 dollars.",
+            "tokens": [
+              50365,
+              4416,
+              2800,
+              22279,
+              517,
+              14090,
+              794,
+              368,
+              3791,
+              6447,
+              540,
+              2016,
+              40774,
+              13711,
+              3808,
+              13,
+              50603
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.10010188,
+            "compression_ratio": 0.9032258,
+            "no_speech_prob": 0.0015354976
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kpxkr6vbe8nsv2wq7wxnnj56"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 4,
+      "source_start_seconds": 16.12,
+      "source_end_seconds": 20.13,
+      "duration_seconds": 4.009999999999998,
+      "resolution": "local",
+      "word_count": 10,
+      "segment_count": 1,
+      "text": "Il passe devant Leonardo DiCaprio qui voulait aussi le Fossil.",
+      "transcription": {
+        "text": " Il passe devant Leonardo DiCaprio qui voulait aussi le Fossil.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 4.01,
+        "words": [
+          {
+            "word": "Il",
+            "start": 0.52,
+            "end": 0.66
+          },
+          {
+            "word": "passe",
+            "start": 0.66,
+            "end": 0.98
+          },
+          {
+            "word": "devant",
+            "start": 0.98,
+            "end": 1.22
+          },
+          {
+            "word": "Leonardo",
+            "start": 1.22,
+            "end": 1.64
+          },
+          {
+            "word": "DiCaprio",
+            "start": 1.64,
+            "end": 2.26
+          },
+          {
+            "word": "qui",
+            "start": 2.26,
+            "end": 2.48
+          },
+          {
+            "word": "voulait",
+            "start": 2.48,
+            "end": 2.66
+          },
+          {
+            "word": "aussi",
+            "start": 2.66,
+            "end": 3.18
+          },
+          {
+            "word": "le",
+            "start": 3.18,
+            "end": 3.46
+          },
+          {
+            "word": "Fossil.",
+            "start": 3.46,
+            "end": 3.98
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 4,
+            "text": " Il passe devant Leonardo DiCaprio qui voulait aussi le Fossil.",
+            "tokens": [
+              50365,
+              4416,
+              14530,
+              28982,
+              36523,
+              8789,
+              46671,
+              6584,
+              1956,
+              6008,
+              35235,
+              6212,
+              476,
+              479,
+              772,
+              388,
+              13,
+              50565
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.24929829,
+            "compression_ratio": 0.92537314,
+            "no_speech_prob": 0.0036571287
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kpxkr7a6e8rajxg68yb9hccq"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 5,
+      "source_start_seconds": 20.57,
+      "source_end_seconds": 22.68,
+      "duration_seconds": 2.1099999999999994,
+      "resolution": "local",
+      "word_count": 8,
+      "segment_count": 1,
+      "text": "Mais le fossile a en fait été volé.",
+      "transcription": {
+        "text": " Mais le fossile a en fait été volé.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 2.109999999,
+        "words": [
+          {
+            "word": "Mais",
+            "start": 0.24,
+            "end": 0.4
+          },
+          {
+            "word": "le",
+            "start": 0.4,
+            "end": 0.46
+          },
+          {
+            "word": "fossile",
+            "start": 0.46,
+            "end": 0.8
+          },
+          {
+            "word": "a",
+            "start": 0.8,
+            "end": 1
+          },
+          {
+            "word": "en",
+            "start": 1,
+            "end": 1.1
+          },
+          {
+            "word": "fait",
+            "start": 1.1,
+            "end": 1.22
+          },
+          {
+            "word": "été",
+            "start": 1.22,
+            "end": 1.48
+          },
+          {
+            "word": "volé.",
+            "start": 1.48,
+            "end": 1.88
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 2.12,
+            "text": " Mais le fossile a en fait été volé.",
+            "tokens": [
+              50365,
+              6313,
+              476,
+              14090,
+              794,
+              257,
+              465,
+              3887,
+              8862,
+              1996,
+              526,
+              13,
+              50471
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.17303021,
+            "compression_ratio": 0.84444445,
+            "no_speech_prob": 0.0018171322
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kpxkr7nte9ytf4zrsghebcnf"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 6,
+      "source_start_seconds": 23.02,
+      "source_end_seconds": 29.83,
+      "duration_seconds": 6.809999999999999,
+      "resolution": "local",
+      "word_count": 14,
+      "segment_count": 1,
+      "text": "en Mongolie. Nicolas Cage devra rendre le fossile et il sera remboursé à 0%.",
+      "transcription": {
+        "text": " en Mongolie. Nicolas Cage devra rendre le fossile et il sera remboursé à 0%.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 6.8100000000000005,
+        "words": [
+          {
+            "word": "en",
+            "start": 0.02,
+            "end": 0.24
+          },
+          {
+            "word": "Mongolie.",
+            "start": 0.24,
+            "end": 1.5
+          },
+          {
+            "word": "Nicolas",
+            "start": 1.5,
+            "end": 1.76
+          },
+          {
+            "word": "Cage",
+            "start": 1.76,
+            "end": 2
+          },
+          {
+            "word": "devra",
+            "start": 2,
+            "end": 2.26
+          },
+          {
+            "word": "rendre",
+            "start": 2.26,
+            "end": 2.6
+          },
+          {
+            "word": "le",
+            "start": 2.6,
+            "end": 2.82
+          },
+          {
+            "word": "fossile",
+            "start": 2.82,
+            "end": 3.28
+          },
+          {
+            "word": "et",
+            "start": 3.28,
+            "end": 4.28
+          },
+          {
+            "word": "il",
+            "start": 4.28,
+            "end": 4.32
+          },
+          {
+            "word": "sera",
+            "start": 4.32,
+            "end": 4.6
+          },
+          {
+            "word": "remboursé",
+            "start": 4.6,
+            "end": 5.22
+          },
+          {
+            "word": "à",
+            "start": 5.22,
+            "end": 5.66
+          },
+          {
+            "word": "0%.",
+            "start": 5.66,
+            "end": 6.56
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 6.8,
+            "text": " en Mongolie. Nicolas Cage devra rendre le fossile et il sera remboursé à 0%.",
+            "tokens": [
+              50365,
+              465,
+              43573,
+              414,
+              13,
+              38268,
+              48677,
+              1905,
+              424,
+              36256,
+              476,
+              14090,
+              794,
+              1030,
+              1930,
+              15021,
+              890,
+              65,
+              5067,
+              526,
+              1531,
+              1958,
+              6856,
+              50705
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.2331009,
+            "compression_ratio": 0.962963,
+            "no_speech_prob": 0.0037417575
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kpxkr85ke8v8r7y8vm0fpgzt"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 7,
+      "source_start_seconds": 31.02,
+      "source_end_seconds": 32.83,
+      "duration_seconds": 1.8099999999999987,
+      "resolution": "local",
+      "word_count": 5,
+      "segment_count": 1,
+      "text": "Tous les journaux en parlent.",
+      "transcription": {
+        "text": " Tous les journaux en parlent.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 1.81,
+        "words": [
+          {
+            "word": "Tous",
+            "start": 0.32,
+            "end": 0.5
+          },
+          {
+            "word": "les",
+            "start": 0.5,
+            "end": 0.78
+          },
+          {
+            "word": "journaux",
+            "start": 0.78,
+            "end": 1.1
+          },
+          {
+            "word": "en",
+            "start": 1.1,
+            "end": 1.3
+          },
+          {
+            "word": "parlent.",
+            "start": 1.3,
+            "end": 1.78
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 1.82,
+            "text": " Tous les journaux en parlent.",
+            "tokens": [
+              50365,
+              47277,
+              1512,
+              2827,
+              629,
+              2449,
+              465,
+              13734,
+              317,
+              13,
+              50456
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.14527766,
+            "compression_ratio": 0.7837838,
+            "no_speech_prob": 0.006221888
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kpxkr8krea4tdj29nw1jzwe1"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 8,
+      "source_start_seconds": 33.17,
+      "source_end_seconds": 35.83,
+      "duration_seconds": 2.6599999999999966,
+      "resolution": "local",
+      "word_count": 8,
+      "segment_count": 1,
+      "text": "Il y a même des photos qui sortent",
+      "transcription": {
+        "text": " Il y a même des photos qui sortent",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 2.66,
+        "words": [
+          {
+            "word": "Il",
+            "start": 0.3,
+            "end": 1.02
+          },
+          {
+            "word": "y",
+            "start": 1.02,
+            "end": 1.08
+          },
+          {
+            "word": "a",
+            "start": 1.08,
+            "end": 1.14
+          },
+          {
+            "word": "même",
+            "start": 1.14,
+            "end": 1.38
+          },
+          {
+            "word": "des",
+            "start": 1.38,
+            "end": 1.72
+          },
+          {
+            "word": "photos",
+            "start": 1.72,
+            "end": 1.98
+          },
+          {
+            "word": "qui",
+            "start": 1.98,
+            "end": 2.18
+          },
+          {
+            "word": "sortent",
+            "start": 2.18,
+            "end": 2.58
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 2.66,
+            "text": " Il y a même des photos qui sortent",
+            "tokens": [
+              50365,
+              4416,
+              288,
+              257,
+              5698,
+              730,
+              5787,
+              1956,
+              1333,
+              317,
+              50498
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.14284237,
+            "compression_ratio": 0.81395346,
+            "no_speech_prob": 0.005306509
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kpxkr8yre8z8b74qr11dwm31"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 9,
+      "source_start_seconds": 36.37,
+      "source_end_seconds": 38.33,
+      "duration_seconds": 1.9600000000000009,
+      "resolution": "local",
+      "word_count": 8,
+      "segment_count": 1,
+      "text": "Il y a même des photos qui sortent.",
+      "transcription": {
+        "text": " Il y a même des photos qui sortent.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 1.96,
+        "words": [
+          {
+            "word": "Il",
+            "start": 0.34,
+            "end": 0.5
+          },
+          {
+            "word": "y",
+            "start": 0.5,
+            "end": 0.62
+          },
+          {
+            "word": "a",
+            "start": 0.62,
+            "end": 0.72
+          },
+          {
+            "word": "même",
+            "start": 0.72,
+            "end": 0.9
+          },
+          {
+            "word": "des",
+            "start": 0.9,
+            "end": 1.04
+          },
+          {
+            "word": "photos",
+            "start": 1.04,
+            "end": 1.3
+          },
+          {
+            "word": "qui",
+            "start": 1.3,
+            "end": 1.5
+          },
+          {
+            "word": "sortent.",
+            "start": 1.5,
+            "end": 2.28
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 1.96,
+            "text": " Il y a même des photos qui sortent.",
+            "tokens": [
+              50365,
+              4416,
+              288,
+              257,
+              5698,
+              730,
+              5787,
+              1956,
+              1333,
+              317,
+              13,
+              50463
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.13300322,
+            "compression_ratio": 0.8181818,
+            "no_speech_prob": 0.00035604532
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kpxkr99ne90ap8f8rnspjp2b"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 10,
+      "source_start_seconds": 39.67,
+      "source_end_seconds": 41.98,
+      "duration_seconds": 2.309999999999995,
+      "resolution": "local",
+      "word_count": 8,
+      "segment_count": 1,
+      "text": "et même des vidéos qui ont marqué l'histoire.",
+      "transcription": {
+        "text": " et même des vidéos qui ont marqué l'histoire.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 2.31,
+        "words": [
+          {
+            "word": "et",
+            "start": 0.24,
+            "end": 0.36
+          },
+          {
+            "word": "même",
+            "start": 0.36,
+            "end": 0.62
+          },
+          {
+            "word": "des",
+            "start": 0.62,
+            "end": 0.82
+          },
+          {
+            "word": "vidéos",
+            "start": 0.82,
+            "end": 1.06
+          },
+          {
+            "word": "qui",
+            "start": 1.06,
+            "end": 1.28
+          },
+          {
+            "word": "ont",
+            "start": 1.28,
+            "end": 1.38
+          },
+          {
+            "word": "marqué",
+            "start": 1.38,
+            "end": 1.62
+          },
+          {
+            "word": "l'histoire.",
+            "start": 1.62,
+            "end": 1.92
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 2.32,
+            "text": " et même des vidéos qui ont marqué l'histoire.",
+            "tokens": [
+              50365,
+              1030,
+              5698,
+              730,
+              25417,
+              1956,
+              6592,
+              1849,
+              16412,
+              287,
+              6,
+              29093,
+              13,
+              50481
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.16274771,
+            "compression_ratio": 0.8727273,
+            "no_speech_prob": 0.0046774712
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kpxkr9m3eddvax8b49jgkrar"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 11,
+      "source_start_seconds": 42.87,
+      "source_end_seconds": 46.23,
+      "duration_seconds": 3.3599999999999994,
+      "resolution": "local",
+      "word_count": 4,
+      "segment_count": 1,
+      "text": "C'est fou, vrai, incroyable.",
+      "transcription": {
+        "text": " C'est fou, vrai, incroyable.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 3.36,
+        "words": [
+          {
+            "word": "C'est",
+            "start": 0.34,
+            "end": 0.7
+          },
+          {
+            "word": "fou,",
+            "start": 0.7,
+            "end": 1.64
+          },
+          {
+            "word": "vrai,",
+            "start": 1.64,
+            "end": 2.84
+          },
+          {
+            "word": "incroyable.",
+            "start": 2.84,
+            "end": 3.14
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 3.36,
+            "text": " C'est fou, vrai, incroyable.",
+            "tokens": [
+              50365,
+              383,
+              6,
+              377,
+              32012,
+              11,
+              17815,
+              11,
+              834,
+              45976,
+              13,
+              50533
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.15426438,
+            "compression_ratio": 0.7777778,
+            "no_speech_prob": 0.0032660349
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kpxkra28e9atraqyt7d4ndj2"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 12,
+      "source_start_seconds": 47.02,
+      "source_end_seconds": 48.43,
+      "duration_seconds": 1.4099999999999966,
+      "resolution": "local",
+      "word_count": 4,
+      "segment_count": 1,
+      "text": "Abonnez-vous à la chaîne",
+      "transcription": {
+        "text": " Abonnez-vous à la chaîne",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 1.41,
+        "words": [
+          {
+            "word": "Abonnez-vous",
+            "start": 0.34,
+            "end": 0.74
+          },
+          {
+            "word": "à",
+            "start": 0.74,
+            "end": 0.82
+          },
+          {
+            "word": "la",
+            "start": 0.82,
+            "end": 0.96
+          },
+          {
+            "word": "chaîne",
+            "start": 0.96,
+            "end": 1.22
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 1.42,
+            "text": " Abonnez-vous à la chaîne",
+            "tokens": [
+              50365,
+              2847,
+              22419,
+              89,
+              12,
+              16514,
+              1531,
+              635,
+              28036,
+              50436
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.16769637,
+            "compression_ratio": 0.7647059,
+            "no_speech_prob": 0.029782409
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kpxkrah2easbxe3rk280637h"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 13,
+      "source_start_seconds": 50.12,
+      "source_end_seconds": 51.93,
+      "duration_seconds": 1.8100000000000023,
+      "resolution": "local",
+      "word_count": 4,
+      "segment_count": 1,
+      "text": "Abonnez-vous à la chaîne",
+      "transcription": {
+        "text": " Abonnez-vous à la chaîne",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 1.81,
+        "words": [
+          {
+            "word": "Abonnez-vous",
+            "start": 0.36,
+            "end": 0.84
+          },
+          {
+            "word": "à",
+            "start": 0.84,
+            "end": 1.12
+          },
+          {
+            "word": "la",
+            "start": 1.12,
+            "end": 1.3
+          },
+          {
+            "word": "chaîne",
+            "start": 1.3,
+            "end": 1.56
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 1.82,
+            "text": " Abonnez-vous à la chaîne",
+            "tokens": [
+              50365,
+              2847,
+              22419,
+              89,
+              12,
+              16514,
+              1531,
+              635,
+              28036,
+              50456
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.14942966,
+            "compression_ratio": 0.7647059,
+            "no_speech_prob": 0.047527295
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kpxkrawpe9h9ryk0svmakhn4"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 14,
+      "source_start_seconds": 52.22,
+      "source_end_seconds": 54.18,
+      "duration_seconds": 1.9600000000000009,
+      "resolution": "local",
+      "word_count": 4,
+      "segment_count": 1,
+      "text": "Abonnez-vous à la chaîne !",
+      "transcription": {
+        "text": " Abonnez-vous à la chaîne !",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 1.96,
+        "words": [
+          {
+            "word": "Abonnez-vous",
+            "start": 0.4,
+            "end": 0.9
+          },
+          {
+            "word": "à",
+            "start": 0.9,
+            "end": 1.28
+          },
+          {
+            "word": "la",
+            "start": 1.28,
+            "end": 1.48
+          },
+          {
+            "word": "chaîne !",
+            "start": 1.48,
+            "end": 2.18
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 1.96,
+            "text": " Abonnez-vous à la chaîne !",
+            "tokens": [
+              50365,
+              2847,
+              22419,
+              89,
+              12,
+              16514,
+              1531,
+              635,
+              28036,
+              2298,
+              50463
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.19241619,
+            "compression_ratio": 0.7777778,
+            "no_speech_prob": 0.011577441
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kpxkrb85eavrrvtgh78pneea"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 15,
+      "source_start_seconds": 55.32,
+      "source_end_seconds": 59.03,
+      "duration_seconds": 3.710000000000001,
+      "resolution": "local",
+      "word_count": 9,
+      "segment_count": 1,
+      "text": "Abonnez-vous à la chaîne, faites-nous un don sur Tipeee",
+      "transcription": {
+        "text": " Abonnez-vous à la chaîne, faites-nous un don sur Tipeee",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 3.71,
+        "words": [
+          {
+            "word": "Abonnez-vous",
+            "start": 0.26,
+            "end": 0.74
+          },
+          {
+            "word": "à",
+            "start": 0.74,
+            "end": 1.02
+          },
+          {
+            "word": "la",
+            "start": 1.02,
+            "end": 1.2
+          },
+          {
+            "word": "chaîne,",
+            "start": 1.2,
+            "end": 1.98
+          },
+          {
+            "word": "faites-nous",
+            "start": 1.98,
+            "end": 2.24
+          },
+          {
+            "word": "un",
+            "start": 2.24,
+            "end": 2.4
+          },
+          {
+            "word": "don",
+            "start": 2.4,
+            "end": 2.7
+          },
+          {
+            "word": "sur",
+            "start": 2.7,
+            "end": 3.06
+          },
+          {
+            "word": "Tipeee",
+            "start": 3.06,
+            "end": 3.48
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 3.72,
+            "text": " Abonnez-vous à la chaîne, faites-nous un don sur Tipeee",
+            "tokens": [
+              50365,
+              2847,
+              22419,
+              89,
+              12,
+              16514,
+              1531,
+              635,
+              28036,
+              11,
+              29902,
+              12,
+              47008,
+              517,
+              500,
+              1022,
+              314,
+              6527,
+              1653,
+              50551
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.15625241,
+            "compression_ratio": 0.9047619,
+            "no_speech_prob": 0.0042600296
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kpxkrbh1e9m8z1srak3s9whv"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 16,
+      "source_start_seconds": 59.32,
+      "source_end_seconds": 61.83,
+      "duration_seconds": 2.509999999999998,
+      "resolution": "local",
+      "word_count": 7,
+      "segment_count": 1,
+      "text": "Et puis allez voir notre page Twitter.",
+      "transcription": {
+        "text": " Et puis allez voir notre page Twitter.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 2.51,
+        "words": [
+          {
+            "word": "Et",
+            "start": 0.18,
+            "end": 0.3
+          },
+          {
+            "word": "puis",
+            "start": 0.3,
+            "end": 0.52
+          },
+          {
+            "word": "allez",
+            "start": 0.52,
+            "end": 0.82
+          },
+          {
+            "word": "voir",
+            "start": 0.82,
+            "end": 0.96
+          },
+          {
+            "word": "notre",
+            "start": 0.96,
+            "end": 1.16
+          },
+          {
+            "word": "page",
+            "start": 1.16,
+            "end": 1.66
+          },
+          {
+            "word": "Twitter.",
+            "start": 1.66,
+            "end": 2.08
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 2.52,
+            "text": " Et puis allez voir notre page Twitter.",
+            "tokens": [
+              50365,
+              3790,
+              9093,
+              18146,
+              10695,
+              10349,
+              3028,
+              5794,
+              13,
+              50491
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.25044098,
+            "compression_ratio": 0.82608694,
+            "no_speech_prob": 0.008891493
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kpxkrbz7e9pv6raq7bjpxe7g"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 17,
+      "source_start_seconds": 62.42,
+      "source_end_seconds": 63.73,
+      "duration_seconds": 1.3099999999999952,
+      "resolution": "local",
+      "word_count": 2,
+      "segment_count": 1,
+      "text": "Et enfin...",
+      "transcription": {
+        "text": " Et enfin...",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 1.31,
+        "words": [
+          {
+            "word": "Et",
+            "start": 0.28,
+            "end": 0.46
+          },
+          {
+            "word": "enfin...",
+            "start": 0.46,
+            "end": 1.1
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 1.32,
+            "text": " Et enfin...",
+            "tokens": [
+              50365,
+              3790,
+              25059,
+              485,
+              50431
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.55115235,
+            "compression_ratio": 0.57894737,
+            "no_speech_prob": 0.017620996
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kpxkrc7jeb3tanx7c3yc52fh"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 18,
+      "source_start_seconds": 64.47,
+      "source_end_seconds": 67.28,
+      "duration_seconds": 2.8100000000000023,
+      "resolution": "local",
+      "word_count": 4,
+      "segment_count": 1,
+      "text": "Et rendez-vous sur NicolasKage.com",
+      "transcription": {
+        "text": " Et rendez-vous sur NicolasKage.com",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 2.81,
+        "words": [
+          {
+            "word": "Et",
+            "start": 0.32,
+            "end": 0.46
+          },
+          {
+            "word": "rendez-vous",
+            "start": 0.46,
+            "end": 1.12
+          },
+          {
+            "word": "sur",
+            "start": 1.12,
+            "end": 1.46
+          },
+          {
+            "word": "NicolasKage.com",
+            "start": 1.46,
+            "end": 2.56
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 2.82,
+            "text": " Et rendez-vous sur NicolasKage.com",
+            "tokens": [
+              50365,
+              3790,
+              40026,
+              12,
+              16514,
+              1022,
+              38268,
+              42,
+              609,
+              13,
+              1112,
+              50506
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.35968944,
+            "compression_ratio": 0.8095238,
+            "no_speech_prob": 0.069555
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kpxkrcfdeb4tg00b3h80zdkf"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 19,
+      "source_start_seconds": 70.27,
+      "source_end_seconds": 72.93,
+      "duration_seconds": 2.660000000000011,
+      "resolution": "local",
+      "word_count": 10,
+      "segment_count": 1,
+      "text": "C'est tout ? Oui, c'est tout ce que j'avais à dire.",
+      "transcription": {
+        "text": " C'est tout ? Oui, c'est tout ce que j'avais à dire.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 2.66,
+        "words": [
+          {
+            "word": "C'est",
+            "start": 0,
+            "end": 0.22
+          },
+          {
+            "word": "tout ?",
+            "start": 0.22,
+            "end": 0.76
+          },
+          {
+            "word": "Oui,",
+            "start": 0.76,
+            "end": 1.1
+          },
+          {
+            "word": "c'est",
+            "start": 1.1,
+            "end": 1.24
+          },
+          {
+            "word": "tout",
+            "start": 1.24,
+            "end": 1.38
+          },
+          {
+            "word": "ce",
+            "start": 1.38,
+            "end": 1.44
+          },
+          {
+            "word": "que",
+            "start": 1.44,
+            "end": 1.6
+          },
+          {
+            "word": "j'avais",
+            "start": 1.6,
+            "end": 1.72
+          },
+          {
+            "word": "à",
+            "start": 1.72,
+            "end": 1.84
+          },
+          {
+            "word": "dire.",
+            "start": 1.84,
+            "end": 2.8
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 2.32,
+            "text": " C'est tout ? Oui, c'est tout ce que j'avais à dire.",
+            "tokens": [
+              50365,
+              383,
+              6,
+              377,
+              3486,
+              2506,
+              14005,
+              11,
+              269,
+              6,
+              377,
+              3486,
+              1769,
+              631,
+              361,
+              6,
+              18866,
+              1531,
+              1264,
+              13,
+              50481
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.15250164,
+            "compression_ratio": 1,
+            "no_speech_prob": 0.008606007
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kpxkrct6e9v89jbevvxbq8qm"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 20,
+      "source_start_seconds": 74.16999999999999,
+      "source_end_seconds": 75.53,
+      "duration_seconds": 1.3600000000000136,
+      "resolution": "local",
+      "word_count": 5,
+      "segment_count": 1,
+      "text": "C'est une très bonne journée.",
+      "transcription": {
+        "text": " C'est une très bonne journée.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 1.3599999999999999,
+        "words": [
+          {
+            "word": "C'est",
+            "start": 0.2,
+            "end": 0.46
+          },
+          {
+            "word": "une",
+            "start": 0.46,
+            "end": 0.56
+          },
+          {
+            "word": "très",
+            "start": 0.56,
+            "end": 0.78
+          },
+          {
+            "word": "bonne",
+            "start": 0.78,
+            "end": 0.88
+          },
+          {
+            "word": "journée.",
+            "start": 0.88,
+            "end": 1.6
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 1.12,
+            "text": " C'est une très bonne journée.",
+            "tokens": [
+              50365,
+              383,
+              6,
+              377,
+              2251,
+              5732,
+              20577,
+              34277,
+              13,
+              50421
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.27553084,
+            "compression_ratio": 0.81578946,
+            "no_speech_prob": 0.018657405
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kpxkrd9ee9xb2mxpg5tw7fs4"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 21,
+      "source_start_seconds": 76.52,
+      "source_end_seconds": 77.93,
+      "duration_seconds": 1.4100000000000108,
+      "resolution": "local",
+      "word_count": 4,
+      "segment_count": 1,
+      "text": "Passez une bonne journée.",
+      "transcription": {
+        "text": " Passez une bonne journée.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 1.41,
+        "words": [
+          {
+            "word": "Passez",
+            "start": 0.24,
+            "end": 0.64
+          },
+          {
+            "word": "une",
+            "start": 0.64,
+            "end": 0.78
+          },
+          {
+            "word": "bonne",
+            "start": 0.78,
+            "end": 0.94
+          },
+          {
+            "word": "journée.",
+            "start": 0.94,
+            "end": 1.2
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 1.24,
+            "text": " Passez une bonne journée.",
+            "tokens": [
+              50365,
+              430,
+              8604,
+              89,
+              2251,
+              20577,
+              34277,
+              13,
+              50427
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.24924287,
+            "compression_ratio": 0.7878788,
+            "no_speech_prob": 0.011292464
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kpxkrgm7ecesg6115w3b2tj5"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 22,
+      "source_start_seconds": 79.97,
+      "source_end_seconds": 81.13000000000001,
+      "duration_seconds": 1.1600000000000108,
+      "resolution": "local",
+      "word_count": 5,
+      "segment_count": 1,
+      "text": "C'est une très bonne journée.",
+      "transcription": {
+        "text": " C'est une très bonne journée.",
+        "task": "transcribe",
+        "language": "French",
+        "duration": 1.16,
+        "words": [
+          {
+            "word": "C'est",
+            "start": 0.28,
+            "end": 0.46
+          },
+          {
+            "word": "une",
+            "start": 0.46,
+            "end": 0.6
+          },
+          {
+            "word": "très",
+            "start": 0.6,
+            "end": 0.72
+          },
+          {
+            "word": "bonne",
+            "start": 0.72,
+            "end": 0.8
+          },
+          {
+            "word": "journée.",
+            "start": 0.8,
+            "end": 1.16
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 1.16,
+            "text": " C'est une très bonne journée.",
+            "tokens": [
+              50365,
+              383,
+              6,
+              377,
+              2251,
+              5732,
+              20577,
+              34277,
+              13,
+              50423
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.25035033,
+            "compression_ratio": 0.81578946,
+            "no_speech_prob": 0.00203419
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kpxkrkzwebbbsphtkv9rqwba"
+        },
+        "_resolution": "local"
+      }
+    },
+    {
+      "clip_id": 23,
+      "source_start_seconds": 82.57,
+      "source_end_seconds": 83.28,
+      "duration_seconds": 0.710000000000008,
+      "resolution": "local",
+      "word_count": 2,
+      "segment_count": 1,
+      "text": "Thank you.",
+      "transcription": {
+        "text": " Thank you.",
+        "task": "transcribe",
+        "language": "English",
+        "duration": 0.71,
+        "words": [
+          {
+            "word": "Thank",
+            "start": 0,
+            "end": 0.56
+          },
+          {
+            "word": "you.",
+            "start": 0.56,
+            "end": 1.16
+          }
+        ],
+        "segments": [
+          {
+            "id": 0,
+            "seek": 0,
+            "start": 0,
+            "end": 0.68,
+            "text": " Thank you.",
+            "tokens": [
+              50365,
+              1044,
+              291,
+              13,
+              50399
+            ],
+            "temperature": 0,
+            "avg_logprob": -0.6659209,
+            "compression_ratio": 0.5555556,
+            "no_speech_prob": 0.9498373
+          }
+        ],
+        "x_groq": {
+          "id": "req_01kpxkrqb2ebyraeajhaf1ggsn"
+        },
+        "_resolution": "local"
+      }
+    }
+  ]
+}

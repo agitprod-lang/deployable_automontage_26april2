@@ -1,0 +1,20 @@
+{
+  "source_csv": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/output/second_comparser_output/nicolascage_20260426_181230_groq_html_comparison.csv",
+  "videos": [
+    {
+      "id": 1,
+      "value": "0%",
+      "normalized_percent": 0.0,
+      "display_text": "0%",
+      "video_path": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/Insert/00h00m24s167ms_1_percent_001_PCT.mov",
+      "row_index": 6,
+      "transcript_number": "11",
+      "start_timecode": "00:00:18:20",
+      "end_timecode": "00:00:25:03",
+      "start_seconds": 18.8,
+      "end_seconds": 25.12,
+      "source_text": "en Mongolie. Nicolas Cage devra rendre le fossile et il sera remboursé à 0%.",
+      "success": true
+    }
+  ]
+}

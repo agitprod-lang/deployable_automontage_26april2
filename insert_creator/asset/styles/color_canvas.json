@@ -1,0 +1,40 @@
+{
+  "version": 8,
+  "name": "Color Canvas",
+  "sources": {
+    "base-raster": {
+      "type": "raster",
+      "tiles": [
+        "https://cartodb-basemaps-a.global.ssl.fastly.net/rastertiles/voyager_nolabels/{z}/{x}/{y}.png",
+        "https://cartodb-basemaps-b.global.ssl.fastly.net/rastertiles/voyager_nolabels/{z}/{x}/{y}.png",
+        "https://cartodb-basemaps-c.global.ssl.fastly.net/rastertiles/voyager_nolabels/{z}/{x}/{y}.png",
+        "https://cartodb-basemaps-d.global.ssl.fastly.net/rastertiles/voyager_nolabels/{z}/{x}/{y}.png"
+      ],
+      "tileSize": 256,
+      "attribution": "© CARTO & OpenStreetMap contributors"
+    }
+  },
+  "layers": [
+    {
+      "id": "background",
+      "type": "background",
+      "paint": {
+        "background-color": "#03111e"
+      }
+    },
+    {
+      "id": "base-raster",
+      "type": "raster",
+      "source": "base-raster",
+      "minzoom": 0,
+      "maxzoom": 18,
+      "paint": {
+        "raster-opacity": 0.95,
+        "raster-brightness-min": 0.3,
+        "raster-brightness-max": 1.0,
+        "raster-contrast": 0.25,
+        "raster-saturation": 0.25
+      }
+    }
+  ]
+}

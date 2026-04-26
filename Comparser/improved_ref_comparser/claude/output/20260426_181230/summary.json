@@ -1,0 +1,153 @@
+{
+  "inputs": {
+    "csv": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/groq/output/no_clap_output/26_18_11_59.csv",
+    "html": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/swisser/Universal_pipe/html/nicolascagepages09.html",
+    "words": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/groq/output/no_clap_output/26_18_11_59_words.csv"
+  },
+  "outputs": {
+    "00": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/improved_ref_comparser/claude/output/20260426_181230/00_segmented.csv",
+    "01": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/improved_ref_comparser/claude/output/20260426_181230/01_marked_silence.csv",
+    "02": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/improved_ref_comparser/claude/output/20260426_181230/02_repetition_groups.csv",
+    "03": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/improved_ref_comparser/claude/output/20260426_181230/03_validated_repetitions.csv",
+    "04": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/improved_ref_comparser/claude/output/20260426_181230/04_anchor_map.csv",
+    "05": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/improved_ref_comparser/claude/output/20260426_181230/05_aligned.csv",
+    "06": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/improved_ref_comparser/claude/output/20260426_181230/06_reviewed.csv",
+    "07": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/improved_ref_comparser/claude/output/20260426_181230/07_step1_compat.csv",
+    "07_step2_input": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/improved_ref_comparser/claude/output/20260426_181230/07_step1_step2_input.csv",
+    "07_diagnostic": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/improved_ref_comparser/claude/output/20260426_181230/07_step1_diagnostic.csv",
+    "08": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/improved_ref_comparser/claude/output/20260426_181230/08_ref_features.csv",
+    "09": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/improved_ref_comparser/claude/output/20260426_181230/09_semantic_enriched.csv",
+    "10": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/improved_ref_comparser/claude/output/20260426_181230/10_ref_leftovers.csv",
+    "11": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/improved_ref_comparser/claude/output/20260426_181230/11_word_timeline.csv",
+    "12": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/improved_ref_comparser/claude/output/20260426_181230/12_edit_timeline.csv",
+    "13_annotations": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/improved_ref_comparser/claude/output/20260426_181230/13_precise_annotations.csv",
+    "13_candidates": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/improved_ref_comparser/claude/output/20260426_181230/13_illustration_candidates.csv",
+    "13": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/improved_ref_comparser/claude/output/20260426_181230/13_precise_comparer.csv"
+  },
+  "step1_xml_ready_csv": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/improved_ref_comparser/claude/output/20260426_181230/07_step1_compat.csv",
+  "step1_step2_input_csv": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/improved_ref_comparser/claude/output/20260426_181230/07_step1_step2_input.csv",
+  "step1_diagnostic_csv": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/improved_ref_comparser/claude/output/20260426_181230/07_step1_diagnostic.csv",
+  "stages": {
+    "00": {
+      "source": "words",
+      "rows": 45,
+      "speech_rows": 23,
+      "silence_rows": 22,
+      "eliminated_rows": 0,
+      "matched_rows": 0,
+      "anchor_rows": 0
+    },
+    "01": {
+      "rows": 45,
+      "speech_rows": 23,
+      "silence_rows": 22,
+      "eliminated_rows": 22,
+      "matched_rows": 0,
+      "anchor_rows": 0
+    },
+    "02": {
+      "rows": 45,
+      "speech_rows": 23,
+      "silence_rows": 22,
+      "eliminated_rows": 22,
+      "matched_rows": 0,
+      "anchor_rows": 0,
+      "repetition_groups": 3
+    },
+    "03": {
+      "rows": 45,
+      "speech_rows": 23,
+      "silence_rows": 22,
+      "eliminated_rows": 27,
+      "matched_rows": 0,
+      "anchor_rows": 0,
+      "validated_repetition_groups": 3
+    },
+    "04": {
+      "rows": 45,
+      "speech_rows": 23,
+      "silence_rows": 22,
+      "eliminated_rows": 27,
+      "matched_rows": 3,
+      "anchor_rows": 3,
+      "anchors": 3
+    },
+    "05": {
+      "rows": 45,
+      "speech_rows": 23,
+      "silence_rows": 22,
+      "eliminated_rows": 31,
+      "matched_rows": 14,
+      "anchor_rows": 3,
+      "unmatched_ref_spans": 0
+    },
+    "06": {
+      "rows": 45,
+      "speech_rows": 23,
+      "silence_rows": 22,
+      "eliminated_rows": 31,
+      "matched_rows": 14,
+      "anchor_rows": 3,
+      "claude_reviewed_rows": 0
+    },
+    "07": {
+      "compat_rows": 23,
+      "step2_input_rows": 23,
+      "diagnostic_rows": 45
+    },
+    "08": {
+      "rows": 23,
+      "kept_rows": 14,
+      "eliminated_rows": 9,
+      "titled_rows": 1,
+      "video_link_rows": 1,
+      "titles_detected": 1,
+      "excerpt_video_links": 0,
+      "direct_video_links": 1
+    },
+    "09": {
+      "rows": 23,
+      "kept_rows": 14,
+      "language": "fr",
+      "titles_detected": 1,
+      "news_rows": 1
+    },
+    "10": {
+      "leftover_ref_spans": 0
+    },
+    "11": {
+      "timeline_rows": 214,
+      "exact_timing_entries": 184,
+      "interpolated_entries": 0
+    },
+    "12": {
+      "timeline_rows": 140,
+      "removed_intervals": 14
+    },
+    "13": {
+      "precise_comparer_rows": 23,
+      "precise_annotations": 33,
+      "illustration_candidates": 18
+    }
+  },
+  "final": {
+    "rows": 45,
+    "speech_rows": 23,
+    "silence_rows": 22,
+    "eliminated_rows": 31,
+    "matched_rows": 14,
+    "anchor_rows": 3,
+    "leftover_ref_spans": 0,
+    "frame_rate": 30.0
+  },
+  "summary_path": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/improved_ref_comparser/claude/output/20260426_181230/summary.json",
+  "precise_comparer_csv": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/improved_ref_comparser/claude/output/20260426_181230/13_precise_comparer.csv",
+  "precise_annotations_csv": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/improved_ref_comparser/claude/output/20260426_181230/13_precise_annotations.csv",
+  "illustration_candidates_csv": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/improved_ref_comparser/claude/output/20260426_181230/13_illustration_candidates.csv",
+  "enriched_csv": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/improved_ref_comparser/claude/output/20260426_181230/09_semantic_enriched.csv",
+  "ref_leftovers_csv": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/improved_ref_comparser/claude/output/20260426_181230/10_ref_leftovers.csv",
+  "word_timeline_csv": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/improved_ref_comparser/claude/output/20260426_181230/11_word_timeline.csv",
+  "word_timeline_json": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/improved_ref_comparser/claude/output/20260426_181230/11_word_timeline.json",
+  "edit_timeline_csv": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/improved_ref_comparser/claude/output/20260426_181230/12_edit_timeline.csv",
+  "edit_timeline_json": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Comparser/improved_ref_comparser/claude/output/20260426_181230/12_edit_timeline.json"
+}

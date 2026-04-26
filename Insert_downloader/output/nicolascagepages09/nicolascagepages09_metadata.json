@@ -1,0 +1,47 @@
+{
+  "input_file": "/Users/mathieusandana/Desktop/code/deployable_auto-montage/Insert_downloader/input/nicolascagepages09.html",
+  "document_title": null,
+  "entries": [
+    {
+      "label": "qui voulait aussi le fossile.",
+      "type": "image",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Ammonite_cat.JPG",
+      "source": "upload.wikimedia.org",
+      "title": "qui voulait aussi le fossile.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Ammonite_cat.JPG",
+      "generated_insert_video": "output/nicolascagepages09/Ammonite_cat_downloaded_polaroid_insert.mov",
+      "error": null,
+      "downloaded_file": "output/nicolascagepages09/Ammonite_cat_downloaded_polaroid_insert.mov",
+      "insert_index": 1
+    },
+    {
+      "label": "es journaux en parle",
+      "type": "article",
+      "source_url": "https://www.rtl.fr/culture/cine-series/volee-a-nicolas-cage-disparue-pendant-11-ans-la-folle-histoire-d-une-edition-collector-du-premier-comics-superman-vendue-a-15-millions-de-dollars-7900587453",
+      "source": "www.rtl.fr",
+      "title": "RTL",
+      "description": "Une édition collector d'Action Comics, parue en 1938, a été vendue aux enchères vendredi 9 janvier. Ce comics avait introduit pour la première fois Superman au grand public.",
+      "excerpt": "1 min de lecture\n\nNicolas Cage au 70ème festival de Venise le 30 août 2013\n\nCrédit : AFP\n\nMarine Langlois\n\nPlusieurs millions de dollars pour Superman ? Une copie rare du premier numéro d'Action Comics parue en 1938 vient d'être vendue pour 15 millions de dollars à un collectionneur anonyme lors d'une vente aux enchères vendredi 9 janvier. Seulement une centaine de copies existent de ce précieux sésame qui a introduit le célèbre héros DC au grand public.",
+      "error": null,
+      "article_metadata": "output/nicolascagepages09/articles/nicolascagepages09_03_article.json",
+      "article_snapshot": "output/nicolascagepages09/articles/3_Extrait@www_rtl_fr_web_RTL.md",
+      "article_html": "output/nicolascagepages09/articles/3_Article@www_rtl_fr_web_RTL.html",
+      "author": "Marine Langlois, Marine Langlois publié le à",
+      "published": "2026-01-11T18:32:20Z",
+      "logo_file": "output/nicolascagepages09/articles/3_Logo@www_rtl_fr_web_RTL.png",
+      "title_card_video": "output/nicolascagepages09/title_cards/3_Titre@www_rtl_fr_web_RTL.mov",
+      "title_card_image": null,
+      "insert_index": 3
+    },
+    {
+      "label": "Et même des video qui ont marqué l’histoire",
+      "type": "video",
+      "source_url": "https://www.youtube.com/watch?v=GNEzg5pRJzA",
+      "source": "www.youtube.com",
+      "title": "Every time Nicolas Cage goes completely insane in FACE/OFF (1997)",
+      "uploader": "Ham Sandwiche",
+      "downloaded_file": "output/nicolascagepages09/5_@ham_sandwiche_ytb_Every_time_Nicolas_Cage_goes_completely_insane_in_FACE_OFF_1997.mp4",
+      "insert_index": 5
+    }
+  ]
+}

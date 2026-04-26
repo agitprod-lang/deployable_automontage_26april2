@@ -1,0 +1,10 @@
+{
+  "entry_id": 1,
+  "asset_category": "ransom_gifs",
+  "start_seconds": 30.167,
+  "end_seconds": 33.0,
+  "asset_mode": "single_title_mov",
+  "show_from_seconds": 1.0,
+  "show_until_seconds": 4.0,
+  "visible_duration_seconds": 3.0
+}

@@ -1,0 +1,46 @@
+Row ID;Kind;Start Time;End Time;Text;Eliminate;Eliminate Reason;Repeat Group;Repeat Role;Reference Segment;Match %;Status;Anchor ID;Notes
+1;speech;00:00:00:15;00:00:05:19;On est en janvier 2012, l'acteur Nicolas Cage participe à une enchère secrète à Washington;;;;;;;;;segment_source=words | word_range=0-14
+2;silence;00:00:05:19;00:00:06:17;;x;SILENCE;;;;;SILENCE;;segment_source=words
+3;speech;00:00:06:17;00:00:09:21;Dans la salle, il y a un cheval, il y a un chien et il y a un cerf-volant.;;;;;;;;;segment_source=words | word_range=15-33
+4;silence;00:00:09:21;00:00:10:18;;x;SILENCE;;;;;SILENCE;;segment_source=words
+5;speech;00:00:10:18;00:00:15:06;Il achète un fossile de dinosaure pour 270 000 dollars.;;;;;;;;;segment_source=words | word_range=34-43
+6;silence;00:00:15:06;00:00:16:15;;x;SILENCE;;;;;SILENCE;;segment_source=words
+7;speech;00:00:16:15;00:00:20:02;Il passe devant Leonardo DiCaprio qui voulait aussi le Fossil.;;;;;;;;;segment_source=words | word_range=44-53
+8;silence;00:00:20:02;00:00:20:19;;x;SILENCE;;;;;SILENCE;;segment_source=words
+9;speech;00:00:20:19;00:00:22:11;Mais le fossile a en fait été volé.;;;;;;;;;segment_source=words | word_range=54-61
+10;silence;00:00:22:11;00:00:23:01;;x;SILENCE;;;;;SILENCE;;segment_source=words
+11;speech;00:00:23:01;00:00:29:14;en Mongolie. Nicolas Cage devra rendre le fossile et il sera remboursé à 0%.;;;;;;;;;segment_source=words | word_range=62-75
+12;silence;00:00:29:14;00:00:31:08;;x;SILENCE;;;;;SILENCE;;segment_source=words
+13;speech;00:00:31:08;00:00:32:19;Tous les journaux en parlent.;;;;;;;;;segment_source=words | word_range=76-80
+14;silence;00:00:32:19;00:00:33:11;;x;SILENCE;;;;;SILENCE;;segment_source=words
+15;speech;00:00:33:11;00:00:35:18;Il y a même des photos qui sortent;x;BAD_TAKE_PRE_REPEAT;REP001;PRE_REPEAT;;;PRE_REPEAT_ELIMINATED;;repeat_core=il y a meme des photos qui sortent | repeat_selected_ref_span=9-9 | repeat_suffix_size=1 | segment_source=words | word_range=81-88
+16;silence;00:00:35:18;00:00:36:17;;x;SILENCE;;;;;SILENCE;;segment_source=words
+17;speech;00:00:36:17;00:00:38:16;Il y a même des photos qui sortent.;;;REP001;LAST_TAKE;;;LAST_TAKE_KEEP;;repeat_core=il y a meme des photos qui sortent | repeat_selected_ref_span=9-9 | repeat_suffix_size=1 | segment_source=words | word_range=89-96
+18;silence;00:00:38:16;00:00:39:22;;x;SILENCE;;;;;SILENCE;;segment_source=words
+19;speech;00:00:39:22;00:00:41:14;et même des vidéos qui ont marqué l'histoire.;;;;;;;;;segment_source=words | word_range=97-104
+20;silence;00:00:41:14;00:00:43:05;;x;SILENCE;;;;;SILENCE;;segment_source=words
+21;speech;00:00:43:05;00:00:46:00;C'est fou, vrai, incroyable.;;;;;;;;;segment_source=words | word_range=105-108
+22;silence;00:00:46:00;00:00:47:09;;x;SILENCE;;;;;SILENCE;;segment_source=words
+23;speech;00:00:47:09;00:00:48:06;Abonnez-vous à la chaîne;x;BAD_TAKE_PRE_REPEAT;REP002;PRE_REPEAT;;;PRE_REPEAT_ELIMINATED;;repeat_core=abonnez vous a la chaine | repeat_selected_ref_span=13-14 | repeat_suffix_size=1 | segment_source=words | word_range=109-112
+24;silence;00:00:48:06;00:00:50:12;;x;SILENCE;;;;;SILENCE;;segment_source=words
+25;speech;00:00:50:12;00:00:51:16;Abonnez-vous à la chaîne;x;BAD_TAKE_PRE_REPEAT;REP002;PRE_REPEAT;;;PRE_REPEAT_ELIMINATED;;repeat_core=abonnez vous a la chaine | repeat_selected_ref_span=13-14 | repeat_suffix_size=1 | segment_source=words | word_range=113-116
+26;silence;00:00:51:16;00:00:52:15;;x;SILENCE;;;;;SILENCE;;segment_source=words
+27;speech;00:00:52:15;00:00:54:10;Abonnez-vous à la chaîne !;x;BAD_TAKE_PRE_REPEAT;REP002;PRE_REPEAT;;;PRE_REPEAT_ELIMINATED;;repeat_core=abonnez vous a la chaine | repeat_selected_ref_span=13-14 | repeat_suffix_size=1 | segment_source=words | word_range=117-120
+28;silence;00:00:54:10;00:00:55:14;;x;SILENCE;;;;;SILENCE;;segment_source=words
+29;speech;00:00:55:14;00:00:58:19;Abonnez-vous à la chaîne, faites-nous un don sur Tipeee;;;REP002;LAST_TAKE;;;LAST_TAKE_KEEP;;repeat_core=abonnez vous a la chaine | repeat_selected_ref_span=13-14 | repeat_suffix_size=1 | segment_source=words | word_range=121-129
+30;silence;00:00:58:19;00:00:59:12;;x;SILENCE;;;;;SILENCE;;segment_source=words
+31;speech;00:00:59:12;00:01:01:10;Et puis allez voir notre page Twitter.;;;;;;;;;segment_source=words | word_range=130-136
+32;silence;00:01:01:10;00:01:02:17;;x;SILENCE;;;;;SILENCE;;segment_source=words
+33;speech;00:01:02:17;00:01:03:12;Et enfin...;;;;;;;;;segment_source=words | word_range=137-138
+34;silence;00:01:03:12;00:01:04:19;;x;SILENCE;;;;;SILENCE;;segment_source=words
+35;speech;00:01:04:19;00:01:07:01;Et rendez-vous sur NicolasKage.com;;;;;;;;;segment_source=words | word_range=139-142
+36;silence;00:01:07:01;00:01:10:06;;x;SILENCE;;;;;SILENCE;;segment_source=words
+37;speech;00:01:10:06;00:01:13:02;C'est tout ? Oui, c'est tout ce que j'avais à dire.;;;;;;;;;segment_source=words | word_range=143-152
+38;silence;00:01:13:02;00:01:14:09;;x;SILENCE;;;;;SILENCE;;segment_source=words
+39;speech;00:01:14:09;00:01:15:18;C'est une très bonne journée.;x;BAD_TAKE_PRE_REPEAT;REP003;PRE_REPEAT;;;PRE_REPEAT_ELIMINATED;;repeat_core=c est une tres bonne journee | repeat_selected_ref_span=18-18 | repeat_suffix_size=1 | segment_source=words | word_range=153-157
+40;silence;00:01:15:18;00:01:16:18;;x;SILENCE;;;;;SILENCE;;segment_source=words
+41;speech;00:01:16:18;00:01:17:17;Passez une bonne journée.;;;;;;;;;segment_source=words | word_range=158-161
+42;silence;00:01:17:17;00:01:20:06;;x;SILENCE;;;;;SILENCE;;segment_source=words
+43;speech;00:01:20:06;00:01:21:03;C'est une très bonne journée.;;;REP003;LAST_TAKE;;;LAST_TAKE_KEEP;;repeat_core=c est une tres bonne journee | repeat_selected_ref_span=18-18 | repeat_suffix_size=1 | segment_source=words | word_range=162-166
+44;silence;00:01:21:03;00:01:22:14;;x;SILENCE;;;;;SILENCE;;segment_source=words
+45;speech;00:01:22:14;00:01:23:18;Thank you.;;;;;;;;;segment_source=words | word_range=167-168
